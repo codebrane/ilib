@@ -1,0 +1,102 @@
+[
+  {
+    "name": "BSc(H) Sports & Health Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "8",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Promoting health : a practical guide /",
+                "author": "Ewles, Linda.",
+                "isbn": "0702026638",
+                "url": "http://library.hud.ac.uk/catlink/bib/427239",
+                "publisher": "Bailliáere Tindall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702026638"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702026638"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "7",
+          "book": [
+              {
+                "title": "Physical activity and health : the evidence explained /",
+                "author": "Stensel, David J.",
+                "isbn": "0415270707",
+                "url": "http://library.hud.ac.uk/catlink/bib/432587",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415270707"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415270707"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Your research project : a step-by-step guide for the first-time researcher /",
+                "author": "Walliman, Nicholas S. R.",
+                "isbn": "1412901316",
+                "url": "http://library.hud.ac.uk/catlink/bib/465663",
+                "publisher": "SAGE",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412901316"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412901316"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "ACSM's guidelines for exercise testing and prescription.",
+                "author": "American College of Sports Medicine",
+                "isbn": "078174590X",
+                "url": "http://library.hud.ac.uk/catlink/bib/492247",
+                "publisher": "Lippincott Williams & Wilkins",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=078174590X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/078174590X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exercise in rehabilitation medicine /",
+                "author": "Slovik, David M., 1945-",
+                "isbn": "073605541X",
+                "url": "http://library.hud.ac.uk/catlink/bib/511977",
+                "publisher": "Human Kinetics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=073605541X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/073605541X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

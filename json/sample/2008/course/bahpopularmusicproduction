@@ -1,0 +1,588 @@
+[
+  {
+    "name": "BA(H) Popular Music Production",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "49",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "19",
+          "book": [
+              {
+                "title": "Introduction to Schenkerian analysis /",
+                "author": "Gilbert, Steven E., 1943-1999.",
+                "isbn": "0393951928",
+                "url": "http://library.hud.ac.uk/catlink/bib/203469",
+                "publisher": "Norton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0393951928"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0393951928"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The computer music tutorial /",
+                "author": "Roads, Curtis.",
+                "isbn": "0262181584",
+                "url": "http://library.hud.ac.uk/catlink/bib/229164",
+                "publisher": "MIT Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0262181584"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0262181584"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Music through MIDI : using MIDI to create your own electronic music system /",
+                "author": "Boom, Michael.",
+                "isbn": "1556150261",
+                "url": "http://library.hud.ac.uk/catlink/bib/23447",
+                "publisher": "Microsoft Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556150261"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556150261"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of digital audio and video /",
+                "author": "Luther, Arch C.",
+                "isbn": "0890068925",
+                "url": "http://library.hud.ac.uk/catlink/bib/306324",
+                "publisher": "Artech House",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0890068925"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0890068925"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Audio-vision : sound on screen",
+                "author": "Chion, Michel, 1947-",
+                "isbn": "0231078994",
+                "url": "http://library.hud.ac.uk/catlink/bib/347316",
+                "publisher": "Columbia University Press",
+                "total": "4",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0231078994"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0231078994"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sound design : the expressive power of music, voice, and sound effects in cinema /",
+                "author": "Sonnenschein, David.",
+                "isbn": "0941188264",
+                "url": "http://library.hud.ac.uk/catlink/bib/391686",
+                "publisher": "Michael Wiese Productions",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0941188264"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0941188264"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "How popular musicians learn : a way ahead for music education /",
+                "author": "Green, Lucy.",
+                "isbn": "0754632261",
+                "url": "http://library.hud.ac.uk/catlink/bib/404645",
+                "publisher": "Ashgate",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0754632261"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0754632261"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Pro Tools for music production : recording, editing and mixing /",
+                "author": "Collins, Mike, 1949-",
+                "isbn": "0240519434",
+                "url": "http://library.hud.ac.uk/catlink/bib/425332",
+                "publisher": "Focal",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240519434"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240519434"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sound synthesis and sampling /",
+                "author": "Russ, Martin.",
+                "isbn": "0240516923",
+                "url": "http://library.hud.ac.uk/catlink/bib/428001",
+                "publisher": "Focal Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240516923"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240516923"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Musical instruments : 2.",
+                "author": "Open University. Technology of Music Course Team.",
+                "isbn": "0749258985",
+                "url": "http://library.hud.ac.uk/catlink/bib/433548",
+                "publisher": "Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749258985"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749258985"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "100 modern soundtracks /",
+                "author": "Brophy, Philip.",
+                "isbn": "1844570134",
+                "url": "http://library.hud.ac.uk/catlink/bib/434601",
+                "publisher": "BFI",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844570134"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844570134"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The rough guide to hip-hop /",
+                "author": "Shapiro, Peter, 1969-",
+                "isbn": "1843532638",
+                "url": "http://library.hud.ac.uk/catlink/bib/445258",
+                "publisher": "Rough Guides",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843532638"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843532638"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Making beats : the art of sample-based hip-hop /",
+                "author": "Schloss, Joseph Glenn.",
+                "isbn": "0819566969",
+                "url": "http://library.hud.ac.uk/catlink/bib/446403",
+                "publisher": "Wesleyan University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0819566969"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0819566969"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "19",
+          "book": [
+              {
+                "title": "Problem solving, abstraction, design using C++ /",
+                "author": "Koffman, Elliot B.",
+                "isbn": "0201612771",
+                "url": "http://library.hud.ac.uk/catlink/bib/343992",
+                "publisher": "Addison-Wesley",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0201612771"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0201612771"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The sound on sound book of creative recording / Microphones, acoustics, soundproofing & monitoring.",
+                "author": "White, Paul, 1949-",
+                "isbn": "1860742319",
+                "url": "http://library.hud.ac.uk/catlink/bib/351449",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860742319"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860742319"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sound and recording : an introduction /",
+                "author": "Rumsey, Francis.",
+                "isbn": "024051680X",
+                "url": "http://library.hud.ac.uk/catlink/bib/396466",
+                "publisher": "Focal",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=024051680X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/024051680X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "First steps in music theory : Grades 1 to 5.",
+                "author": "Taylor, Eric, 1928 May 8-",
+                "isbn": "1860960901",
+                "url": "http://library.hud.ac.uk/catlink/bib/407177",
+                "publisher": "Associated Board of the Royal Schools of Music",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860960901"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860960901"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Learn songwriting /",
+                "author": "Hooper, Nigel",
+                "isbn": "0746030460",
+                "url": "http://library.hud.ac.uk/catlink/bib/412204",
+                "publisher": "Usborne",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0746030460"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0746030460"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Creative recording. Effects and processors /",
+                "author": "White, Paul, 1949- Sound on Sound book of creative recording.",
+                "isbn": "1860744567",
+                "url": "http://library.hud.ac.uk/catlink/bib/414875",
+                "publisher": "Sanctuary",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860744567"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860744567"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "C++ programming /",
+                "author": "McGrath, Mike, 1956-",
+                "isbn": "1840782331",
+                "url": "http://library.hud.ac.uk/catlink/bib/436982",
+                "publisher": "In Easy Steps",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1840782331"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1840782331"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern recording techniques /",
+                "author": "Huber, David Miles.",
+                "isbn": "0080468527",
+                "url": "http://library.hud.ac.uk/catlink/bib/446447",
+                "publisher": "Focal",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0080468527"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0080468527"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "C++ programming /",
+                "author": "McGrath, Mike, 1956-",
+                "isbn": "1840782951",
+                "url": "http://library.hud.ac.uk/catlink/bib/492316",
+                "publisher": "Computer Step",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1840782951"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1840782951"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Home recording for musicians for dummies /",
+                "author": "Strong, Jeff.",
+                "isbn": "0764588842",
+                "url": "http://library.hud.ac.uk/catlink/bib/497587",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764588842"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764588842"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sound and recording : an introduction /",
+                "author": "Rumsey, Francis.",
+                "isbn": "0240519965",
+                "url": "http://library.hud.ac.uk/catlink/bib/497624",
+                "publisher": "Elsevier",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240519965"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240519965"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "11",
+          "book": [
+              {
+                "title": "Movie music, the film reader /",
+                "author": "Dickinson, Kay, 1972-",
+                "isbn": "0415281601",
+                "url": "http://library.hud.ac.uk/catlink/bib/423933",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415281601"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415281601"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Audio in the 21st century /",
+                "author": "Janus, Scott.",
+                "isbn": "0971786151",
+                "url": "http://library.hud.ac.uk/catlink/bib/425326",
+                "publisher": "Intel",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0971786151"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0971786151"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Crank it up : live sound secrets of the top tour engineers /",
+                "author": "Young, Clive.",
+                "isbn": "0879307781",
+                "url": "http://library.hud.ac.uk/catlink/bib/430210",
+                "publisher": "Backbeat",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0879307781"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0879307781"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Haunted weather : music, silence and memory /",
+                "author": "Toop, David.",
+                "isbn": "1852428120",
+                "url": "http://library.hud.ac.uk/catlink/bib/433832",
+                "publisher": "Serpent's Tail",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1852428120"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1852428120"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The rough guide to hip-hop /",
+                "author": "Shapiro, Peter, 1969-",
+                "isbn": "1843532638",
+                "url": "http://library.hud.ac.uk/catlink/bib/445258",
+                "publisher": "Rough Guides",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843532638"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843532638"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to a philosophy of music /",
+                "author": "Kivy, Peter",
+                "isbn": "0198250479",
+                "url": "http://library.hud.ac.uk/catlink/bib/455592",
+                "publisher": "Clarendon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198250479"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198250479"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The popular music studies reader /",
+                "author": "Bennett, Andy, 1963-",
+                "isbn": "0415307104",
+                "url": "http://library.hud.ac.uk/catlink/bib/463364",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415307104"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415307104"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Live sound reinforcement :Bestseller edition: a comprehensive guide to P.A. and music reinforcement systems and technology /",
+                "author": "BCI Media.",
+                "isbn": "1592006914",
+                "url": "http://library.hud.ac.uk/catlink/bib/463793",
+                "publisher": "Thomson/Course Technology",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1592006914"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1592006914"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The sound on sound book of MIDI for the technophobe /",
+                "author": "White, Paul, 1949-",
+                "isbn": "1860744443",
+                "url": "http://library.hud.ac.uk/catlink/bib/498419",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860744443"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860744443"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The live sound manual.",
+                "author": "James, Paul.",
+                "isbn": "0879306998",
+                "url": "http://library.hud.ac.uk/catlink/bib/506236",
+                "publisher": "Backbeat",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0879306998"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0879306998"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Concert sound and lighting systems /",
+                "author": "Vasey, John.",
+                "isbn": "0240803647",
+                "url": "http://library.hud.ac.uk/catlink/bib/510594",
+                "publisher": "Focal Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240803647"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240803647"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

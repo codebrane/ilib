@@ -1,0 +1,380 @@
+[
+  {
+    "name": "BSc(H) Occupational Therapy",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "28",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "14",
+          "book": [
+              {
+                "title": "Interprofessional working for health and social care /",
+                "author": "Mathias, Peter.",
+                "isbn": "0333645537",
+                "url": "http://library.hud.ac.uk/catlink/bib/266214",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333645537"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333645537"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Developing questions for focus groups.",
+                "author": "Krueger, Richard A.",
+                "isbn": "0761908196",
+                "url": "http://library.hud.ac.uk/catlink/bib/275605",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761908196"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761908196"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The handbook for focus group research /",
+                "author": "Greenbaum, Thomas L.",
+                "isbn": "0761912533",
+                "url": "http://library.hud.ac.uk/catlink/bib/281870",
+                "publisher": "Sage Publications",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761912533"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761912533"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Developing focus group research : politics, theory and practice /",
+                "author": "Kitzinger, Jenny",
+                "isbn": "0761955674",
+                "url": "http://library.hud.ac.uk/catlink/bib/326436",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761955674"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761955674"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Enhancing adult motivation to learn : a comprehensive guide for teaching all adults /",
+                "author": "Wlodkowski, Raymond J.",
+                "isbn": "0787903604",
+                "url": "http://library.hud.ac.uk/catlink/bib/334838",
+                "publisher": "Jossey-Bass Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0787903604"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0787903604"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Thinking and reasoning in therapy : narratives from practice /",
+                "author": "Ryan, Susan",
+                "isbn": "0748737170",
+                "url": "http://library.hud.ac.uk/catlink/bib/341495",
+                "publisher": "Stanley Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748737170"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748737170"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Focus groups : a practical guide for applied research /",
+                "author": "Casey, Mary Anne",
+                "isbn": "0761920706",
+                "url": "http://library.hud.ac.uk/catlink/bib/351527",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761920706"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761920706"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Evidence-based practice for occupational therapists /",
+                "author": "Taylor, M. Clare.",
+                "isbn": "0632051779",
+                "url": "http://library.hud.ac.uk/catlink/bib/360368",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0632051779"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0632051779"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The motivation handbook /",
+                "author": "Whiddett, Steve.",
+                "isbn": "0852929250",
+                "url": "http://library.hud.ac.uk/catlink/bib/394722",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0852929250"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0852929250"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Primary care in the UK : policy, organisation and management /",
+                "author": "Peckham, Stephen",
+                "isbn": "0333800672",
+                "url": "http://library.hud.ac.uk/catlink/bib/413265",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333800672"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333800672"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Occupation-based practice : fostering performance and participation /",
+                "author": "Law, Mary C.",
+                "isbn": "1556425643",
+                "url": "http://library.hud.ac.uk/catlink/bib/451876",
+                "publisher": "Slack",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556425643"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556425643"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Doing qualitative research : a practical handbook /",
+                "author": "Silverman, David.",
+                "isbn": "1412901979",
+                "url": "http://library.hud.ac.uk/catlink/bib/454273",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412901979"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412901979"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "5",
+          "book": [
+              {
+                "title": "Group dynamics /",
+                "author": "Forsyth, Donelson R., 1953-",
+                "isbn": "0534261485",
+                "url": "http://library.hud.ac.uk/catlink/bib/348193",
+                "publisher": "Brooks/Cole, Wadsworth",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0534261485"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0534261485"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to research in the health sciences /",
+                "author": "Polgar, Stephen.",
+                "isbn": "044306265X",
+                "url": "http://library.hud.ac.uk/catlink/bib/360517",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=044306265X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/044306265X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Occupational therapy and multiple sclerosis /",
+                "author": "Hume, Clephane.",
+                "isbn": "1861563485",
+                "url": "http://library.hud.ac.uk/catlink/bib/428912",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861563485"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861563485"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Group dynamics in occupational therapy : the theoretical basis and practice application of group treatment /",
+                "author": "Cole, Marilyn B., 1945-",
+                "isbn": "1556423829",
+                "url": "http://library.hud.ac.uk/catlink/bib/451653",
+                "publisher": "Slack Incorporated",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556423829"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556423829"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Assessments in occupational therapy mental health : an integrative approach /",
+                "author": "Hemphill-Pearson, Barbara J.",
+                "isbn": "1556422660",
+                "url": "http://library.hud.ac.uk/catlink/bib/451816",
+                "publisher": "Slack",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556422660"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556422660"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Tools for practice in occupational therapy : a structured approach to core skills and processes /",
+                "author": "Hagedorn, Rosemary.",
+                "isbn": "0443061599",
+                "url": "http://library.hud.ac.uk/catlink/bib/360447",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443061599"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443061599"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Occupational therapy : new perspectives /",
+                "author": "Creek, Jennifer",
+                "isbn": "1861560885",
+                "url": "http://library.hud.ac.uk/catlink/bib/428903",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861560885"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861560885"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology and occupational therapy : an integrated approach /",
+                "author": "Jones, Derek, B.A.",
+                "isbn": "0443055157",
+                "url": "http://library.hud.ac.uk/catlink/bib/453096",
+                "publisher": "Churchill Livingstone",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443055157"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443055157"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Enabling occupation : an occupational therapy perspective /",
+                "author": "Canadian Association of Occupational Therapists.",
+                "isbn": "189543758X",
+                "url": "http://library.hud.ac.uk/catlink/bib/451978",
+                "publisher": "Canadian Association of Occupational Therapists",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=189543758X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/189543758X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Occupational therapy activities from clay to computers : theory and practice /",
+                "author": "Breines, Estelle.",
+                "isbn": "0803611455",
+                "url": "http://library.hud.ac.uk/catlink/bib/453400",
+                "publisher": "F.A. Davis Co",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803611455"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803611455"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

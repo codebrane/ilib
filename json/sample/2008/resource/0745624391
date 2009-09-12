@@ -1,0 +1,20 @@
+{
+  "title": "Sociology : introductory readings /",
+  "author": "Giddens, Anthony.",
+  "isbn": "0745624391",
+  "url": "http://library.hud.ac.uk/catlink/bib/381198",
+  "publisher": "Polity",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0745624391",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0745624391"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdSc Police Studies",
+    "id": "fdscpolicestudies"
+    }
+  ]
+}

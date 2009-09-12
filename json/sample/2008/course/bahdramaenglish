@@ -1,0 +1,284 @@
+[
+  {
+    "name": "BA(H) Drama & English",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "18",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "12",
+          "book": [
+              {
+                "title": "The politics of performance : radical theatre as cultural intervention /",
+                "author": "Kershaw, Baz",
+                "isbn": "0415057639",
+                "url": "http://library.hud.ac.uk/catlink/bib/110186",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415057639"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415057639"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Postmodernism : a reader /",
+                "author": "Docherty, Thomas",
+                "isbn": "0745012426",
+                "url": "http://library.hud.ac.uk/catlink/bib/125126",
+                "publisher": "Harvester Wheatsheaf",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745012426"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745012426"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introductory guide to post-structuralism and postmodernism /",
+                "author": "Sarup, Madan.",
+                "isbn": "0745013600",
+                "url": "http://library.hud.ac.uk/catlink/bib/125366",
+                "publisher": "Harvester Wheatsheaf",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745013600"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745013600"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Accidental death of an anarchist /",
+                "author": "Fo, Dario, 1926-",
+                "isbn": "0413156109",
+                "url": "http://library.hud.ac.uk/catlink/bib/205525",
+                "publisher": "Methuen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0413156109"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0413156109"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The postmodern arts : an introductory reader /",
+                "author": "Wheale, Nigel",
+                "isbn": "0415126118",
+                "url": "http://library.hud.ac.uk/catlink/bib/253688",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415126118"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415126118"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "What is post-modernism? /",
+                "author": "Jencks, Charles, 1939-",
+                "isbn": "1854904280",
+                "url": "http://library.hud.ac.uk/catlink/bib/269165",
+                "publisher": "Academy Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854904280"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854904280"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern art : impressionism to post-modernism /",
+                "author": "Britt, David",
+                "isbn": "0500281262",
+                "url": "http://library.hud.ac.uk/catlink/bib/318597",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500281262"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500281262"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The politics of postmodernism /",
+                "author": "Hutcheon, Linda, 1947-",
+                "isbn": "041528015X",
+                "url": "http://library.hud.ac.uk/catlink/bib/402060",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041528015X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041528015X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Body art and performance : the body as language /",
+                "author": "Vergine, Lea",
+                "isbn": "8881186535",
+                "url": "http://library.hud.ac.uk/catlink/bib/416188",
+                "publisher": "Skira Editore",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=8881186535"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/8881186535"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Number games.",
+                "author": "Atkinson, Sue, 1945-",
+                "isbn": "1904307450",
+                "url": "http://library.hud.ac.uk/catlink/bib/430606",
+                "publisher": "Hopscotch Educational",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1904307450"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1904307450"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Including lower-achievers in the maths lesson. Year 3/primary P4 /",
+                "author": "Atkinson, Sue, 1945-",
+                "isbn": "1902239571",
+                "url": "http://library.hud.ac.uk/catlink/bib/430609",
+                "publisher": "Hopscotch Educational.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1902239571"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1902239571"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The art of Bill Viola /",
+                "author": "Townsend, Chris.",
+                "isbn": "0500284725",
+                "url": "http://library.hud.ac.uk/catlink/bib/430225",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500284725"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500284725"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Brodie's notes on Samuel Beckett's Waiting for Godot /",
+                "author": "Currie, W. T.",
+                "isbn": "0330502190",
+                "url": "http://library.hud.ac.uk/catlink/bib/195203",
+                "publisher": "Pan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0330502190"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0330502190"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Plays : 1.",
+                "author": "Cartwright, Jim.",
+                "isbn": "0413702308",
+                "url": "http://library.hud.ac.uk/catlink/bib/342195",
+                "publisher": "Methuen Drama",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0413702308"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0413702308"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Konstantin Stanislavsky /",
+                "author": "Stanislavsky, Konstantin, 1863-1938.",
+                "isbn": "0415258863",
+                "url": "http://library.hud.ac.uk/catlink/bib/452899",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415258863"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415258863"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Theater of the oppressed /",
+                "author": "McBride, Charles A.",
+                "isbn": "0861040813",
+                "url": "http://library.hud.ac.uk/catlink/bib/4546",
+                "publisher": "Pluto Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0861040813"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0861040813"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

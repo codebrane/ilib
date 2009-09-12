@@ -1,0 +1,20 @@
+{
+  "title": "The art of electronics /",
+  "author": "Hill, Winfield",
+  "isbn": "0521370957",
+  "url": "http://library.hud.ac.uk/catlink/bib/116191",
+  "publisher": "Cambridge University Press",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0521370957",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0521370957"
+  },
+  "relatedcourse": [
+  {
+    "name": "MEng Electronic & Electrical Engineering",
+    "id": "mengelectronicelectricalengineering"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "MA History PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Stability and strife : England, 1714-1760 /",
+                "author": "Speck, W. A. (William Arthur), 1938-",
+                "isbn": "071315974X",
+                "url": "http://library.hud.ac.uk/catlink/bib/119796",
+                "publisher": "Edward Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=071315974X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/071315974X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Jacobitism and the '45 /",
+                "author": "Lynch, Michael, 1946-",
+                "isbn": "0852783949",
+                "url": "http://library.hud.ac.uk/catlink/bib/233416",
+                "publisher": "The Historical Association",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0852783949"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0852783949"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "PhD2",
+        "total": "1",
+          "book": [
+              {
+                "title": "The rise of socialism in Britain /",
+                "author": "Laybourn, Keith",
+                "isbn": "075091341X",
+                "url": "http://library.hud.ac.uk/catlink/bib/252953",
+                "publisher": "Sutton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=075091341X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/075091341X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

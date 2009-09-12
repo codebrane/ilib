@@ -1,0 +1,20 @@
+{
+  "title": "Electrotherapy in rehabilitation /",
+  "author": "Gersh, Meryl Roth.",
+  "isbn": "0803640250",
+  "url": "http://library.hud.ac.uk/catlink/bib/267362",
+  "publisher": "F.A. Davis",
+  "total": "3",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0803640250",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0803640250"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Sports Therapy",
+    "id": "bschsportstherapy"
+    }
+  ]
+}

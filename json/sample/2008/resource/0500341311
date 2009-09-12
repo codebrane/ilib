@@ -1,0 +1,20 @@
+{
+  "title": "Water and architecture /",
+  "author": "Lidz, Jane",
+  "isbn": "0500341311",
+  "url": "http://library.hud.ac.uk/catlink/bib/111870",
+  "publisher": "Thames and Hudson",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0500341311",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0500341311"
+  },
+  "relatedcourse": [
+  {
+    "name": "Dip in Architecture/Architecture (International)",
+    "id": "dipinarchitecturearchitectureinternational"
+    }
+  ]
+}

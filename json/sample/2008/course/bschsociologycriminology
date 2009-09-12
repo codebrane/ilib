@@ -1,0 +1,348 @@
+[
+  {
+    "name": "BSc(H) Sociology & Criminology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "25",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "17",
+          "book": [
+              {
+                "title": "Understanding popular culture /",
+                "author": "Fiske, John, 1939-",
+                "isbn": "0415078768",
+                "url": "http://library.hud.ac.uk/catlink/bib/115386",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415078768"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415078768"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cultural theory and popular culture : a reader /",
+                "author": "Storey, John, 1950-",
+                "isbn": "0745015514",
+                "url": "http://library.hud.ac.uk/catlink/bib/125542",
+                "publisher": "Harvester Wheatsheaf",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745015514"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745015514"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Formations of class and gender : becoming respectable /",
+                "author": "Skeggs, Beverley.",
+                "isbn": "0761955119",
+                "url": "http://library.hud.ac.uk/catlink/bib/260224",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761955119"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761955119"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cultural studies : theory and practice /",
+                "author": "Barker, Chris, 1955-",
+                "isbn": "076195774X",
+                "url": "http://library.hud.ac.uk/catlink/bib/345835",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=076195774X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/076195774X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social divisions /",
+                "author": "Payne, Geoff.",
+                "isbn": "033376336X",
+                "url": "http://library.hud.ac.uk/catlink/bib/367878",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=033376336X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/033376336X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern social theory : Key debates and new directions /",
+                "author": "Layder, Derek.",
+                "isbn": "1857283864",
+                "url": "http://library.hud.ac.uk/catlink/bib/374079",
+                "publisher": "UCL Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1857283864"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1857283864"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social theory in the real world /",
+                "author": "Miles, Steven",
+                "isbn": "0761961550",
+                "url": "http://library.hud.ac.uk/catlink/bib/383122",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761961550"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761961550"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cultural theory and popular culture : an introduction /",
+                "author": "Storey, John, 1950-",
+                "isbn": "0582423635",
+                "url": "http://library.hud.ac.uk/catlink/bib/390376",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582423635"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582423635"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The challenge of promoting health : exploration and action /",
+                "author": "Sidell, Moyra",
+                "isbn": "0333949315",
+                "url": "http://library.hud.ac.uk/catlink/bib/412936",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333949315"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333949315"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing social theory /",
+                "author": "Jones, Pip.",
+                "isbn": "074562698X",
+                "url": "http://library.hud.ac.uk/catlink/bib/415890",
+                "publisher": "Polity",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=074562698X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/074562698X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introduction to theories of popular culture /",
+                "author": "Strinati, Dominic.",
+                "isbn": "0415235006",
+                "url": "http://library.hud.ac.uk/catlink/bib/434080",
+                "publisher": "Routledge",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415235006"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415235006"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Rethinking class : cultures, identities and lifestyles /",
+                "author": "Devine, Fiona.",
+                "isbn": "0333968948",
+                "url": "http://library.hud.ac.uk/catlink/bib/441079",
+                "publisher": "Palgrave Macmillan",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333968948"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333968948"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social research methods /",
+                "author": "Bryman, Alan, 1947-",
+                "isbn": "0199264465",
+                "url": "http://library.hud.ac.uk/catlink/bib/444172",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199264465"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199264465"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Thatcherism : personality and politics /",
+                "author": "Minogue, Kenneth R. (Kenneth Robert), 1930-",
+                "isbn": "0333447247",
+                "url": "http://library.hud.ac.uk/catlink/bib/200591",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333447247"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333447247"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Key sociological thinkers /",
+                "author": "Stones, Rob, 1957-",
+                "isbn": "0333687663",
+                "url": "http://library.hud.ac.uk/catlink/bib/328626",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333687663"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333687663"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Policy making in Britain : an introduction /",
+                "author": "Dorey, Peter, 1959-",
+                "isbn": "0761949046",
+                "url": "http://library.hud.ac.uk/catlink/bib/454189",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761949046"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761949046"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "4",
+          "book": [
+              {
+                "title": "Introducing criminology /",
+                "author": "Norris, Clive.",
+                "isbn": "1903240093",
+                "url": "http://library.hud.ac.uk/catlink/bib/410992",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903240093"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903240093"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The politics of women's bodies : sexuality, appearance, & behavior /",
+                "author": "Weitz, Rose, 1952-",
+                "isbn": "0195149777",
+                "url": "http://library.hud.ac.uk/catlink/bib/413320",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0195149777"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0195149777"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The body and social theory /",
+                "author": "Shilling, Chris",
+                "isbn": "0761942858",
+                "url": "http://library.hud.ac.uk/catlink/bib/416785",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761942858"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761942858"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fires were started : British cinema and Thatcherism /",
+                "author": "Friedman, Lester D.",
+                "isbn": "190476472X",
+                "url": "http://library.hud.ac.uk/catlink/bib/501540",
+                "publisher": "Wallflower",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=190476472X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/190476472X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

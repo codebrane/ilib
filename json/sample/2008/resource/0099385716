@@ -1,0 +1,20 @@
+{
+  "title": "The runaway train /",
+  "author": "Blathwayt, Benedict.",
+  "isbn": "0099385716",
+  "url": "http://library.hud.ac.uk/catlink/bib/437412",
+  "publisher": "Red Fox",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0099385716",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0099385716"
+  },
+  "relatedcourse": [
+  {
+    "name": "PGCE Science - Physics  (11-18 1FT)",
+    "id": "pgcesciencephysics11181ft"
+    }
+  ]
+}

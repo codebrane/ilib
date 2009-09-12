@@ -1,0 +1,20 @@
+{
+  "title": "New imperialism 2003.",
+  "author": "Harvey, ,David.",
+  "isbn": "0199264317",
+  "url": "http://library.hud.ac.uk/catlink/bib/435057",
+  "publisher": "",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0199264317",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0199264317"
+  },
+  "relatedcourse": [
+  {
+    "name": "MA Child Welfare & Safeguarding",
+    "id": "machildwelfaresafeguarding"
+    }
+  ]
+}

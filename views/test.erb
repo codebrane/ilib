@@ -1,0 +1,7 @@
+<% request.env.keys.each do |key| %>
+  <%= key %> = <%= request.env[key] %><br />
+<% end %>
+
+<%= Sinatra::Application.host %><br />
+<%= Sinatra::Application.port %><br />
+<%= Sinatra::Application.root %><br />

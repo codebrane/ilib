@@ -1,0 +1,20 @@
+{
+  "title": "Nursing adults : the practice of caring /",
+  "author": "Nicol, Maggie",
+  "isbn": "0723431574",
+  "url": "http://library.hud.ac.uk/catlink/bib/427392",
+  "publisher": "Mosby",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0723431574",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0723431574"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(Hons) Nursing Studies (Adult)",
+    "id": "bschonsnursingstudiesadult"
+    }
+  ]
+}

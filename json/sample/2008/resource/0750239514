@@ -1,0 +1,20 @@
+{
+  "title": "Transportation : our impact on the planet /",
+  "author": "Bowden, Rob.",
+  "isbn": "0750239514",
+  "url": "http://library.hud.ac.uk/catlink/bib/433726",
+  "publisher": "Hodder Wayland",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0750239514",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0750239514"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA (H) Transport Design",
+    "id": "bahtransportdesign"
+    }
+  ]
+}

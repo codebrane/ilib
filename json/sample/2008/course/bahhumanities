@@ -1,0 +1,336 @@
+[
+  {
+    "name": "BA(H) Humanities",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "20",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "13",
+          "book": [
+              {
+                "title": "Elizabeth I : the golden reign of Gloriana /",
+                "author": "Elizabeth I, Queen of England, 1533-1603.",
+                "isbn": "1903365430",
+                "url": "http://library.hud.ac.uk/catlink/bib/585543",
+                "publisher": "National Archives",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903365430"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903365430"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Elizabeth I and the government of England /",
+                "author": "Elizabeth I, Queen of England, 1533-1603.",
+                "isbn": "0340565470",
+                "url": "http://library.hud.ac.uk/catlink/bib/585546",
+                "publisher": "Hodder & Stoughton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340565470"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340565470"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Crime and society in Britain /",
+                "author": "Croall, Hazel, 1947-",
+                "isbn": "0582298970",
+                "url": "http://library.hud.ac.uk/catlink/bib/292474",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582298970"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582298970"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Doing criminological research /",
+                "author": "Francis, Peter, 1968-",
+                "isbn": "0761965092",
+                "url": "http://library.hud.ac.uk/catlink/bib/342756",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761965092"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761965092"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Doing research on crime and justice /",
+                "author": "Wincup, Emma.",
+                "isbn": "0198765398",
+                "url": "http://library.hud.ac.uk/catlink/bib/344088",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198765398"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198765398"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing criminology /",
+                "author": "Norris, Clive.",
+                "isbn": "1903240093",
+                "url": "http://library.hud.ac.uk/catlink/bib/410992",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903240093"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903240093"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Criminological perspectives : essential readings /",
+                "author": "Muncie, John",
+                "isbn": "0761941444",
+                "url": "http://library.hud.ac.uk/catlink/bib/414256",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761941444"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761941444"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The problem of crime /",
+                "author": "Muncie, John",
+                "isbn": "0761969713",
+                "url": "http://library.hud.ac.uk/catlink/bib/415587",
+                "publisher": "Sage, in association with the Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969713"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969713"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Social Sciences",
+                      "id": "bschsocialsciences"
+                   }
+                  ]
+              },
+              {
+                "title": "Textbook on criminology /",
+                "author": "Williams, Katherine S.",
+                "isbn": "0199264406",
+                "url": "http://library.hud.ac.uk/catlink/bib/440254",
+                "publisher": "Oxford University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199264406"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199264406"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Jean Rhys : Wide Sargasso Sea /",
+                "author": "Plasa, Carl, 1959-",
+                "isbn": "184046268X",
+                "url": "http://library.hud.ac.uk/catlink/bib/414244",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=184046268X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/184046268X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introduction to literature, criticism and theory /",
+                "author": "Royle, Nicholas, 1957-",
+                "isbn": "0582822955",
+                "url": "http://library.hud.ac.uk/catlink/bib/441605",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582822955"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582822955"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Henry VII /",
+                "author": "Chrimes, S. B. (Stanley Bertram)",
+                "isbn": "0413285901",
+                "url": "http://library.hud.ac.uk/catlink/bib/50077",
+                "publisher": "Eyre Methuen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0413285901"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0413285901"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "New Labour : politics after Thatcherism /",
+                "author": "Driver, Stephen.",
+                "isbn": "0745620507",
+                "url": "http://library.hud.ac.uk/catlink/bib/298975",
+                "publisher": "Polity Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745620507"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745620507"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The mature student's guide to writing /",
+                "author": "Rose, Jean, 1942-",
+                "isbn": "0333725204",
+                "url": "http://library.hud.ac.uk/catlink/bib/411344",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333725204"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333725204"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Key concepts in politics /",
+                "author": "Heywood, Andrew.",
+                "isbn": "0333770951",
+                "url": "http://library.hud.ac.uk/catlink/bib/419101",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333770951"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333770951"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The political thought of the Conservative Party since 1945 /",
+                "author": "Hickson, Kevin, 1974-",
+                "isbn": "1403949085",
+                "url": "http://library.hud.ac.uk/catlink/bib/454191",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403949085"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403949085"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "English society in the later Middle Ages, 1348-1500 /",
+                "author": "Keen, Maurice, 1933-",
+                "isbn": "0140124926",
+                "url": "http://library.hud.ac.uk/catlink/bib/498762",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140124926"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140124926"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Everyday life in medieval England /",
+                "author": "Dyer, Christopher, 1944-",
+                "isbn": "1852852011",
+                "url": "http://library.hud.ac.uk/catlink/bib/506449",
+                "publisher": "Hambledon and London",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1852852011"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1852852011"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Peasant and community in Medieval England, 1200-1500 /",
+                "author": "Schofield, Phillipp R., 1964-",
+                "isbn": "0333647114",
+                "url": "http://library.hud.ac.uk/catlink/bib/510868",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333647114"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333647114"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

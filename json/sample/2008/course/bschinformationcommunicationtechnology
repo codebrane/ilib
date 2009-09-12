@@ -1,0 +1,68 @@
+[
+  {
+    "name": "BSc(H) Information & Communication Technology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Strategy : process, content, context : an international perspective /",
+                "author": "Wit, Bob de.",
+                "isbn": "1861529643",
+                "url": "http://library.hud.ac.uk/catlink/bib/433966",
+                "publisher": "Thomson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861529643"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861529643"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Excel 2003 power programming with VBA /",
+                "author": "Walkenbach, John",
+                "isbn": "0764540726",
+                "url": "http://library.hud.ac.uk/catlink/bib/441987",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764540726"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764540726"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Bus/Comp with German",
+                      "id": "bschbuscompwithgerman"
+                   }
+                  ]
+              },
+              {
+                "title": "Information systems : achieving success by avoiding failure /",
+                "author": "Peters, Geoff",
+                "isbn": "0470862556",
+                "url": "http://library.hud.ac.uk/catlink/bib/453016",
+                "publisher": "John Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470862556"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470862556"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

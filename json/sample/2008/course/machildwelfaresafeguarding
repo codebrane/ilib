@@ -1,0 +1,70 @@
+[
+  {
+    "name": "MA Child Welfare & Safeguarding",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "PhD2",
+        "total": "1",
+          "book": [
+              {
+                "title": "New imperialism 2003.",
+                "author": "Harvey, ,David.",
+                "isbn": "0199264317",
+                "url": "http://library.hud.ac.uk/catlink/bib/435057",
+                "publisher": "",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199264317"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199264317"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "PhD1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Making sense of the Children Act 1989 /",
+                "author": "Allen, Nick.",
+                "isbn": "0470854960",
+                "url": "http://library.hud.ac.uk/catlink/bib/462772",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470854960"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470854960"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Safeguarding childhood : early intervention and surveillance in a late modern society /",
+                "author": "Parton, Nigel.",
+                "isbn": "1403933324",
+                "url": "http://library.hud.ac.uk/catlink/bib/495095",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403933324"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403933324"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

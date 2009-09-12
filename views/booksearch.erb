@@ -1,0 +1,101 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : Book Search</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body id="bookSearchTab">
+	
+<div style="float: left;"><img src="/ilib/images/book_search.gif"/></div>
+<div style="padding: 15px;"><div class="banner">&nbsp;&nbsp;iLib, the Course Book Finder : Book Search</div></div>
+<div style="clear: both; padding: 1px;"/>
+
+<ul id="tabnav">
+	<li class="searchTab"><a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a></li>
+	<li class="bookSearchTab"><a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a></li>
+	<li class="tab2"><a href="/ilib/allcourses">All Courses</a></li>
+	<li class="tab3"><a href="/ilib/readinglist">My Reading List</a></li>
+	<li class="courseTab"><a href="/ilib/course/<%= session["current_course_id"] %>"><%= session["current_course_name"] %></a></li>
+	<li class="sharedReadingListsTab"><a href="/ilib/shared_reading_lists">Shared Reading Lists</a></li>
+	<li class="tab3"><a href="/ilib/about">About</a></li>
+</ul>
+
+<div class="contentBox">
+	
+<p>
+	<p>Search for a book: (e.g. software)</p>
+	<form action="/ilib/book_search/" method="get">
+		<input type="text" name="book_searchtext" />
+		<input type="submit" name="submit" value="Search"/>
+	</form>
+</p>
+
+<% if session["book_searchtext"] != nil && defined?(books_search_results_json)%>
+	<% if session["book_searchtext"] != "" && books_search_results_json.length > 0 %>
+		Search results for "<%= session["book_searchtext"] %>"
+		<hr />
+	<% else %>
+		<% if session["book_searchtext"] != "" %>
+			<div class="error">No books were found for "<%= session["book_searchtext"] %>"</div>
+		<% end %>
+	<% end %>
+<% end %>
+
+<% if defined?(books_search_results_json) && books_search_results_json != nil %>
+  <% books_search_results_json.each do |book| %>
+		<div class="bookSummary">
+			<div class="favBook">
+				<% if (session["reading_list_id"] != nil) %>
+					<% if ReadingList.is_in_reading_list(session["reading_list_id"], book["isbn"])%>
+						<img src="/ilib/images/fav.gif" />
+						<a href="/ilib/readinglist_remove/<%= book["isbn"] %>" title="Remove from reading list"><img src="/ilib/images/cross.gif" /></a>
+					<% else %>
+						<a href="/ilib/readinglist_add/<%= book["isbn"] %>" title="Add to reading list"><img src="/ilib/images/tick.gif" /></a>
+					<% end %>
+				<% end %>
+			</div>
+			
+			<!--
+			<% if book["googlebook"]["thumbnail"] != "" %>
+			  <div class="bookCover"><img src="<%= book["googlebook"]["thumbnail"] %>"/></div>
+			<% end %>
+			-->
+
+			<a href="<%= book["url"] %>" target="_blank" title="Library information for this book"><%= book["title"] %></a>
+
+			<br />
+	    by <%= book["author"] %><br />
+	    Total borrowed: <%= book["total"] %><br />
+	
+			<% course_id = rest.get_id_for_course_name(book['course']) %>
+			<a href="/ilib/course/<%= course_id %>"><%= book['course'] %></a><br />
+
+			<br />
+		  <a href="<%= book["googlebook"]["url"] %>" target="_blank" title="Preview this book on Google"><img src="/ilib/images/googlebookpreviewbutton.gif" /></a>
+
+			<a href="<%= book["amazon"]["url"] %>" target="_blank" title="Preview this book on Amazon"><img src="/ilib/images/amazon.jpg" /></a>
+			
+			<% fav_count = ReadingList.get_book_count(book['isbn']) %>
+			<% if fav_count > 0 %>
+				This book is in <%= fav_count %> reading lists
+			<% end %>
+			
+		  <% if book["relatedcourse"].length > 0 %>
+		    <br />Related courses:<br />
+		    <% book["relatedcourse"].each do |related_course|%>
+		      <a href="/ilib/course/<%= related_course["id"] %>"/><%= related_course["name"] %></a><br />
+		    <% end %>
+		  <% end %>
+
+			<div style="clear: both;"></div>
+			
+		</div>
+		<br />
+	<% end %>
+<% end %>
+
+</div>
+
+</body>
+</html>

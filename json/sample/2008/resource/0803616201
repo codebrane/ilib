@@ -1,0 +1,20 @@
+{
+  "title": "Knee pain and disability /",
+  "author": "Cailliet, Rene.",
+  "isbn": "0803616201",
+  "url": "http://library.hud.ac.uk/catlink/bib/116711",
+  "publisher": "F. A. Davis Co",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0803616201",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0803616201"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc (Hons) Podiatry PT",
+    "id": "bschonspodiatrypt"
+    }
+  ]
+}

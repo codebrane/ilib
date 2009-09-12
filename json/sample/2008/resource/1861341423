@@ -1,0 +1,20 @@
+{
+  "title": "The widening gap : health inequalities and policy in Britain /",
+  "author": "Shaw, Mary",
+  "isbn": "1861341423",
+  "url": "http://library.hud.ac.uk/catlink/bib/375188",
+  "publisher": "Policy",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1861341423",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1861341423"
+  },
+  "relatedcourse": [
+  {
+    "name": "CPD Student Health & Social Studies (Health)",
+    "id": "cpdstudenthealthsocialstudieshealth"
+    }
+  ]
+}

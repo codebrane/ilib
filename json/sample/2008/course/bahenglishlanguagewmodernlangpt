@@ -1,0 +1,56 @@
+[
+  {
+    "name": "BA(H) English Language w Modern Lang PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "2",
+          "book": [
+              {
+                "title": "The language of jokes : analyzing verbal play /",
+                "author": "Chiaro, Delia.",
+                "isbn": "0415030900",
+                "url": "http://library.hud.ac.uk/catlink/bib/103786",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415030900"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415030900"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(Hons) Creative Writing and English Literature",
+                      "id": "bahonscreativewritingandenglishliterature"
+                    },
+                    {
+                      "name": "BA(H) English & Media",
+                      "id": "bahenglishmedia"
+                   }
+                  ]
+              },
+              {
+                "title": "Critical textwork : an introduction to varieties of discourse and analysis /",
+                "author": "Parker, Ian, 1956-",
+                "isbn": "0335202047",
+                "url": "http://library.hud.ac.uk/catlink/bib/326552",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335202047"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335202047"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

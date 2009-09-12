@@ -1,0 +1,20 @@
+{
+  "title": "Critical care algorithms /",
+  "author": "Armstrong, R. F (Rod F)",
+  "isbn": "0192621076",
+  "url": "http://library.hud.ac.uk/catlink/bib/267337",
+  "publisher": "Oxford University Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0192621076",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0192621076"
+  },
+  "relatedcourse": [
+  {
+    "name": "Short Courses 30 Credits SHA",
+    "id": "shortcourses30creditssha"
+    }
+  ]
+}

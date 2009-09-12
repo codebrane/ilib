@@ -1,0 +1,20 @@
+{
+  "title": "Handbook of creativity /",
+  "author": "Sternberg, Robert J.",
+  "isbn": "0521576040",
+  "url": "http://library.hud.ac.uk/catlink/bib/422681",
+  "publisher": "Cambridge University Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0521576040",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0521576040"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA (Hons) Education and Training UCB",
+    "id": "bahonseducationandtrainingucb"
+    }
+  ]
+}

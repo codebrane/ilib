@@ -1,0 +1,150 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : My Reading List</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body id="readingListTab">
+	
+<div style="float: left;"><img src="/ilib/images/reading_list.gif"/></div>
+<% if session['reading_list_title'] != nil %>
+  <% reading_list_title = session['reading_list_title'] %>
+<% else %>
+	<% reading_list_title = "My Reading List" %>
+<% end %>
+<div style="padding: 15px;"><div class="banner">&nbsp;&nbsp;iLib, the Course Book Finder : <%= reading_list_title %></div></div>
+<div style="clear: both; padding: 1px;"/>
+
+<ul id="tabnav">
+	<li class="searchTab"><a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a></li>
+	<li class="tab1"><a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a></li>
+	<li class="allCoursesTab"><a href="/ilib/allcourses">All Courses</a></li>
+	<li class="readingListTab"><a href="/ilib/readinglist">My Reading List</a></li>
+	<li class="courseTab"><a href="/ilib/course/<%= session["current_course_id"] %>"><%= session["current_course_name"] %></a></li>
+	<li class="sharedReadingListsTab"><a href="/ilib/shared_reading_lists">Shared Reading Lists</a></li>
+	<li class="aboutTab"><a href="/ilib/about">About</a></li>
+</ul>
+
+<div class="contentBox">
+
+<% error ||= nil %>
+<% success_message ||= nil %>
+
+<% if error != nil %>
+	<div class="error"><%= error %></div>
+<% end %>
+
+<% if success_message != nil %>
+	<div class="success"><%= success_message %></div>
+<% end %>
+
+<% if session["reading_list_id"] == nil %>
+	<% if (defined? error_text) %>
+		<% if error_text == "NOT_FOUND" %>
+		  <div class="error">oops, there doesn't seem to be a reading called <%= load_title %></div>
+		<% end %>
+	<% end %>
+<% end %>
+
+<% if session["reading_list_id"] == nil %>
+<p>
+	<p>Please provide the name of the reading list to create:</p>
+	<form action="/ilib/readinglist_create/" method="get">
+		Reading list name: <input type="text" name="title" /><br />
+		Email address (for password): <input type="text" name="email" /><br />
+		Reading list password: <input type="password" name="password" /><br />
+		<input type="submit" name="submit" value="Create my reading list"/>
+	</form>
+	<hr />
+</p>
+<p>
+	<p>Or if you already have one, please enter its name to retrieve your reading list:</p>
+	<form action="/ilib/readinglist_load/" method="get">
+		Reading list name: <input type="text" name="title" /><br />
+		Reading list password: <input type="password" name="password" /><br />
+		<input type="submit" name="submit" value="Load My Reading List"/>
+	</form>
+	<hr />
+</p>
+<p>
+	<p>If you can't remember your reading list password, reset it here:</p>
+	<form action="/ilib/reading_list_send_password" method="get">
+		Reading list name: <input type="text" name="title" /><br />
+		<input type="submit" name="submit" value="Send me a new password"/>
+	</form>
+</p>
+<hr />
+<% end %>
+
+<% if (defined? title) %>
+	<% if title != "" %>
+		Thanks for creating "<%= title %>"<br />
+		You can now go and add items to your reading list...
+		<hr />
+	<% else %>
+		<div class="error">oops! you don't seem to have provided a name!</div>
+	<% end %>
+<% end %>
+
+<% if (defined? books) %>
+
+	<% if books.length == 0 %>
+		<div class="error">There are no books in your reading list yet</div>
+	<% end %>
+
+	<p>
+		<a href="/ilib/reading_list_delete">Delete this reading list</a>&nbsp;&nbsp;
+		<% if session["reading_list_shared"] == "no" %>
+			<a href="/ilib/reading_list_share">Share this reading list</a>&nbsp;&nbsp;
+		<% else %>
+			<a href="/ilib/reading_list_unshare">Unshare this reading list</a>&nbsp;&nbsp;
+		<% end %>
+	</p>
+
+  <% books.each do |book_json| %>
+		<% book = book_json[0] %>
+		<div class="bookSummary">
+			<div class="favBook">
+				<% if (session["reading_list_id"] != nil) %>
+					<% if ReadingList.is_in_reading_list(session["reading_list_id"], book["isbn"])%>
+						<img src="/ilib/images/fav.gif" />
+						<a href="/ilib/readinglist_remove/<%= book["isbn"] %>" title="Remove from reading list"><img src="/ilib/images/cross.gif" /></a>
+					<% else %>
+						<a href="/ilib/readinglist_add/<%= book["isbn"] %>" title="Add to reading list"><img src="/ilib/images/tick.gif" /></a>
+					<% end %>
+				<% end %>
+			</div>
+			
+			<a href="<%= book["url"] %>" target="_blank" title="Library information for this book"><%= book["title"] %></a>
+
+			<br />
+	    by <%= book["author"] %><br />
+	    Total borrowed: <%= book["total"] %><br />
+	
+			<% course_id = rest.get_id_for_course_name(book['course']) %>
+			<a href="/ilib/course/<%= course_id %>"><%= book['course'] %></a><br />
+
+			<br />
+		  <a href="<%= book["googlebook"]["url"] %>" target="_blank" title="Preview this book on Google"><img src="/ilib/images/googlebookpreviewbutton.gif" /></a>
+
+			<a href="<%= book["amazon"]["url"] %>" target="_blank" title="Preview this book on Amazon"><img src="/ilib/images/amazon.jpg" /></a>
+
+		  <% if book["relatedcourse"].length > 0 %>
+		    <br />Related courses:<br />
+		    <% book["relatedcourse"].each do |related_course|%>
+		      <a href="/ilib/course/<%= related_course["id"] %>"><%= related_course["name"] %></a><br />
+		    <% end %>
+		  <% end %>
+
+			<div style="clear: both;"></div>
+			
+		</div>
+		<br />
+	<% end %>
+<% end %>
+
+</div>
+
+</body>
+</html>

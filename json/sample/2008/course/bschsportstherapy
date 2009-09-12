@@ -1,0 +1,230 @@
+[
+  {
+    "name": "BSc(H) Sports Therapy",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "18",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "14",
+          "book": [
+              {
+                "title": "Electrotherapy in rehabilitation /",
+                "author": "Gersh, Meryl Roth.",
+                "isbn": "0803640250",
+                "url": "http://library.hud.ac.uk/catlink/bib/267362",
+                "publisher": "F.A. Davis",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803640250"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803640250"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Statistics in sport /",
+                "author": "Bennett, Jay",
+                "isbn": "0340700726",
+                "url": "http://library.hud.ac.uk/catlink/bib/305935",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340700726"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340700726"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fox's physiological basis for exercise and sport /",
+                "author": "Keteyian, Steven J.",
+                "isbn": "0071158995",
+                "url": "http://library.hud.ac.uk/catlink/bib/321908",
+                "publisher": "WCB/McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0071158995"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0071158995"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exercise and sport in diabetes /",
+                "author": "Burr, William",
+                "isbn": "0471984965",
+                "url": "http://library.hud.ac.uk/catlink/bib/326862",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471984965"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471984965"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Kinanthropometry and exercise physiology laboratory manual / Exercise physiology : tests, procedures and data.",
+                "author": "Reilly, Thomas, 1941-",
+                "isbn": "0415251877",
+                "url": "http://library.hud.ac.uk/catlink/bib/384086",
+                "publisher": "Routledge.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415251877"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415251877"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Electrotherapy : evidence-based practice /",
+                "author": "Bazin, Sarah",
+                "isbn": "0443072167",
+                "url": "http://library.hud.ac.uk/catlink/bib/390319",
+                "publisher": "Churchill Livingstone",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443072167"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443072167"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles and practice of electrotherapy /",
+                "author": "Kahn, Joseph.",
+                "isbn": "0443065535",
+                "url": "http://library.hud.ac.uk/catlink/bib/394853",
+                "publisher": "Churchill Livingstone",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443065535"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443065535"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The diabetic athlete /",
+                "author": "Colberg, Sheri R, 1963-",
+                "isbn": "0736032711",
+                "url": "http://library.hud.ac.uk/catlink/bib/395254",
+                "publisher": "Human Kinetics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0736032711"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0736032711"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Research methods for sport studies /",
+                "author": "Jones, Ian, 1970-",
+                "isbn": "041526877X",
+                "url": "http://library.hud.ac.uk/catlink/bib/423934",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041526877X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041526877X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Back stability /",
+                "author": "Norris, Christopher M.",
+                "isbn": "073600081X",
+                "url": "http://library.hud.ac.uk/catlink/bib/430585",
+                "publisher": "Human Kinetics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=073600081X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/073600081X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Sports injuries : their prevention and treatment /",
+                "author": "Peterson, Lars.",
+                "isbn": "1853171190",
+                "url": "http://library.hud.ac.uk/catlink/bib/394113",
+                "publisher": "Martin Dunitz",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853171190"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853171190"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Hands-on sports therapy /",
+                "author": "Ward, Keith.",
+                "isbn": "1861529201",
+                "url": "http://library.hud.ac.uk/catlink/bib/427264",
+                "publisher": "Thomson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861529201"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861529201"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Football medicine /",
+                "author": "Karlsson, Jon.",
+                "isbn": "1841841641",
+                "url": "http://library.hud.ac.uk/catlink/bib/439078",
+                "publisher": "Martin Dunitz",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1841841641"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1841841641"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

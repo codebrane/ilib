@@ -1,0 +1,20 @@
+{
+  "title": "Clinical examination /",
+  "author": "Epstein, Owen, 1950-",
+  "isbn": "0723432295",
+  "url": "http://library.hud.ac.uk/catlink/bib/419029",
+  "publisher": "Mosby",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0723432295",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0723432295"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Advanced Nurse Practitioner (Primary Care)",
+    "id": "mscadvancednursepractitionerprimarycare"
+    }
+  ]
+}

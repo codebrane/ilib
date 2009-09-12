@@ -1,0 +1,20 @@
+{
+  "title": "The complete works in facsimiles of the original editions /",
+  "author": "Giuliani, Mauro, 1781-1829.",
+  "isbn": "0906953790",
+  "url": "http://library.hud.ac.uk/catlink/bib/290966",
+  "publisher": "Tecla",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0906953790",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0906953790"
+  },
+  "relatedcourse": [
+  {
+    "name": "BMus(H) Creative Music Technology",
+    "id": "bmushcreativemusictechnology"
+    }
+  ]
+}

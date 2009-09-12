@@ -1,0 +1,64 @@
+[
+  {
+    "name": "FdA Early Years",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Learning through play : babies, toddlers and the foundation years /",
+                "author": "Bruce, Tina.",
+                "isbn": "0340801522",
+                "url": "http://library.hud.ac.uk/catlink/bib/435715",
+                "publisher": "Hodder & Stoughton",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340801522"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340801522"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Advanced early years care and education : for levels 4 and 5 /",
+                "author": "MacLeod-Brudenell, Iain.",
+                "isbn": "0435401785",
+                "url": "http://library.hud.ac.uk/catlink/bib/439294",
+                "publisher": "Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0435401785"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0435401785"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ways of learning : learning theories and learning styles in the classroom /",
+                "author": "Pritchard, Alan (Alan M.)",
+                "isbn": "1843123231",
+                "url": "http://library.hud.ac.uk/catlink/bib/489192",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843123231"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843123231"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Nutrition in pregnancy and lactation /",
+  "author": "Worthington-Roberts, Bonnie S., 1943-",
+  "isbn": "0801665698",
+  "url": "http://library.hud.ac.uk/catlink/bib/111095",
+  "publisher": "Mosby-Year Books",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0801665698",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0801665698"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Catering Management & Food Sciences",
+    "id": "bschcateringmanagementfoodsciences"
+    }
+  ]
+}

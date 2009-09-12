@@ -1,0 +1,134 @@
+[
+  {
+    "name": "LLB(H) Law",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "11",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Constitutional law : the machinery of government /",
+                "author": "Molan, Michael T.",
+                "isbn": "1858364892",
+                "url": "http://library.hud.ac.uk/catlink/bib/428225",
+                "publisher": "Old Bailey",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1858364892"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1858364892"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "English legal system in a nutshell /",
+                "author": "Darbyshire, Penny, 1952-",
+                "isbn": "042186060X",
+                "url": "http://library.hud.ac.uk/catlink/bib/463276",
+                "publisher": "Sweet & Maxwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=042186060X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/042186060X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "International human rights in context : law, politics, morals : text and materials /",
+                "author": "Alston, Philip",
+                "isbn": "0198298498",
+                "url": "http://library.hud.ac.uk/catlink/bib/463854",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198298498"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198298498"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "8",
+          "book": [
+              {
+                "title": "Medicine, patients and the law /",
+                "author": "Brazier, Margaret, 1950-",
+                "isbn": "0140250026",
+                "url": "http://library.hud.ac.uk/catlink/bib/428390",
+                "publisher": "Penguin",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140250026"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140250026"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Todd & Watt's cases and materials on equity and trusts /",
+                "author": "Todd, Paul, 1954- Cases and materials on equity and trusts.",
+                "isbn": "0199279829",
+                "url": "http://library.hud.ac.uk/catlink/bib/494951",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199279829"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199279829"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Medical law & ethics /",
+                "author": "Pattinson, Shaun D.",
+                "isbn": "0421889500",
+                "url": "http://library.hud.ac.uk/catlink/bib/507129",
+                "publisher": "Sweet & Maxwell",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0421889500"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0421889500"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Medical law and ethics /",
+                "author": "Herring, Jonathan.",
+                "isbn": "019927696X",
+                "url": "http://library.hud.ac.uk/catlink/bib/511593",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=019927696X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/019927696X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

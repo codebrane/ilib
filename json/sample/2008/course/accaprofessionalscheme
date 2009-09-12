@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ACCA Professional Scheme",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Basic English law /",
+                "author": "Major, W. T. (William Thomas)",
+                "isbn": "0333532511",
+                "url": "http://library.hud.ac.uk/catlink/bib/201003",
+                "publisher": "Macmillan Education",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333532511"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333532511"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

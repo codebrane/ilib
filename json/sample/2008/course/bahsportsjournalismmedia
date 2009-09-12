@@ -1,0 +1,54 @@
+[
+  {
+    "name": "BA (H) Sports Journalism & Media",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Muhammad Ali : trickster in the culture of irony /",
+                "author": "Lemert, Charles C., 1937-",
+                "isbn": "0745628702",
+                "url": "http://library.hud.ac.uk/catlink/bib/441366",
+                "publisher": "Polity",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745628702"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745628702"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "1",
+          "book": [
+              {
+                "title": "British media in a global era /",
+                "author": "Sarikakis, Katharine.",
+                "isbn": "0340807334",
+                "url": "http://library.hud.ac.uk/catlink/bib/441440",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340807334"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340807334"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

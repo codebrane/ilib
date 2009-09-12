@@ -1,0 +1,48 @@
+[
+  {
+    "name": "MPhil/PHD (Engineering) FT/PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "resStaff",
+        "total": "2",
+          "book": [
+              {
+                "title": "MATLAB guide /",
+                "author": "Higham, D. J. (Desmond J.)",
+                "isbn": "0898715784",
+                "url": "http://library.hud.ac.uk/catlink/bib/505892",
+                "publisher": "Society for Industrial & Applied Mathematics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0898715784"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0898715784"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Digital signal processing with examples in MATLAB /",
+                "author": "Stearns, Samuel D.",
+                "isbn": "0849310911",
+                "url": "http://library.hud.ac.uk/catlink/bib/511019",
+                "publisher": "CRC Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0849310911"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0849310911"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

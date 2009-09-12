@@ -1,0 +1,102 @@
+[
+  {
+    "name": "DipHE Operating Department Practice",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Legal aspects of consent /",
+                "author": "Dimond, Bridgit.",
+                "isbn": "1856422178",
+                "url": "http://library.hud.ac.uk/catlink/bib/417068",
+                "publisher": "Quay",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856422178"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856422178"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The NHS IT project : the biggest computer programme in the world - ever! /",
+                "author": "Brennan, Sean.",
+                "isbn": "1857757327",
+                "url": "http://library.hud.ac.uk/catlink/bib/454602",
+                "publisher": "Radcliffe",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1857757327"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1857757327"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Apley's concise system of orthopaedics and fractures /",
+                "author": "Solomon, Louis",
+                "isbn": "0340809841",
+                "url": "http://library.hud.ac.uk/catlink/bib/491450",
+                "publisher": "Hodder Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340809841"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340809841"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Cell biology /",
+                "author": "Pollard, Thomas D. (Thomas Dean), 1942-",
+                "isbn": "1416023887",
+                "url": "http://library.hud.ac.uk/catlink/bib/441167",
+                "publisher": "Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1416023887"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1416023887"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Structure & function of the body /",
+                "author": "Patton, Kevin T.",
+                "isbn": "0323022421",
+                "url": "http://library.hud.ac.uk/catlink/bib/504827",
+                "publisher": "Mosby",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0323022421"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0323022421"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

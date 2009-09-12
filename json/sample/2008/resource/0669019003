@@ -1,0 +1,24 @@
+{
+  "title": "White-collar crime : a 20th-century crisis /",
+  "author": "Bequai, August.",
+  "isbn": "0669019003",
+  "url": "http://library.hud.ac.uk/catlink/bib/103074",
+  "publisher": "(Distributed by) Teakfield Ltd",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0669019003",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0669019003"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Criminology",
+    "id": "bschcriminology"
+  },
+  {
+    "name": "BA(H) Leadership and Managing Innovation",
+    "id": "bahleadershipandmanaginginnovation"
+    }
+  ]
+}

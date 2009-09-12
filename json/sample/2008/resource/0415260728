@@ -1,0 +1,20 @@
+{
+  "title": "Teaching design and technology in secondary schools : a reader /",
+  "author": "Open University.",
+  "isbn": "0415260728",
+  "url": "http://library.hud.ac.uk/catlink/bib/395584",
+  "publisher": "Routledge [and] Open University",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415260728",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415260728"
+  },
+  "relatedcourse": [
+  {
+    "name": "PGCE Design Technology (11-16 1FT)",
+    "id": "pgcedesigntechnology11161ft"
+    }
+  ]
+}

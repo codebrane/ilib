@@ -1,0 +1,20 @@
+{
+  "title": "Judaism : a short introduction /",
+  "author": "Cohn-Sherbok, Lavinia. Short introduction to Judaism.",
+  "isbn": "1851682074",
+  "url": "http://library.hud.ac.uk/catlink/bib/435440",
+  "publisher": "Oneworld",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1851682074",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1851682074"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA (Hons) Religion & Education",
+    "id": "bahonsreligioneducation"
+    }
+  ]
+}

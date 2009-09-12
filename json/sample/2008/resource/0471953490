@@ -1,0 +1,20 @@
+{
+  "title": "Working with offenders : psychological practice in offender rehabilitation /",
+  "author": "Hollin, Clive R.",
+  "isbn": "0471953490",
+  "url": "http://library.hud.ac.uk/catlink/bib/281511",
+  "publisher": "John Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0471953490",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0471953490"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Youth & Community Work",
+    "id": "bahyouthcommunitywork"
+    }
+  ]
+}

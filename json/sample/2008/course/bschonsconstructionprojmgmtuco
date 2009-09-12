@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BSc (Hons) Construction & Proj Mgmt UCO",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Building construction handbook /",
+                "author": "Greeno, Roger.",
+                "isbn": "0750661968",
+                "url": "http://library.hud.ac.uk/catlink/bib/434847",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750661968"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750661968"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

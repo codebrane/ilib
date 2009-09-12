@@ -1,0 +1,20 @@
+{
+  "title": "Statistics for analytical chemistry /",
+  "author": "Miller, J. C. (Jane C.), 1944-",
+  "isbn": "0745802710",
+  "url": "http://library.hud.ac.uk/catlink/bib/129638",
+  "publisher": "Ellis Horwood",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0745802710",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0745802710"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Analytical Bioscience",
+    "id": "mscanalyticalbioscience"
+    }
+  ]
+}

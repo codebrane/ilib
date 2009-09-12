@@ -1,0 +1,20 @@
+{
+  "title": "Physical organic chemistry /",
+  "author": "Isaacs, Neil S. (Neil Stewart), 1934-",
+  "isbn": "0582463661",
+  "url": "http://library.hud.ac.uk/catlink/bib/104577",
+  "publisher": "Longman Scientific & Technical",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0582463661",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0582463661"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc Applied Sciences",
+    "id": "bscappliedsciences"
+    }
+  ]
+}

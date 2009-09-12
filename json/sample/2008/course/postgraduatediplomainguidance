@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Postgraduate Diploma in Guidance",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "2",
+          "book": [
+              {
+                "title": "An intelligent person's guide to ethics /",
+                "author": "Warnock, Mary.",
+                "isbn": "1585676934",
+                "url": "http://library.hud.ac.uk/catlink/bib/435691",
+                "publisher": "Duckworth Overlook",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1585676934"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1585676934"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Careers services : history, policy and practice in the United Kingdom /",
+                "author": "Peck, David, 1935-",
+                "isbn": "0415339359",
+                "url": "http://library.hud.ac.uk/catlink/bib/437227",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415339359"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415339359"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

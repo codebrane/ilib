@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Early Years FdA UCB",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Childhood experiences of domestic violence",
+                "author": "McGee, Caroline, 1965-",
+                "isbn": "1853028274",
+                "url": "http://library.hud.ac.uk/catlink/bib/390462",
+                "publisher": "Jessica Kingsley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853028274"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853028274"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Early years management in practice : a handbook for early years managers /",
+                "author": "Daly, Maureen.",
+                "isbn": "0435401408",
+                "url": "http://library.hud.ac.uk/catlink/bib/442922",
+                "publisher": "Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0435401408"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0435401408"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "An introduction to developmental psychology /",
+                "author": "Bremner, J. Gavin, 1949-",
+                "isbn": "0631213961",
+                "url": "http://library.hud.ac.uk/catlink/bib/416799",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631213961"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631213961"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Theories of childhood : an introduction to Dewey, Montessori, Erikson, Piaget, and Vygotsky /",
+                "author": "Mooney, Carol Garhart.",
+                "isbn": "188483485X",
+                "url": "http://library.hud.ac.uk/catlink/bib/445066",
+                "publisher": "Redleaf",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=188483485X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/188483485X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

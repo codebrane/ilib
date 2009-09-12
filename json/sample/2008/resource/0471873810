@@ -1,0 +1,20 @@
+{
+  "title": "Interior lighting for environmental designers /",
+  "author": "Nuckolls, James L.",
+  "isbn": "0471873810",
+  "url": "http://library.hud.ac.uk/catlink/bib/123341",
+  "publisher": "Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0471873810",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0471873810"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Interior Design",
+    "id": "bahinteriordesign"
+    }
+  ]
+}

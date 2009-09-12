@@ -1,0 +1,20 @@
+{
+  "title": "Maximum Midi : music applications in C++ /",
+  "author": "Messick, Paul.",
+  "isbn": "1884777449",
+  "url": "http://library.hud.ac.uk/catlink/bib/314845",
+  "publisher": "Manning",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1884777449",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1884777449"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc (H) Air Transport and Logistics Management",
+    "id": "bschairtransportandlogisticsmanagement"
+    }
+  ]
+}

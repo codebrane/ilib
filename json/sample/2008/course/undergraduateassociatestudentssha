@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Undergraduate Associate Students (SHA)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Death & dying / Bereavement : private grief and collective responsibility /",
+                "author": "Open University. Death & Dying Course Team.",
+                "isbn": "0749232722",
+                "url": "http://library.hud.ac.uk/catlink/bib/137397",
+                "publisher": "Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749232722"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749232722"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Death & dying / Life and death.",
+                "author": "Open University Death & Dying Course Team.",
+                "isbn": "0749259620",
+                "url": "http://library.hud.ac.uk/catlink/bib/445192",
+                "publisher": "Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749259620"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749259620"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Death & dying / Caring for dying people.",
+                "author": "Open University Death & Dying Course Team.",
+                "isbn": "0749259612",
+                "url": "http://library.hud.ac.uk/catlink/bib/445228",
+                "publisher": "Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749259612"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749259612"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing palliative care /",
+                "author": "Twycross, Robert G. (Robert Geoffrey)",
+                "isbn": "185775915X",
+                "url": "http://library.hud.ac.uk/catlink/bib/416537",
+                "publisher": "Radcliffe Medical",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185775915X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185775915X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Palliative care for the primary care team /",
+                "author": "Howarth, John.",
+                "isbn": "1856422291",
+                "url": "http://library.hud.ac.uk/catlink/bib/417066",
+                "publisher": "Quay",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856422291"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856422291"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

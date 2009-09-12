@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MSc Eng. Control Systems & Instrumentation",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Computer control of manufacturing systems /",
+                "author": "Koren, Yoram.",
+                "isbn": "0070353417",
+                "url": "http://library.hud.ac.uk/catlink/bib/205897",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0070353417"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0070353417"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

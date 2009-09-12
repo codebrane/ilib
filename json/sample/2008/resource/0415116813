@@ -1,0 +1,20 @@
+{
+  "title": "Issues in mentoring /",
+  "author": "Kerry, Trevor",
+  "isbn": "0415116813",
+  "url": "http://library.hud.ac.uk/catlink/bib/120138",
+  "publisher": "Routledge",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415116813",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415116813"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Health & Community Studies",
+    "id": "bschhealthcommunitystudies"
+    }
+  ]
+}

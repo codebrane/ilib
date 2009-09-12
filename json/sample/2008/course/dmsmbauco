@@ -1,0 +1,124 @@
+[
+  {
+    "name": "DMS/MBA UCO",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "PhD3+",
+        "total": "3",
+          "book": [
+              {
+                "title": "Inside organizations : 21 ideas for managers /",
+                "author": "Handy, Charles B. (Charles Brian), 1932-",
+                "isbn": "014027510X",
+                "url": "http://library.hud.ac.uk/catlink/bib/354835",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=014027510X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/014027510X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Small business management /",
+                "author": "Stokes, D. R. (David R.)",
+                "isbn": "0826456790",
+                "url": "http://library.hud.ac.uk/catlink/bib/395280",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826456790"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826456790"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Small business, entrepreneurship and enterprise development /",
+                "author": "Beaver, Graham.",
+                "isbn": "0273651056",
+                "url": "http://library.hud.ac.uk/catlink/bib/444401",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273651056"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273651056"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "PhD2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Strategy safari : the complete guide through the wilds of strategic management /",
+                "author": "Lampel, Joseph",
+                "isbn": "0273656368",
+                "url": "http://library.hud.ac.uk/catlink/bib/474399",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273656368"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273656368"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Managing financial information /",
+                "author": "Chartered Institute of Personnel and Development.",
+                "isbn": "1843980037",
+                "url": "http://library.hud.ac.uk/catlink/bib/501194",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843980037"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843980037"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "PhD1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Management : an introduction /",
+                "author": "Boddy, David.",
+                "isbn": "027369586X",
+                "url": "http://library.hud.ac.uk/catlink/bib/490604",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=027369586X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/027369586X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

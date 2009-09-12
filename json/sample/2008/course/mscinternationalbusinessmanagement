@@ -1,0 +1,80 @@
+[
+  {
+    "name": "MSc International Business Management",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Strategic management theory : an integrated approach /",
+                "author": "Jones, Gareth R.",
+                "isbn": "0395857783",
+                "url": "http://library.hud.ac.uk/catlink/bib/321568",
+                "publisher": "Houghton Mifflin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0395857783"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0395857783"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "International marketing and export management /",
+                "author": "Duerr, Edwin",
+                "isbn": "0273655213",
+                "url": "http://library.hud.ac.uk/catlink/bib/396337",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273655213"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273655213"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Handbook of international trade /",
+                "author": "Sherlock, Jim",
+                "isbn": "0749441445",
+                "url": "http://library.hud.ac.uk/catlink/bib/428039",
+                "publisher": "Kogan Page",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749441445"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749441445"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Tourism : principles and practice /",
+                "author": "Cooper, Chris, 1952-",
+                "isbn": "027368406X",
+                "url": "http://library.hud.ac.uk/catlink/bib/443021",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=027368406X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/027368406X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

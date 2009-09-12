@@ -1,0 +1,20 @@
+{
+  "title": "Just-in-time for operators /",
+  "author": "Productivity Press. Development Team.",
+  "isbn": "1563271338",
+  "url": "http://library.hud.ac.uk/catlink/bib/330391",
+  "publisher": "Productivity Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1563271338",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1563271338"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Logistics (Top-up)",
+    "id": "bschlogisticstopup"
+    }
+  ]
+}

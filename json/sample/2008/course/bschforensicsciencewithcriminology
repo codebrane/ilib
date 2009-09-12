@@ -1,0 +1,156 @@
+[
+  {
+    "name": "BSc(H) Forensic Science with Criminology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "9",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "5",
+          "book": [
+              {
+                "title": "Understanding antibacterial action and resistance /",
+                "author": "Chopra, I (Ian), 1946-",
+                "isbn": "0131248278",
+                "url": "http://library.hud.ac.uk/catlink/bib/260457",
+                "publisher": "Ellis Horwood",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131248278"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131248278"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Communication skills in practice : a practical guide for health professionals /",
+                "author": "Williams, Diana, 1957-",
+                "isbn": "1853022322",
+                "url": "http://library.hud.ac.uk/catlink/bib/263915",
+                "publisher": "J. Kingsley Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853022322"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853022322"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The techniques of crocheted & openwork lace.",
+                "author": "Maidens, Ena.",
+                "isbn": "0713425687",
+                "url": "http://library.hud.ac.uk/catlink/bib/333289",
+                "publisher": "Batsford",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713425687"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713425687"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Bioinformatics for dummies /",
+                "author": "Notredame, Cedric",
+                "isbn": "0764516965",
+                "url": "http://library.hud.ac.uk/catlink/bib/423145",
+                "publisher": "Wiley Pub",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764516965"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764516965"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Gene cloning and DNA analysis : an introduction /",
+                "author": "Brown, T. A. (Terence A.)",
+                "isbn": "1405111216",
+                "url": "http://library.hud.ac.uk/catlink/bib/498491",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1405111216"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1405111216"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Molecular biology of the cell /",
+                "author": "Alberts, Bruce",
+                "isbn": "0815332181",
+                "url": "http://library.hud.ac.uk/catlink/bib/389411",
+                "publisher": "Garland Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0815332181"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0815332181"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Fundamentals of physiology : a human perspective /",
+                "author": "Sherwood, Lauralee.",
+                "isbn": "0534466974",
+                "url": "http://library.hud.ac.uk/catlink/bib/466094",
+                "publisher": "Thomson Learning [distributor] ",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0534466974"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0534466974"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Biochemistry /",
+                "author": "Hooper, N. M.",
+                "isbn": "0415367786",
+                "url": "http://library.hud.ac.uk/catlink/bib/501571",
+                "publisher": "Taylor & Francis",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415367786"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415367786"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

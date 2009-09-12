@@ -1,0 +1,20 @@
+{
+  "title": "Advanced management accounting /",
+  "author": "Kaplan, Robert S.",
+  "isbn": "0132622882",
+  "url": "http://library.hud.ac.uk/catlink/bib/292819",
+  "publisher": "Prentice-Hall International",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0132622882",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0132622882"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Management & Accountancy",
+    "id": "bahmanagementaccountancy"
+    }
+  ]
+}

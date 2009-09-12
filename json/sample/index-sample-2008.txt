@@ -1,0 +1,182 @@
+BA(H) Humanities,../../json/sample/2008/course/bahhumanities,20
+BA(H) Surface Design for Fashion & Interiors,../../json/sample/2008/course/bahsurfacedesignforfashioninteriors,17
+BSc(H) Physiotherapy,../../json/sample/2008/course/bschphysiotherapy,13
+BA(H) Human Resource Management (Top up),../../json/sample/2008/course/bahhumanresourcemanagementtopup,4
+PGCE Music (Schools) - (11-18 1FT),../../json/sample/2008/course/pgcemusicschools11181ft,6
+Foundation degree in Learning Support (University),../../json/sample/2008/course/foundationdegreeinlearningsupportuniversity,10
+BA(H) Music and Journalism,../../json/sample/2008/course/bahmusicandjournalism,2
+BA(H) Fashion Design with Marketing & Production,../../json/sample/2008/course/bahfashiondesignwithmarketingproduction,26
+BSc(H) Criminology,../../json/sample/2008/course/bschcriminology,19
+BA(H) Leadership and Managing Innovation,../../json/sample/2008/course/bahleadershipandmanaginginnovation,20
+BA(Hons) Early Primary Education with QTS,../../json/sample/2008/course/bahonsearlyprimaryeducationwithqts,40
+BA(Hons) Creative Writing and English Literature,../../json/sample/2008/course/bahonscreativewritingandenglishliterature,28
+BA(H) English & Media,../../json/sample/2008/course/bahenglishmedia,4
+BA(H) English Language w Modern Lang PT,../../json/sample/2008/course/bahenglishlanguagewmodernlangpt,2
+BSc(H) Health & Social Welfare,../../json/sample/2008/course/bschhealthsocialwelfare,26
+BA(H) Costume with Textiles,../../json/sample/2008/course/bahcostumewithtextiles,14
+BSc Applied Sciences,../../json/sample/2008/course/bscappliedsciences,16
+BA(Hons) Journalism & Media,../../json/sample/2008/course/bahonsjournalismmedia,13
+BA(Hons) History and Law,../../json/sample/2008/course/bahonshistoryandlaw,36
+PGCE (PCET) (Grimsby Insti),../../json/sample/2008/course/pgcepcetgrimsbyinsti,26
+BA(Hons) Music Technology and Popular Music,../../json/sample/2008/course/bahonsmusictechnologyandpopularmusic,16
+BSc(H) Podiatry,../../json/sample/2008/course/bschpodiatry,35
+BA(H)  Textile Crafts,../../json/sample/2008/course/bahtextilecrafts,17
+BMus(H),../../json/sample/2008/course/bmush,15
+BA History with Museum and Heritage Studies PT,../../json/sample/2008/course/bahistorywithmuseumandheritagestudiespt,3
+BSc(H) Social Work,../../json/sample/2008/course/bschsocialwork,28
+BA(H) Drama & English,../../json/sample/2008/course/bahdramaenglish,18
+BSc(H) Catering Management & Food Sciences,../../json/sample/2008/course/bschcateringmanagementfoodsciences,18
+BSc(Hons) Counselling Studies,../../json/sample/2008/course/bschonscounsellingstudies,12
+Dip in Architecture/Architecture (International),../../json/sample/2008/course/dipinarchitecturearchitectureinternational,24
+MMus Contemporary Music Performance,../../json/sample/2008/course/mmuscontemporarymusicperformance,4
+BSc(H) Sociology & Criminology,../../json/sample/2008/course/bschsociologycriminology,25
+MEng Electronic & Electrical Engineering,../../json/sample/2008/course/mengelectronicelectricalengineering,19
+BSc (Hons) Podiatry PT,../../json/sample/2008/course/bschonspodiatrypt,14
+MA Professional Development,../../json/sample/2008/course/maprofessionaldevelopment,4
+MA History PT,../../json/sample/2008/course/mahistorypt,3
+BSc(H) Health & Community Studies,../../json/sample/2008/course/bschhealthcommunitystudies,20
+PGCE History (11-18 1FT),../../json/sample/2008/course/pgcehistory11181ft,8
+BA(H) Interior Design,../../json/sample/2008/course/bahinteriordesign,13
+BA(H) Politics & Law,../../json/sample/2008/course/bahpoliticslaw,13
+BEng Engineering with Technology Management (M&M),../../json/sample/2008/course/bengengineeringwithtechnologymanagementmm,1
+MSc Analytical Bioscience,../../json/sample/2008/course/mscanalyticalbioscience,9
+BA(H) Fashion, Media & Promotion,../../json/sample/2008/course/bahfashionmediapromotion,12
+HND Bus & Management,../../json/sample/2008/course/hndbusmanagement,3
+BA(H) Tourism & Leisure Management,../../json/sample/2008/course/bahtourismleisuremanagement,33
+BA(H) Fashion Design with Textiles,../../json/sample/2008/course/bahfashiondesignwithtextiles,31
+BA (Hons) Educational Administration,../../json/sample/2008/course/bahonseducationaladministration,9
+Undergraduate Associate Students (SHA),../../json/sample/2008/course/undergraduateassociatestudentssha,5
+Foundation degree in Early Years,../../json/sample/2008/course/foundationdegreeinearlyyears,3
+BSc(H) Midwifery Studies,../../json/sample/2008/course/bschmidwiferystudies,24
+ACCA Professional Scheme,../../json/sample/2008/course/accaprofessionalscheme,1
+BA(H) Popular Music Production,../../json/sample/2008/course/bahpopularmusicproduction,49
+MSc Eng. Control Systems & Instrumentation,../../json/sample/2008/course/mscengcontrolsystemsinstrumentation,1
+Diploma in Professional Studies: Youth & Community,../../json/sample/2008/course/diplomainprofessionalstudiesyouthcommunity,3
+BA(H) Arch/Arch(Int)/Diploma in Architecture,../../json/sample/2008/course/baharcharchintdiplomainarchitecture,12
+BSc(H) Psychology,../../json/sample/2008/course/bschpsychology,72
+BA(H) Advertising & Media Relations,../../json/sample/2008/course/bahadvertisingmediarelations,26
+DipHE (BSc(Hons) option) Nursing Studies - Child,../../json/sample/2008/course/diphebschonsoptionnursingstudieschild,16
+LLB(H) Business Law,../../json/sample/2008/course/llbhbusinesslaw,13
+BA(H) Interdisciplinary Art and Design (Jewellery),../../json/sample/2008/course/bahinterdisciplinaryartanddesignjewellery,21
+BSc(Hons) Electronics and Music Technology,../../json/sample/2008/course/bschonselectronicsandmusictechnology,2
+FdSc Sports Coaching,../../json/sample/2008/course/fdscsportscoaching,2
+BSc(H) Forensic Science with Criminology,../../json/sample/2008/course/bschforensicsciencewithcriminology,9
+MPharm,../../json/sample/2008/course/mpharm,6
+Associate students,../../json/sample/2008/course/associatestudents,2
+BSc(H) Occupational Therapy,../../json/sample/2008/course/bschoccupationaltherapy,28
+MSc Electronic & Computer Based Systems Design,../../json/sample/2008/course/mscelectroniccomputerbasedsystemsdesign,3
+Short Courses 30 Credits SHA,../../json/sample/2008/course/shortcourses30creditssha,3
+BSc(H) Sports Therapy,../../json/sample/2008/course/bschsportstherapy,18
+BA(H) Business & Journalism,../../json/sample/2008/course/bahbusinessjournalism,14
+BA(H) Creative Imaging-Motion Graphics & Animation,../../json/sample/2008/course/bahcreativeimagingmotiongraphicsanimation,50
+BSc(H) Psychological Studies,../../json/sample/2008/course/bschpsychologicalstudies,14
+MSc Analytical Bioscience PT,../../json/sample/2008/course/mscanalyticalbiosciencept,1
+BA(H) Youth & Community Work,../../json/sample/2008/course/bahyouthcommunitywork,2
+BSc(H) Applied Criminology (Crim & Comm Justice),../../json/sample/2008/course/bschappliedcriminologycrimcommjustice,8
+BMus(H) Creative Music Technology,../../json/sample/2008/course/bmushcreativemusictechnology,1
+BA(H) Management & Accountancy,../../json/sample/2008/course/bahmanagementaccountancy,21
+MSc Public Health Nursing Practice,../../json/sample/2008/course/mscpublichealthnursingpractice,5
+BSc (H) Air Transport and Logistics Management,../../json/sample/2008/course/bschairtransportandlogisticsmanagement,19
+MSc International Business Management,../../json/sample/2008/course/mscinternationalbusinessmanagement,4
+Diploma in Prof.Studies - Youth & Community Work,../../json/sample/2008/course/diplomainprofstudiesyouthcommunitywork,5
+BSc(H) Logistics (Top-up),../../json/sample/2008/course/bschlogisticstopup,5
+BA(H) Fine Art:Drawing & Painting,../../json/sample/2008/course/bahfineartdrawingpainting,6
+BA (Hons) Business Management UCO,../../json/sample/2008/course/bahonsbusinessmanagementuco,6
+FdA Journalism &  Media Production,../../json/sample/2008/course/fdajournalismmediaproduction,2
+DipHE Combined Sciences,../../json/sample/2008/course/diphecombinedsciences,11
+MBA (Master of Business Administration),../../json/sample/2008/course/mbamasterofbusinessadministration,14
+FdSc Business Information Technology,../../json/sample/2008/course/fdscbusinessinformationtechnology,1
+MSc Sustainable Architecture,../../json/sample/2008/course/mscsustainablearchitecture,6
+BSc(Hons) Information and Communication Technology,../../json/sample/2008/course/bschonsinformationandcommunicationtechnology,8
+DMS/MBA UCO,../../json/sample/2008/course/dmsmbauco,6
+BSc(H) Computing & Management Sciences,../../json/sample/2008/course/bschcomputingmanagementsciences,7
+MEng Software Engineering,../../json/sample/2008/course/mengsoftwareengineering,1
+BSc(H) Multimedia Technology,../../json/sample/2008/course/bschmultimediatechnology,1
+BSc(H) Computer Games Programming,../../json/sample/2008/course/bschcomputergamesprogramming,5
+BA(Hons) Music Journalism and Media,../../json/sample/2008/course/bahonsmusicjournalismandmedia,2
+Fdn Year for the Health Professions,../../json/sample/2008/course/fdnyearforthehealthprofessions,4
+BA(H) Global Marketing (Topup),../../json/sample/2008/course/bahglobalmarketingtopup,8
+MEng Mechanical & Automotive Design,../../json/sample/2008/course/mengmechanicalautomotivedesign,3
+MSc Global Logistics and Supply Chain Management,../../json/sample/2008/course/mscgloballogisticsandsupplychainmanagement,5
+Foundation Degree in Early Years UCO,../../json/sample/2008/course/foundationdegreeinearlyyearsuco,6
+CPD Student Health & Social Studies (Health),../../json/sample/2008/course/cpdstudenthealthsocialstudieshealth,4
+BA(H) Film Journalism and Media,../../json/sample/2008/course/bahfilmjournalismandmedia,2
+FdSc Police Studies,../../json/sample/2008/course/fdscpolicestudies,8
+FdA Business Management,../../json/sample/2008/course/fdabusinessmanagement,4
+Early Years FdA UCB,../../json/sample/2008/course/earlyyearsfdaucb,4
+BA(Hons) Digital Film and Visual Effects Product,../../json/sample/2008/course/bahonsdigitalfilmandvisualeffectsproduct,2
+MSc Brand Development,../../json/sample/2008/course/mscbranddevelopment,8
+PGCE Design Technology (11-16 1FT),../../json/sample/2008/course/pgcedesigntechnology11161ft,4
+MSc Information Systems Management,../../json/sample/2008/course/mscinformationsystemsmanagement,1
+BA(H) Advertising, Media & Design Management,../../json/sample/2008/course/bahadvertisingmediadesignmanagement,1
+BA (Hons) Art and Design Interdisciplinary UCB,../../json/sample/2008/course/bahonsartanddesigninterdisciplinaryucb,4
+FdSc Multimedia,../../json/sample/2008/course/fdscmultimedia,1
+HNC Construction UCO,../../json/sample/2008/course/hncconstructionuco,2
+Short Courses (30 Credits),../../json/sample/2008/course/shortcourses30credits,10
+BSc(H) Social Sciences,../../json/sample/2008/course/bschsocialsciences,1
+BA(Hons) English Literature with Creative Writing,../../json/sample/2008/course/bahonsenglishliteraturewithcreativewriting,3
+BA(H) Fashion & Textile Buying,../../json/sample/2008/course/bahfashiontextilebuying,4
+Certificate in Training Practice,../../json/sample/2008/course/certificateintrainingpractice,2
+BA(H) Business Management,../../json/sample/2008/course/bahbusinessmanagement,1
+BA(Hons) Video Animation and Music Production,../../json/sample/2008/course/bahonsvideoanimationandmusicproduction,2
+Certificate in Management Studies,../../json/sample/2008/course/certificateinmanagementstudies,1
+BSc(Hons) Social Work (Work Based Route),../../json/sample/2008/course/bschonssocialworkworkbasedroute,2
+BSc(H) Information & Communication Technology,../../json/sample/2008/course/bschinformationcommunicationtechnology,3
+Certificate in Education UCB,../../json/sample/2008/course/certificateineducationucb,5
+BSc (Hons) Construction & Proj Mgmt UCO,../../json/sample/2008/course/bschonsconstructionprojmgmtuco,1
+BA (Hons) Religion & Education,../../json/sample/2008/course/bahonsreligioneducation,4
+FdA Early Years,../../json/sample/2008/course/fdaearlyyears,5
+LLB(H) Law/Bus Law/European Studies,../../json/sample/2008/course/llbhlawbuslaweuropeanstudies,1
+PGCE Science - Physics  (11-18 1FT),../../json/sample/2008/course/pgcesciencephysics11181ft,2
+Research Social Work FT,../../json/sample/2008/course/researchsocialworkft,1
+BA/BSc(H) Virtual Reality Design,../../json/sample/2008/course/babschvirtualrealitydesign,1
+BA(H) Childhood Studies,../../json/sample/2008/course/bahchildhoodstudies,1
+PGCE Bus Education (Schools) (14 - 19 1FT),../../json/sample/2008/course/pgcebuseducationschools14191ft,1
+BA(Hons) Combined Studies (Strategy and Marketing),../../json/sample/2008/course/bahonscombinedstudiesstrategyandmarketing,2
+BA (H) Sports Journalism & Media,../../json/sample/2008/course/bahsportsjournalismmedia,2
+BA(H) Human Resource Management,../../json/sample/2008/course/bahhumanresourcemanagement,1
+BA(H) Public Relations with Media,../../json/sample/2008/course/bahpublicrelationswithmedia,6
+MText Textile Design for Fashion and Interiors,../../json/sample/2008/course/mtexttextiledesignforfashionandinteriors,9
+BA (Hons) Computer Games Design,../../json/sample/2008/course/bahonscomputergamesdesign,5
+Chartered Institute of Personnel & Development,../../json/sample/2008/course/charteredinstituteofpersonneldevelopment,3
+MPhil/PHD (Applied Sciences) FT/PT,../../json/sample/2008/course/mphilphdappliedsciencesftpt,2
+PGCE PT UCB,../../json/sample/2008/course/pgceptucb,4
+MA Modern English Language,../../json/sample/2008/course/mamodernenglishlanguage,2
+FdSc Holistic Therapies,../../json/sample/2008/course/fdscholistictherapies,2
+DipHE Operating Department Practice,../../json/sample/2008/course/dipheoperatingdepartmentpractice,6
+MSc Advanced Nurse Practitioner (Primary Care),../../json/sample/2008/course/mscadvancednursepractitionerprimarycare,5
+P.Grad. Diploma in Prof. Dev. (ECS with EYPS),../../json/sample/2008/course/pgraddiplomainprofdevecswitheyps,3
+Undergraduate Individualised Programme PT,../../json/sample/2008/course/undergraduateindividualisedprogrammept,4
+FdSc Construction,../../json/sample/2008/course/fdscconstruction,3
+BA (Hons) Education and Training UCB,../../json/sample/2008/course/bahonseducationandtrainingucb,3
+Foundation degree in Educational Administration,../../json/sample/2008/course/foundationdegreeineducationaladministration,2
+DMS/MBA PT,../../json/sample/2008/course/dmsmbapt,5
+BSc(H) Bus/Comp with Multimedia,../../json/sample/2008/course/bschbuscompwithmultimedia,2
+MSc Business Project Management,../../json/sample/2008/course/mscbusinessprojectmanagement,4
+Professional Development (Action Research),../../json/sample/2008/course/professionaldevelopmentactionresearch,4
+BSc(H) Sports & Health Studies,../../json/sample/2008/course/bschsportshealthstudies,8
+BSc(Hons) Nursing Studies (Adult),../../json/sample/2008/course/bschonsnursingstudiesadult,12
+LLB(H) Law,../../json/sample/2008/course/llbhlaw,11
+BA (H) Transport Design,../../json/sample/2008/course/bahtransportdesign,4
+BA (Hons) Early Years (Top up) UCO,../../json/sample/2008/course/bahonsearlyyearstopupuco,8
+MA Child Welfare & Safeguarding,../../json/sample/2008/course/machildwelfaresafeguarding,3
+Postgraduate Diploma in Guidance,../../json/sample/2008/course/postgraduatediplomainguidance,2
+HND Business & Management,../../json/sample/2008/course/hndbusinessmanagement,2
+BSc Science Fdn leading to a BSc(H) Degree,../../json/sample/2008/course/bscsciencefdnleadingtoabschdegree,2
+PG Cert in Cognitive Behaviour Therapy (SHA),../../json/sample/2008/course/pgcertincognitivebehaviourtherapysha,3
+PgDip Physiotherapy,../../json/sample/2008/course/pgdipphysiotherapy,1
+BSc(H) Bus/Comp with German,../../json/sample/2008/course/bschbuscompwithgerman,3
+Short Courses P'Grad (30 Credits) SHA,../../json/sample/2008/course/shortcoursesp'grad30creditssha,3
+BSc (Hons) Computing (Multimedia) UCO,../../json/sample/2008/course/bschonscomputingmultimediauco,3
+CIPD Professional development Scheme UCO,../../json/sample/2008/course/cipdprofessionaldevelopmentschemeuco,2
+MA Human Resource Development,../../json/sample/2008/course/mahumanresourcedevelopment,1
+BSc (Hons) Professional Studies,../../json/sample/2008/course/bschonsprofessionalstudies,2
+FdSc Medicines Management & Pharmacy Services,../../json/sample/2008/course/fdscmedicinesmanagementpharmacyservices,3
+Early Years BA,../../json/sample/2008/course/earlyyearsba,2
+BSc(H) Architectural Computer Aided Technology,../../json/sample/2008/course/bscharchitecturalcomputeraidedtechnology,1
+MPhil/PHD (Engineering) FT/PT,../../json/sample/2008/course/mphilphdengineeringftpt,2
+Foundation Degree in Construction UCB,../../json/sample/2008/course/foundationdegreeinconstructionucb,1
+LLM/MA Health Care Law,../../json/sample/2008/course/llmmahealthcarelaw,1
+BSc(H) Soft/Dev with German,../../json/sample/2008/course/bschsoftdevwithgerman,1
+FdSc Secure and Forensic Computing,../../json/sample/2008/course/fdscsecureandforensiccomputing,1
+BA(H) European Business,../../json/sample/2008/course/baheuropeanbusiness,2

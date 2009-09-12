@@ -1,0 +1,20 @@
+{
+  "title": "Coaching basketball successfully /",
+  "author": "Wootten, Morgan.",
+  "isbn": "0880114460",
+  "url": "http://library.hud.ac.uk/catlink/bib/248895",
+  "publisher": "Leisure Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0880114460",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0880114460"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdSc Sports Coaching",
+    "id": "fdscsportscoaching"
+    }
+  ]
+}

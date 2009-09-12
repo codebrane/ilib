@@ -1,0 +1,20 @@
+{
+  "title": "An intelligent person's guide to ethics /",
+  "author": "Warnock, Mary.",
+  "isbn": "1585676934",
+  "url": "http://library.hud.ac.uk/catlink/bib/435691",
+  "publisher": "Duckworth Overlook",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1585676934",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1585676934"
+  },
+  "relatedcourse": [
+  {
+    "name": "Postgraduate Diploma in Guidance",
+    "id": "postgraduatediplomainguidance"
+    }
+  ]
+}

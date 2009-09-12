@@ -1,0 +1,96 @@
+[
+  {
+    "name": "PGCE Music (Schools) - (11-18 1FT)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "6",
+          "book": [
+              {
+                "title": "Music in education : a guide for parents and teachers /",
+                "author": "Carlton, Malcolm.",
+                "isbn": "0713001550",
+                "url": "http://library.hud.ac.uk/catlink/bib/101988",
+                "publisher": "Woburn",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713001550"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713001550"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Music and education : a composer writes about musical education /",
+                "author": "International Bureau of Education.",
+                "isbn": "1853020095",
+                "url": "http://library.hud.ac.uk/catlink/bib/119",
+                "publisher": "Kingsley in association with Unesco",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853020095"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853020095"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching music in the secondary school /",
+                "author": "Bray, David, 1957-",
+                "isbn": "0435809229",
+                "url": "http://library.hud.ac.uk/catlink/bib/364424",
+                "publisher": "Heinemann Educational",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0435809229"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0435809229"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Mozart effect for children : awakening your child's mind, health, and creativity with music /",
+                "author": "Campbell, Don G., 1946-",
+                "isbn": "0340820926",
+                "url": "http://library.hud.ac.uk/catlink/bib/416667",
+                "publisher": "Hodder Mobius",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340820926"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340820926"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A common-sense view of all music : reflections on Percy Grainger's contribution to ethnomusicology and music education.",
+                "author": "Blacking, John.",
+                "isbn": "0521319242",
+                "url": "http://library.hud.ac.uk/catlink/bib/489956",
+                "publisher": "Cambridge U. Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521319242"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521319242"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

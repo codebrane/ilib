@@ -1,0 +1,20 @@
+{
+  "title": "Conducting your pharmacy practice research project : a step-by-step guide /",
+  "author": "Smith, Felicity, 1958-",
+  "isbn": "0853696063",
+  "url": "http://library.hud.ac.uk/catlink/bib/489330",
+  "publisher": "Pharmaceutical Press",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0853696063",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0853696063"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdSc Medicines Management & Pharmacy Services",
+    "id": "fdscmedicinesmanagementpharmacyservices"
+    }
+  ]
+}

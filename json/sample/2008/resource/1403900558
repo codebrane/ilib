@@ -1,0 +1,20 @@
+{
+  "title": "Physics /",
+  "author": "Breithaupt, Jim",
+  "isbn": "1403900558",
+  "url": "http://library.hud.ac.uk/catlink/bib/437392",
+  "publisher": "Palgrave Macmillan",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1403900558",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1403900558"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc Science Fdn leading to a BSc(H) Degree",
+    "id": "bscsciencefdnleadingtoabschdegree"
+    }
+  ]
+}

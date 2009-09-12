@@ -1,0 +1,556 @@
+[
+  {
+    "name": "BA(Hons) Early Primary Education with QTS",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "40",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "32",
+          "book": [
+              {
+                "title": "The archaeology of knowledge /",
+                "author": "Foucault, Michel, 1926-1984.",
+                "isbn": "0422758809",
+                "url": "http://library.hud.ac.uk/catlink/bib/103083",
+                "publisher": "Tavistock Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0422758809"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0422758809"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Discourses of power : from Hobbes to Foucault /",
+                "author": "Hindess, Barry.",
+                "isbn": "0631190929",
+                "url": "http://library.hud.ac.uk/catlink/bib/228098",
+                "publisher": "Blackwell Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631190929"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631190929"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Foucault reader /",
+                "author": "Rabinow, Paul",
+                "isbn": "0140124861",
+                "url": "http://library.hud.ac.uk/catlink/bib/245990",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140124861"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140124861"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The philosophy of mathematics education /",
+                "author": "Ernest, Paul.",
+                "isbn": "1850006679",
+                "url": "http://library.hud.ac.uk/catlink/bib/259214",
+                "publisher": "Falmer Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1850006679"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1850006679"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Academic discourse : linguistic misunderstanding and professorial power /",
+                "author": "Teese, Richard",
+                "isbn": "0745608205",
+                "url": "http://library.hud.ac.uk/catlink/bib/264493",
+                "publisher": "Polity Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745608205"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745608205"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Reflective teaching in the postmodern world : a manifesto for education in postmodernity /",
+                "author": "Parker, Stuart, 1954-",
+                "isbn": "0335195865",
+                "url": "http://library.hud.ac.uk/catlink/bib/265849",
+                "publisher": "Open University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335195865"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335195865"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching primary mathematics /",
+                "author": "Selinger, Michelle",
+                "isbn": "0340631619",
+                "url": "http://library.hud.ac.uk/catlink/bib/280724",
+                "publisher": "Hodder & Stoughton",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340631619"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340631619"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Supporting mathematical development in the early years /",
+                "author": "Pound, Linda.",
+                "isbn": "0335198880",
+                "url": "http://library.hud.ac.uk/catlink/bib/310954",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335198880"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335198880"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching and learning mathematics : a teacher's guide to recent research /",
+                "author": "Nickson, Marilyn",
+                "isbn": "0304706183",
+                "url": "http://library.hud.ac.uk/catlink/bib/333943",
+                "publisher": "Cassell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0304706183"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0304706183"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Educational issues in the learning age /",
+                "author": "Matheson, David",
+                "isbn": "0826448208",
+                "url": "http://library.hud.ac.uk/catlink/bib/347506",
+                "publisher": "Cassell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826448208"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826448208"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching, learning and mathematics : challenging beliefs /",
+                "author": "Bloomfield, Alan",
+                "isbn": "1898611033",
+                "url": "http://library.hud.ac.uk/catlink/bib/348304",
+                "publisher": "Association of Teachers of Mathematics",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1898611033"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1898611033"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Globalisation and pedagogy : space, place, and identity /",
+                "author": "Usher, Robin, 1944-",
+                "isbn": "0415191149",
+                "url": "http://library.hud.ac.uk/catlink/bib/352134",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415191149"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415191149"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Education, knowledge, and truth beyond the postmodern impasse /",
+                "author": "ebrary, Inc.",
+                "isbn": "041516317X",
+                "url": "http://library.hud.ac.uk/catlink/bib/359466",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041516317X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041516317X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mathematics explained for primary teachers /",
+                "author": "Haylock, Derek",
+                "isbn": "0761969500",
+                "url": "http://library.hud.ac.uk/catlink/bib/380286",
+                "publisher": "Paul Chapman Publishing",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969500"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969500"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching and learning early number /",
+                "author": "Thompson, Ian (Frederick Ian)",
+                "isbn": "0335198511",
+                "url": "http://library.hud.ac.uk/catlink/bib/384493",
+                "publisher": "Open University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335198511"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335198511"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Everyday surveillance : vigilance and visibility in postmodern life /",
+                "author": "Staples, William G.",
+                "isbn": "0742500780",
+                "url": "http://library.hud.ac.uk/catlink/bib/391984",
+                "publisher": "Rowman & Littlefield",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0742500780"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0742500780"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Meeting the standards in primary mathematics /",
+                "author": "Brown, Tony, 1946-",
+                "isbn": "0415249864",
+                "url": "http://library.hud.ac.uk/catlink/bib/392510",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415249864"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415249864"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Getting it wrong from the beginning : our progressivist inheritance from Herbert Spencer, John Dewey, and Jean Piaget /",
+                "author": "Dewey, John, 1859-1952",
+                "isbn": "0300094337",
+                "url": "http://library.hud.ac.uk/catlink/bib/412210",
+                "publisher": "Yale University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0300094337"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0300094337"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Using ICT in primary mathematics teaching /",
+                "author": "Briggs, Mary (Mary J.)",
+                "isbn": "190330041X",
+                "url": "http://library.hud.ac.uk/catlink/bib/413124",
+                "publisher": "Learning Matters",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=190330041X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/190330041X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Making sense of education : an introduction to the philosophy and theory of education and teaching /",
+                "author": "Carr, David, 1944-",
+                "isbn": "0415230748",
+                "url": "http://library.hud.ac.uk/catlink/bib/415144",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415230748"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415230748"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mathematics in the primary school : a sense of progression /",
+                "author": "Pepperell, Sandy",
+                "isbn": "1853465925",
+                "url": "http://library.hud.ac.uk/catlink/bib/423301",
+                "publisher": "David Fulton",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853465925"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853465925"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "ICT and primary mathematics /",
+                "author": "Williams, John, 1936-",
+                "isbn": "0415369592",
+                "url": "http://library.hud.ac.uk/catlink/bib/430329",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415369592"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415369592"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Learning mathematics : issues, theory and classroom practice /",
+                "author": "Orton, Anthony.",
+                "isbn": "0826471137",
+                "url": "http://library.hud.ac.uk/catlink/bib/431259",
+                "publisher": "Continuum",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826471137"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826471137"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Critical issues in early childhood education /",
+                "author": "Yelland, Nicola.",
+                "isbn": "0335215971",
+                "url": "http://library.hud.ac.uk/catlink/bib/440072",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335215971"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335215971"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching mathematics in the primary school /",
+                "author": "Canterbury Christ Church University College",
+                "isbn": "0826472583",
+                "url": "http://library.hud.ac.uk/catlink/bib/453522",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826472583"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826472583"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Overcoming dyslexia : a straightforward guide for families and teachers /",
+                "author": "Hornsby, Beve.",
+                "isbn": "0356144992",
+                "url": "http://library.hud.ac.uk/catlink/bib/202719",
+                "publisher": "Optima",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0356144992"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0356144992"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Day-to-day dyslexia in the classroom /",
+                "author": "Pollock, Joy, 1927-",
+                "isbn": "0415111323",
+                "url": "http://library.hud.ac.uk/catlink/bib/357028",
+                "publisher": "Routledge/Falmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415111323"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415111323"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Language and communication difficulties /",
+                "author": "Hartas, Dimitra, 1966-",
+                "isbn": "0826476147",
+                "url": "http://library.hud.ac.uk/catlink/bib/453508",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826476147"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826476147"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Mathematical knowledge for primary teachers /",
+                "author": "Goulding, Maria.",
+                "isbn": "1853467502",
+                "url": "http://library.hud.ac.uk/catlink/bib/423303",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853467502"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853467502"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Making connections in primary mathematics : a practical guide /",
+                "author": "McCullouch, Judith.",
+                "isbn": "1843120887",
+                "url": "http://library.hud.ac.uk/catlink/bib/423307",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843120887"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843120887"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding primary mathematics /",
+                "author": "Pepperell, Sandy",
+                "isbn": "1843120127",
+                "url": "http://library.hud.ac.uk/catlink/bib/434955",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843120127"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843120127"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "100 number games for ages 3 to 5 /",
+                "author": "Tavener, Jenni.",
+                "isbn": "0439984777",
+                "url": "http://library.hud.ac.uk/catlink/bib/438131",
+                "publisher": "Scholastic",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0439984777"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0439984777"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mathematics through play in the early years : activities and ideas /",
+                "author": "Tucker, Kate.",
+                "isbn": "1412903947",
+                "url": "http://library.hud.ac.uk/catlink/bib/441095",
+                "publisher": "Paul Chapman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412903947"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412903947"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

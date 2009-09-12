@@ -1,0 +1,20 @@
+{
+  "title": "Exhibition planning and design : a guide for exhibitors, designers and contractors /",
+  "author": "Allwood, John.",
+  "isbn": "0713453583",
+  "url": "http://library.hud.ac.uk/catlink/bib/132051",
+  "publisher": "Batsford",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0713453583",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0713453583"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Tourism & Leisure Management",
+    "id": "bahtourismleisuremanagement"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "LLB(H) Law/Bus Law/European Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "1",
+          "book": [
+              {
+                "title": "Holyoak and Torremans intellectual property law.",
+                "author": "Torremans, Paul.",
+                "isbn": "040697361X",
+                "url": "http://library.hud.ac.uk/catlink/bib/437304",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=040697361X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/040697361X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

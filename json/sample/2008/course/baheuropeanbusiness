@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BA(H) European Business",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Strategy : analysis and practice /",
+                "author": "McGee, John",
+                "isbn": "0077107063",
+                "url": "http://library.hud.ac.uk/catlink/bib/511412",
+                "publisher": "McGraw-Hill",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0077107063"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0077107063"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

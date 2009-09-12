@@ -1,0 +1,20 @@
+{
+  "title": "Death & dying / Bereavement : private grief and collective responsibility /",
+  "author": "Open University. Death & Dying Course Team.",
+  "isbn": "0749232722",
+  "url": "http://library.hud.ac.uk/catlink/bib/137397",
+  "publisher": "Open University",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0749232722",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0749232722"
+  },
+  "relatedcourse": [
+  {
+    "name": "Undergraduate Associate Students (SHA)",
+    "id": "undergraduateassociatestudentssha"
+    }
+  ]
+}

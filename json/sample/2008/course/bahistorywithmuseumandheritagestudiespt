@@ -1,0 +1,64 @@
+[
+  {
+    "name": "BA History with Museum and Heritage Studies PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "The French Revolution : rethinking the debate /",
+                "author": "Lewis, Gwynne.",
+                "isbn": "0415054664",
+                "url": "http://library.hud.ac.uk/catlink/bib/109370",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415054664"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415054664"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution /",
+                "author": "Forrest, Alan, 1945-",
+                "isbn": "0631183515",
+                "url": "http://library.hud.ac.uk/catlink/bib/329100",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631183515"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631183515"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution : from its origins to 1793 /",
+                "author": "Lefebvre, Georges, 1874-1959.",
+                "isbn": "0415253934",
+                "url": "http://library.hud.ac.uk/catlink/bib/375297",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415253934"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415253934"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

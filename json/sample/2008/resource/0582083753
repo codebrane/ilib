@@ -1,0 +1,20 @@
+{
+  "title": "Understanding the market /",
+  "author": "Dunnett, Andrew.",
+  "isbn": "0582083753",
+  "url": "http://library.hud.ac.uk/catlink/bib/129791",
+  "publisher": "Longman",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0582083753",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0582083753"
+  },
+  "relatedcourse": [
+  {
+    "name": "HND Bus & Management",
+    "id": "hndbusmanagement"
+    }
+  ]
+}

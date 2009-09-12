@@ -1,0 +1,208 @@
+[
+  {
+    "name": "BSc (H) Air Transport and Logistics Management",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "19",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "5",
+          "book": [
+              {
+                "title": "Maximum Midi : music applications in C++ /",
+                "author": "Messick, Paul.",
+                "isbn": "1884777449",
+                "url": "http://library.hud.ac.uk/catlink/bib/314845",
+                "publisher": "Manning",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1884777449"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1884777449"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The sound on sound book of creative recording / Microphones, acoustics, soundproofing & monitoring.",
+                "author": "White, Paul, 1949-",
+                "isbn": "1860742319",
+                "url": "http://library.hud.ac.uk/catlink/bib/351449",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860742319"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860742319"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Sound on Sound book of creative recording / Effects & processors.",
+                "author": "White, Paul, 1949-",
+                "isbn": "1860742297",
+                "url": "http://library.hud.ac.uk/catlink/bib/389877",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860742297"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860742297"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Flying off course : the economics of international airlines /",
+                "author": "Doganis, Rigas, 1939-",
+                "isbn": "0203995260",
+                "url": "http://library.hud.ac.uk/catlink/bib/411636",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0203995260"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0203995260"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Creative recording. Effects and processors /",
+                "author": "White, Paul, 1949- Sound on Sound book of creative recording.",
+                "isbn": "1860744567",
+                "url": "http://library.hud.ac.uk/catlink/bib/414875",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860744567"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860744567"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "3",
+          "book": [
+              {
+                "title": "The impact of traffic congestion on logistical efficiency.",
+                "author": "McKinnon, Alan C.",
+                "isbn": "1870214390",
+                "url": "http://library.hud.ac.uk/catlink/bib/389684",
+                "publisher": "Institute of Logistics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1870214390"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1870214390"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Logistics and retail management insights into current practice and trends from leading experts /",
+                "author": "Fernie, John, 1948-",
+                "isbn": "0749440910",
+                "url": "http://library.hud.ac.uk/catlink/bib/426633",
+                "publisher": "Kogan Page",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749440910"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749440910"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "International business : competing in the global marketplace /",
+                "author": "Hill, Charles W. L.",
+                "isbn": "0071106715",
+                "url": "http://library.hud.ac.uk/catlink/bib/510989",
+                "publisher": "McGraw-Hill/Irwin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0071106715"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0071106715"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "11",
+          "book": [
+              {
+                "title": "Flying off course : the economics of international airlines /",
+                "author": "Doganis, Rigas, 1939-",
+                "isbn": "0203995260",
+                "url": "http://library.hud.ac.uk/catlink/bib/411636",
+                "publisher": "Routledge",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0203995260"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0203995260"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Accounting for non-accounting students /",
+                "author": "Dyson, J. R. (John Richard), 1939-",
+                "isbn": "0273683853",
+                "url": "http://library.hud.ac.uk/catlink/bib/424449",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "6",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273683853"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273683853"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "DMS/MBA PT",
+                      "id": "dmsmbapt"
+                   }
+                  ]
+              },
+              {
+                "title": "Logistics and supply chain management : creating value-adding networks /",
+                "author": "Christopher, Martin.",
+                "isbn": "0273681761",
+                "url": "http://library.hud.ac.uk/catlink/bib/454062",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273681761"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273681761"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

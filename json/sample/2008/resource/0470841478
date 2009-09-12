@@ -1,0 +1,20 @@
+{
+  "title": "Strategic planning for information systems /",
+  "author": "Peppard, Joe",
+  "isbn": "0470841478",
+  "url": "http://library.hud.ac.uk/catlink/bib/400708",
+  "publisher": "Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0470841478",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0470841478"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Information Systems Management",
+    "id": "mscinformationsystemsmanagement"
+    }
+  ]
+}

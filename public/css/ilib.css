@@ -1,0 +1,111 @@
+.courseSummary {
+	padding: 10px;
+}
+
+.bookSummary {
+	padding: 10px;
+	border-width:thin;
+	border-style:solid;
+}
+
+.bookCover {
+	float: left;
+	padding: 10px;
+}
+
+.progressionNameAndTotal {
+	width: 100%;
+	text-align: center;
+	background-color: #00ff00;
+}
+
+.favBook {
+	float: right;
+}
+
+.contentBox {
+	padding: 10px;
+	border-width: thin;
+	border-style: solid;
+}
+
+.banner {
+	font-size: large;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+.error {
+	padding: 5px;
+	border-width:thin;
+	border-style:solid;
+	background-color: #ff0000;
+	color: #ffffff;
+}
+
+.success {
+	padding: 5px;
+	border-width:thin;
+	border-style:solid;
+	background-color: #00ff00;
+	color: #000000;
+}
+
+body {
+  font: 100% verdana, arial, sans-serif;
+	background-color: #ffffff;
+	margin: 50px;
+}
+
+/* begin css tabs */
+
+ul#tabnav { /* general settings */
+	text-align: left; /* set to left, right or center */
+	margin: 1em 0 1em 0; /* set margins as desired */
+	font: bold 11px verdana, arial, sans-serif; /* set font as desired */
+	border-bottom: 1px solid #6c6; /* set border COLOR as desired */
+	list-style-type: none;
+	padding: 3px 10px 3px 10px; /* THIRD number must change with respect to padding-top (X) below */
+}
+
+ul#tabnav li { /* do not change */
+	display: inline;
+}
+
+body#searchTab li.searchTab,
+body#bookSearchTab li.bookSearchTab,
+body#allCoursesTab li.allCoursesTab,
+body#aboutTab li.aboutTab,
+body#readingListTab li.readingListTab,
+body#sharedReadingListsTab li.sharedReadingListsTab,
+body#courseTab li.courseTab { /* settings for selected tab */
+  border-bottom: 1px solid #fff; /* set border color to page background color */
+  background-color: #fff; /* set background color to match above border color */
+}
+
+body#searchTab li.searchTab a,
+body#bookSearchTab li.bookSearchTab a,
+body#allCoursesTab li.allCoursesTab a,
+body#aboutTab li.aboutTab a,
+body#readingListTab li.readingListTab a,
+body#sharedReadingListsTab li.sharedReadingListsTab a,
+body#courseTab li.courseTab a { /* settings for selected tab link */
+  background-color: #fff; /* set selected tab background color as desired */
+  color: #000; /* set selected tab link color as desired */
+  position: relative;
+  top: 1px;
+  padding-top: 4px; /* must change with respect to padding (X) above and below */
+}
+
+ul#tabnav li a { /* settings for all tab links */
+	padding: 3px 4px; /* set padding (tab size) as desired; FIRST number must change with respect to padding-top (X) above */
+	border: 1px solid #6c6; /* set border COLOR as desired; usually matches border color specified in #tabnav */
+	background-color: #cfc; /* set unselected tab background color as desired */
+	color: #666; /* set unselected tab link color as desired */
+	margin-right: 0px; /* set additional spacing between tabs as desired */
+	text-decoration: none;
+	border-bottom: none;
+}
+
+ul#tabnav a:hover { /* settings for hover effect */
+	background: #fff; /* set desired hover color */
+}

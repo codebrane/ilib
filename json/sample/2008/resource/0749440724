@@ -1,0 +1,20 @@
+{
+  "title": "Public relations : a practical guide to the basics /",
+  "author": "Henslowe, Philip, 1934-",
+  "isbn": "0749440724",
+  "url": "http://library.hud.ac.uk/catlink/bib/442438",
+  "publisher": "Kogan Page",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0749440724",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0749440724"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Public Relations with Media",
+    "id": "bahpublicrelationswithmedia"
+    }
+  ]
+}

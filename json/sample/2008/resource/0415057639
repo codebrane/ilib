@@ -1,0 +1,20 @@
+{
+  "title": "The politics of performance : radical theatre as cultural intervention /",
+  "author": "Kershaw, Baz",
+  "isbn": "0415057639",
+  "url": "http://library.hud.ac.uk/catlink/bib/110186",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415057639",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415057639"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Drama & English",
+    "id": "bahdramaenglish"
+    }
+  ]
+}

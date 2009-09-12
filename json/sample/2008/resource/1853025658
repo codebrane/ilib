@@ -1,0 +1,20 @@
+{
+  "title": "Children's homes revisited /",
+  "author": "Berridge, David",
+  "isbn": "1853025658",
+  "url": "http://library.hud.ac.uk/catlink/bib/283965",
+  "publisher": "Jessica Kingsley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1853025658",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1853025658"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Applied Criminology (Crim & Comm Justice)",
+    "id": "bschappliedcriminologycrimcommjustice"
+    }
+  ]
+}

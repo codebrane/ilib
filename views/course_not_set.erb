@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : Course not chosen yet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body id="courseTab">
+	
+<div style="float: left;"><img src="/ilib/images/course_not_set.gif"/></div>
+<div style="padding: 15px;"><div class="banner">&nbsp;&nbsp;iLib, the Course Book Finder : Course not chosen yet</div></div>
+<div style="clear: both; padding: 1px;"/>
+
+<ul id="tabnav">
+	<li class="searchTab"><a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a></li>
+	<li class="tab1"><a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a></li>
+	<li class="allCoursesTab"><a href="/ilib/allcourses">All Courses</a></li>
+	<li class="readingListTab"><a href="/ilib/readinglist">My Reading List</a></li>
+	<li class="courseTab"><a href="/ilib/course/<%= session["current_course_id"] %>"><%= session["current_course_name"] %></a></li>
+	<li class="sharedReadingListsTab"><a href="/ilib/shared_reading_lists">Shared Reading Lists</a></li>
+	<li class="aboutTab"><a href="/ilib/about">About</a></li>
+</ul>
+
+<div class="contentBox">
+When you choose a course from the <a href="/ilib/allcourses">All Courses</a> tab or <a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a> tab or <a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a> tab, the course details will appear here.
+</div>
+
+</body>
+</html>

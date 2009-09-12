@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BEng Engineering with Technology Management (M&M)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Management for engineers /",
+                "author": "Chapman, C. B. (Christopher Baker), 1939-",
+                "isbn": "0471916161",
+                "url": "http://library.hud.ac.uk/catlink/bib/129357",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471916161"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471916161"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

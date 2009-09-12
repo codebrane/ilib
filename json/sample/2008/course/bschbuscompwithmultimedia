@@ -1,0 +1,36 @@
+[
+  {
+    "name": "BSc(H) Bus/Comp with Multimedia",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Project management : planning and control techniques /",
+                "author": "Burke, Rory, 1952-",
+                "isbn": "0470851244",
+                "url": "http://library.hud.ac.uk/catlink/bib/424681",
+                "publisher": "Wiley",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470851244"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470851244"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "MSc Business Project Management",
+                      "id": "mscbusinessprojectmanagement"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "name": "BA(Hons) English Literature with Creative Writing",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "Ethics & journalism /",
+                "author": "Sanders, Karen.",
+                "isbn": "0761969667",
+                "url": "http://library.hud.ac.uk/catlink/bib/415747",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969667"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969667"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Harry Potter's world : multidisciplinary critical perspectives /",
+                "author": "Heilman, Elizabeth E",
+                "isbn": "0415933730",
+                "url": "http://library.hud.ac.uk/catlink/bib/417617",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415933730"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415933730"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Making the novel : fiction and society in Britain, 1660-1789 /",
+                "author": "Hammond, Brean S., 1951-",
+                "isbn": "0333628543",
+                "url": "http://library.hud.ac.uk/catlink/bib/502446",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333628543"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333628543"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

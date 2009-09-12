@@ -1,0 +1,256 @@
+[
+  {
+    "name": "MEng Electronic & Electrical Engineering",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "19",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "9",
+          "book": [
+              {
+                "title": "The art of electronics /",
+                "author": "Hill, Winfield",
+                "isbn": "0521370957",
+                "url": "http://library.hud.ac.uk/catlink/bib/116191",
+                "publisher": "Cambridge University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521370957"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521370957"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Electronics : a systems approach /",
+                "author": "Storey, Neil.",
+                "isbn": "020117796X",
+                "url": "http://library.hud.ac.uk/catlink/bib/290582",
+                "publisher": "Addison-Wesley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=020117796X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/020117796X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Electronic devices /",
+                "author": "Floyd, Thomas L.",
+                "isbn": "0139737693",
+                "url": "http://library.hud.ac.uk/catlink/bib/298087",
+                "publisher": "Prentice-Hall International",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0139737693"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0139737693"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Microsoft Visual Basic Professional 6.0 step by step /",
+                "author": "Halvorson, Michael.",
+                "isbn": "1572318090",
+                "url": "http://library.hud.ac.uk/catlink/bib/298285",
+                "publisher": "Microsoft Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1572318090"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1572318090"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The DSP handbook : algorithms, applications and design techniques /",
+                "author": "Bateman, Andrew.",
+                "isbn": "0201398516",
+                "url": "http://library.hud.ac.uk/catlink/bib/413283",
+                "publisher": "Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0201398516"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0201398516"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Digital signal processing and applications.",
+                "author": "Walker, William.",
+                "isbn": "0750663448",
+                "url": "http://library.hud.ac.uk/catlink/bib/442862",
+                "publisher": "Newnes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750663448"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750663448"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The photography handbook /",
+                "author": "Wright, Terence, 1952-",
+                "isbn": "0415258030",
+                "url": "http://library.hud.ac.uk/catlink/bib/429446",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415258030"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415258030"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Electric circuits fundamentals /",
+                "author": "Franco, Sergio.",
+                "isbn": "0030723078",
+                "url": "http://library.hud.ac.uk/catlink/bib/220957",
+                "publisher": "Saunders College Pub",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0030723078"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0030723078"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to electric circuits /",
+                "author": "Svoboda, James A",
+                "isbn": "0471127027",
+                "url": "http://library.hud.ac.uk/catlink/bib/227271",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471127027"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471127027"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Engineering mathematics.",
+                "author": "Stroud, K. A. (Kenneth Arthur), 1908-",
+                "isbn": "0333919394",
+                "url": "http://library.hud.ac.uk/catlink/bib/366651",
+                "publisher": "Palgrave",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333919394"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333919394"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "MEng Mechanical & Automotive Design",
+                      "id": "mengmechanicalautomotivedesign"
+                   }
+                  ]
+              },
+              {
+                "title": "Sams teach yourself C++ in 24 hours /",
+                "author": "Liberty, Jesse.",
+                "isbn": "0672322242",
+                "url": "http://library.hud.ac.uk/catlink/bib/412722",
+                "publisher": "Sams",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0672322242"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0672322242"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Engineering mathematics /",
+                "author": "Booth, Dexter J.",
+                "isbn": "0831131527",
+                "url": "http://library.hud.ac.uk/catlink/bib/423660",
+                "publisher": "Industrial Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0831131527"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0831131527"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introductory circuit analysis /",
+                "author": "Boylestad, Robert.",
+                "isbn": "0130484334",
+                "url": "http://library.hud.ac.uk/catlink/bib/444417",
+                "publisher": "Pearson Education",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130484334"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130484334"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Electrical machines, drives, and power systems /",
+                "author": "Wildi, Theodore.",
+                "isbn": "0131969188",
+                "url": "http://library.hud.ac.uk/catlink/bib/491564",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131969188"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131969188"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Designing the user interface : strategies for effective human-computer interaction.",
+  "author": "Plaisant, Catherine.",
+  "isbn": "0321269780",
+  "url": "http://library.hud.ac.uk/catlink/bib/446425",
+  "publisher": "Addison-Wesley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0321269780",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0321269780"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc (Hons) Computing (Multimedia) UCO",
+    "id": "bschonscomputingmultimediauco"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "MA Professional Development",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Computers in the fashion industry /",
+                "author": "Taylor, Patrick J.",
+                "isbn": "0434919160",
+                "url": "http://library.hud.ac.uk/catlink/bib/119179",
+                "publisher": "Heinemann Professional",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0434919160"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0434919160"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fabric, form and flat pattern cutting /",
+                "author": "Aldrich, Winifred",
+                "isbn": "0632039175",
+                "url": "http://library.hud.ac.uk/catlink/bib/234301",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0632039175"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0632039175"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "CAD/CAM in clothing and textiles /",
+                "author": "Gray, Stephen.",
+                "isbn": "056607673X",
+                "url": "http://library.hud.ac.uk/catlink/bib/306713",
+                "publisher": "Gower",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=056607673X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/056607673X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fashion computing : design techniques and CAD /",
+                "author": "Burke, Sandra.",
+                "isbn": "0958239134",
+                "url": "http://library.hud.ac.uk/catlink/bib/453740",
+                "publisher": "Burke",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0958239134"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0958239134"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "name": "BA(H) Management & Accountancy",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "21",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "12",
+          "book": [
+              {
+                "title": "Advanced management accounting /",
+                "author": "Kaplan, Robert S.",
+                "isbn": "0132622882",
+                "url": "http://library.hud.ac.uk/catlink/bib/292819",
+                "publisher": "Prentice-Hall International",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0132622882"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0132622882"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Behind closed doors : what company audit is really about /",
+                "author": "Beattie, Vivien A.",
+                "isbn": "0333747844",
+                "url": "http://library.hud.ac.uk/catlink/bib/366140",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333747844"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333747844"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exploring corporate strategy /",
+                "author": "Johnson, Gerry",
+                "isbn": "0273651129",
+                "url": "http://library.hud.ac.uk/catlink/bib/383622",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273651129"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273651129"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "International financial reporting and analysis /",
+                "author": "Alexander, David, 1941-",
+                "isbn": "1861528809",
+                "url": "http://library.hud.ac.uk/catlink/bib/419720",
+                "publisher": "Thomson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861528809"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861528809"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cases in cost management : a strategic emphasis /",
+                "author": "Shank, John K.",
+                "isbn": "0324062699",
+                "url": "http://library.hud.ac.uk/catlink/bib/424451",
+                "publisher": "South-Western College Publishing",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0324062699"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0324062699"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Management and cost accounting /",
+                "author": "Drury, Colin.",
+                "isbn": "1844800288",
+                "url": "http://library.hud.ac.uk/catlink/bib/428731",
+                "publisher": "Thomson",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844800288"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844800288"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Financial reporting /",
+                "author": "Alexander, David, 1941-",
+                "isbn": "1844800334",
+                "url": "http://library.hud.ac.uk/catlink/bib/434660",
+                "publisher": "Thomson Learning",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844800334"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844800334"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exploring corporate strategy /",
+                "author": "Whittington, Richard, 1958-",
+                "isbn": "0273687344",
+                "url": "http://library.hud.ac.uk/catlink/bib/441666",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273687344"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273687344"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(H) Human Resource Management",
+                      "id": "bahhumanresourcemanagement"
+                   }
+                  ]
+              },
+              {
+                "title": "International financial reporting and analysis /",
+                "author": "Alexander, David, 1941-",
+                "isbn": "1844802019",
+                "url": "http://library.hud.ac.uk/catlink/bib/453537",
+                "publisher": "Thomson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844802019"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844802019"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Corporate financial management /",
+                "author": "Arnold, Glen.",
+                "isbn": "0273687263",
+                "url": "http://library.hud.ac.uk/catlink/bib/462280",
+                "publisher": "Pearson Education",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273687263"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273687263"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Management accounting : Ray H. Garrison, Eric W. Noreen, Willie Seal.",
+                "author": "Noreen, Eric W.",
+                "isbn": "0077098595",
+                "url": "http://library.hud.ac.uk/catlink/bib/417776",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0077098595"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0077098595"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Frank Wood's business accounting 1 /",
+                "author": "Wood, Frank",
+                "isbn": "0273655523",
+                "url": "http://library.hud.ac.uk/catlink/bib/424448",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273655523"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273655523"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Business accounting and finance : for non-specialists /",
+                "author": "Gowthorpe, C.",
+                "isbn": "1861528728",
+                "url": "http://library.hud.ac.uk/catlink/bib/491143",
+                "publisher": "Thomson Learning",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861528728"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861528728"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "6",
+          "book": [
+              {
+                "title": "Management and organisational behaviour /",
+                "author": "Mullins, Laurie J",
+                "isbn": "0273688766",
+                "url": "http://library.hud.ac.uk/catlink/bib/435808",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273688766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273688766"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Accounting information systems /",
+                "author": "Hall, James A., 1944-",
+                "isbn": "0324192029",
+                "url": "http://library.hud.ac.uk/catlink/bib/440595",
+                "publisher": "South-Western",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0324192029"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0324192029"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Corporate financial management /",
+                "author": "Arnold, Glen.",
+                "isbn": "0273687263",
+                "url": "http://library.hud.ac.uk/catlink/bib/462280",
+                "publisher": "Pearson Education",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273687263"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273687263"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

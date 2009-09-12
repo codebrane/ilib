@@ -1,0 +1,20 @@
+{
+  "title": "Logo, font & lettering bible : a comprehensive guide to the design, construction and usage of alphabets, letters and symbols /",
+  "author": "Cabarga, Leslie, 1954-",
+  "isbn": "0715316990",
+  "url": "http://library.hud.ac.uk/catlink/bib/424512",
+  "publisher": "David & Charles",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0715316990",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0715316990"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) Video Animation and Music Production",
+    "id": "bahonsvideoanimationandmusicproduction"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Extreme textiles : designing for high performance /",
+  "author": "Cooper-Hewitt Museum.",
+  "isbn": "0500512256",
+  "url": "http://library.hud.ac.uk/catlink/bib/444163",
+  "publisher": "Thames & Hudson",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0500512256",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0500512256"
+  },
+  "relatedcourse": [
+  {
+    "name": "MText Textile Design for Fashion and Interiors",
+    "id": "mtexttextiledesignforfashionandinteriors"
+    }
+  ]
+}

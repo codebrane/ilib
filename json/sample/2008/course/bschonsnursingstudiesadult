@@ -1,0 +1,198 @@
+[
+  {
+    "name": "BSc(Hons) Nursing Studies (Adult)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "12",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "9",
+          "book": [
+              {
+                "title": "Nursing adults : the practice of caring /",
+                "author": "Nicol, Maggie",
+                "isbn": "0723431574",
+                "url": "http://library.hud.ac.uk/catlink/bib/427392",
+                "publisher": "Mosby",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0723431574"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0723431574"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Drug calculations for nurses : a step-by-step approach /",
+                "author": "Agar, Heather",
+                "isbn": "0340810289",
+                "url": "http://library.hud.ac.uk/catlink/bib/428351",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340810289"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340810289"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Law and ethics /",
+                "author": "Hendrick, Judith.",
+                "isbn": "0748775412",
+                "url": "http://library.hud.ac.uk/catlink/bib/429051",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748775412"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748775412"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Profiles and portfolios of evidence /",
+                "author": "Pearce, Ruth.",
+                "isbn": "0748771239",
+                "url": "http://library.hud.ac.uk/catlink/bib/435879",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748771239"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748771239"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Medicines management /",
+                "author": "Chapman, Stephen, 1957-",
+                "isbn": "0727912747",
+                "url": "http://library.hud.ac.uk/catlink/bib/495338",
+                "publisher": "BMJ Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0727912747"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0727912747"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Trounce's clinical pharmacology for nurses /",
+                "author": "Trounce, J. R. (John Reginald) Clinical pharmacology for nurses.",
+                "isbn": "0443072086",
+                "url": "http://library.hud.ac.uk/catlink/bib/498882",
+                "publisher": "Churchill Livingstone",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443072086"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443072086"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Illustrated pharmacology for nurses /",
+                "author": "Simonsen, Terje.",
+                "isbn": "0340809728",
+                "url": "http://library.hud.ac.uk/catlink/bib/501417",
+                "publisher": "Hodder Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340809728"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340809728"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Achieving evidence-based practice : a handbook for practitioners /",
+                "author": "Collinson, Gill",
+                "isbn": "0702027766",
+                "url": "http://library.hud.ac.uk/catlink/bib/511238",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702027766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702027766"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "Health policy for health care professionals",
+                "author": "Bradshaw, Peter L.",
+                "isbn": "0761974016",
+                "url": "http://library.hud.ac.uk/catlink/bib/435117",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761974016"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761974016"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Clinical governance in health care practice /",
+                "author": "Swage, Thoreya.",
+                "isbn": "0750656816",
+                "url": "http://library.hud.ac.uk/catlink/bib/454796",
+                "publisher": "Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750656816"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750656816"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Clinical governance in a changing NHS /",
+                "author": "Lugon, Myriam",
+                "isbn": "1853156655",
+                "url": "http://library.hud.ac.uk/catlink/bib/505371",
+                "publisher": "Royal Society of Medicine Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853156655"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853156655"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Application specific integrated circuits /",
+  "author": "Smith, Michael John Sebastian.",
+  "isbn": "0201500221",
+  "url": "http://library.hud.ac.uk/catlink/bib/266454",
+  "publisher": "Addison-Wesley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0201500221",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0201500221"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Electronic & Computer Based Systems Design",
+    "id": "mscelectroniccomputerbasedsystemsdesign"
+    }
+  ]
+}

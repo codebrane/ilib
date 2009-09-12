@@ -1,0 +1,20 @@
+{
+  "title": "Masks : faces of culture /",
+  "author": "St. Louis Art Museum",
+  "isbn": "0810943794",
+  "url": "http://library.hud.ac.uk/catlink/bib/336776",
+  "publisher": "Abrams in association with the Saint Louis Art Museum",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0810943794",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0810943794"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Fine Art:Drawing & Painting",
+    "id": "bahfineartdrawingpainting"
+    }
+  ]
+}

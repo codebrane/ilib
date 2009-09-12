@@ -1,0 +1,20 @@
+{
+  "title": "Evidence-based practice in nursing & healthcare : a guide to best practice /",
+  "author": "Fineout-Overholt, Ellen.",
+  "isbn": "0781758084",
+  "url": "http://library.hud.ac.uk/catlink/bib/445157",
+  "publisher": "Lippincott Williams & Wilkins",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0781758084",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0781758084"
+  },
+  "relatedcourse": [
+  {
+    "name": "Short Courses P'Grad (30 Credits) SHA",
+    "id": "shortcoursesp'grad30creditssha"
+    }
+  ]
+}

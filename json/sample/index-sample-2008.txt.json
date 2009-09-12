@@ -1,0 +1,912 @@
+[
+  {
+    "name": "BA(H) Humanities",
+    "id": "bahhumanities",
+    "total": "20"
+  },
+  {
+    "name": "BA(H) Surface Design for Fashion & Interiors",
+    "id": "bahsurfacedesignforfashioninteriors",
+    "total": "17"
+  },
+  {
+    "name": "BSc(H) Physiotherapy",
+    "id": "bschphysiotherapy",
+    "total": "13"
+  },
+  {
+    "name": "BA(H) Human Resource Management (Top up)",
+    "id": "bahhumanresourcemanagementtopup",
+    "total": "4"
+  },
+  {
+    "name": "PGCE Music (Schools) - (11-18 1FT)",
+    "id": "pgcemusicschools11181ft",
+    "total": "6"
+  },
+  {
+    "name": "Foundation degree in Learning Support (University)",
+    "id": "foundationdegreeinlearningsupportuniversity",
+    "total": "10"
+  },
+  {
+    "name": "BA(H) Music and Journalism",
+    "id": "bahmusicandjournalism",
+    "total": "2"
+  },
+  {
+    "name": "BA(H) Fashion Design with Marketing & Production",
+    "id": "bahfashiondesignwithmarketingproduction",
+    "total": "26"
+  },
+  {
+    "name": "BSc(H) Criminology",
+    "id": "bschcriminology",
+    "total": "19"
+  },
+  {
+    "name": "BA(H) Leadership and Managing Innovation",
+    "id": "bahleadershipandmanaginginnovation",
+    "total": "20"
+  },
+  {
+    "name": "BA(Hons) Early Primary Education with QTS",
+    "id": "bahonsearlyprimaryeducationwithqts",
+    "total": "40"
+  },
+  {
+    "name": "BA(Hons) Creative Writing and English Literature",
+    "id": "bahonscreativewritingandenglishliterature",
+    "total": "28"
+  },
+  {
+    "name": "BA(H) English & Media",
+    "id": "bahenglishmedia",
+    "total": "4"
+  },
+  {
+    "name": "BA(H) English Language w Modern Lang PT",
+    "id": "bahenglishlanguagewmodernlangpt",
+    "total": "2"
+  },
+  {
+    "name": "BSc(H) Health & Social Welfare",
+    "id": "bschhealthsocialwelfare",
+    "total": "26"
+  },
+  {
+    "name": "BA(H) Costume with Textiles",
+    "id": "bahcostumewithtextiles",
+    "total": "14"
+  },
+  {
+    "name": "BSc Applied Sciences",
+    "id": "bscappliedsciences",
+    "total": "16"
+  },
+  {
+    "name": "BA(Hons) Journalism & Media",
+    "id": "bahonsjournalismmedia",
+    "total": "13"
+  },
+  {
+    "name": "BA(Hons) History and Law",
+    "id": "bahonshistoryandlaw",
+    "total": "36"
+  },
+  {
+    "name": "PGCE (PCET) (Grimsby Insti)",
+    "id": "pgcepcetgrimsbyinsti",
+    "total": "26"
+  },
+  {
+    "name": "BA(Hons) Music Technology and Popular Music",
+    "id": "bahonsmusictechnologyandpopularmusic",
+    "total": "16"
+  },
+  {
+    "name": "BSc(H) Podiatry",
+    "id": "bschpodiatry",
+    "total": "35"
+  },
+  {
+    "name": "BA(H)  Textile Crafts",
+    "id": "bahtextilecrafts",
+    "total": "17"
+  },
+  {
+    "name": "BMus(H)",
+    "id": "bmush",
+    "total": "15"
+  },
+  {
+    "name": "BA History with Museum and Heritage Studies PT",
+    "id": "bahistorywithmuseumandheritagestudiespt",
+    "total": "3"
+  },
+  {
+    "name": "BSc(H) Social Work",
+    "id": "bschsocialwork",
+    "total": "28"
+  },
+  {
+    "name": "BA(H) Drama & English",
+    "id": "bahdramaenglish",
+    "total": "18"
+  },
+  {
+    "name": "BSc(H) Catering Management & Food Sciences",
+    "id": "bschcateringmanagementfoodsciences",
+    "total": "18"
+  },
+  {
+    "name": "BSc(Hons) Counselling Studies",
+    "id": "bschonscounsellingstudies",
+    "total": "12"
+  },
+  {
+    "name": "Dip in Architecture/Architecture (International)",
+    "id": "dipinarchitecturearchitectureinternational",
+    "total": "24"
+  },
+  {
+    "name": "MMus Contemporary Music Performance",
+    "id": "mmuscontemporarymusicperformance",
+    "total": "4"
+  },
+  {
+    "name": "BSc(H) Sociology & Criminology",
+    "id": "bschsociologycriminology",
+    "total": "25"
+  },
+  {
+    "name": "MEng Electronic & Electrical Engineering",
+    "id": "mengelectronicelectricalengineering",
+    "total": "19"
+  },
+  {
+    "name": "BSc (Hons) Podiatry PT",
+    "id": "bschonspodiatrypt",
+    "total": "14"
+  },
+  {
+    "name": "MA Professional Development",
+    "id": "maprofessionaldevelopment",
+    "total": "4"
+  },
+  {
+    "name": "MA History PT",
+    "id": "mahistorypt",
+    "total": "3"
+  },
+  {
+    "name": "BSc(H) Health & Community Studies",
+    "id": "bschhealthcommunitystudies",
+    "total": "20"
+  },
+  {
+    "name": "PGCE History (11-18 1FT)",
+    "id": "pgcehistory11181ft",
+    "total": "8"
+  },
+  {
+    "name": "BA(H) Interior Design",
+    "id": "bahinteriordesign",
+    "total": "13"
+  },
+  {
+    "name": "BA(H) Politics & Law",
+    "id": "bahpoliticslaw",
+    "total": "13"
+  },
+  {
+    "name": "BEng Engineering with Technology Management (M&M)",
+    "id": "bengengineeringwithtechnologymanagementmm",
+    "total": "1"
+  },
+  {
+    "name": "MSc Analytical Bioscience",
+    "id": "mscanalyticalbioscience",
+    "total": "9"
+  },
+  {
+    "name": "BA(H) Fashion, Media & Promotion",
+    "id": "bahfashionmediapromotion",
+    "total": "12"
+  },
+  {
+    "name": "HND Bus & Management",
+    "id": "hndbusmanagement",
+    "total": "3"
+  },
+  {
+    "name": "BA(H) Tourism & Leisure Management",
+    "id": "bahtourismleisuremanagement",
+    "total": "33"
+  },
+  {
+    "name": "BA(H) Fashion Design with Textiles",
+    "id": "bahfashiondesignwithtextiles",
+    "total": "31"
+  },
+  {
+    "name": "BA (Hons) Educational Administration",
+    "id": "bahonseducationaladministration",
+    "total": "9"
+  },
+  {
+    "name": "Undergraduate Associate Students (SHA)",
+    "id": "undergraduateassociatestudentssha",
+    "total": "5"
+  },
+  {
+    "name": "Foundation degree in Early Years",
+    "id": "foundationdegreeinearlyyears",
+    "total": "3"
+  },
+  {
+    "name": "BSc(H) Midwifery Studies",
+    "id": "bschmidwiferystudies",
+    "total": "24"
+  },
+  {
+    "name": "ACCA Professional Scheme",
+    "id": "accaprofessionalscheme",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) Popular Music Production",
+    "id": "bahpopularmusicproduction",
+    "total": "49"
+  },
+  {
+    "name": "MSc Eng. Control Systems & Instrumentation",
+    "id": "mscengcontrolsystemsinstrumentation",
+    "total": "1"
+  },
+  {
+    "name": "Diploma in Professional Studies: Youth & Community",
+    "id": "diplomainprofessionalstudiesyouthcommunity",
+    "total": "3"
+  },
+  {
+    "name": "BA(H) Arch/Arch(Int)/Diploma in Architecture",
+    "id": "baharcharchintdiplomainarchitecture",
+    "total": "12"
+  },
+  {
+    "name": "BSc(H) Psychology",
+    "id": "bschpsychology",
+    "total": "72"
+  },
+  {
+    "name": "BA(H) Advertising & Media Relations",
+    "id": "bahadvertisingmediarelations",
+    "total": "26"
+  },
+  {
+    "name": "DipHE (BSc(Hons) option) Nursing Studies - Child",
+    "id": "diphebschonsoptionnursingstudieschild",
+    "total": "16"
+  },
+  {
+    "name": "LLB(H) Business Law",
+    "id": "llbhbusinesslaw",
+    "total": "13"
+  },
+  {
+    "name": "BA(H) Interdisciplinary Art and Design (Jewellery)",
+    "id": "bahinterdisciplinaryartanddesignjewellery",
+    "total": "21"
+  },
+  {
+    "name": "BSc(Hons) Electronics and Music Technology",
+    "id": "bschonselectronicsandmusictechnology",
+    "total": "2"
+  },
+  {
+    "name": "FdSc Sports Coaching",
+    "id": "fdscsportscoaching",
+    "total": "2"
+  },
+  {
+    "name": "BSc(H) Forensic Science with Criminology",
+    "id": "bschforensicsciencewithcriminology",
+    "total": "9"
+  },
+  {
+    "name": "MPharm",
+    "id": "mpharm",
+    "total": "6"
+  },
+  {
+    "name": "Associate students",
+    "id": "associatestudents",
+    "total": "2"
+  },
+  {
+    "name": "BSc(H) Occupational Therapy",
+    "id": "bschoccupationaltherapy",
+    "total": "28"
+  },
+  {
+    "name": "MSc Electronic & Computer Based Systems Design",
+    "id": "mscelectroniccomputerbasedsystemsdesign",
+    "total": "3"
+  },
+  {
+    "name": "Short Courses 30 Credits SHA",
+    "id": "shortcourses30creditssha",
+    "total": "3"
+  },
+  {
+    "name": "BSc(H) Sports Therapy",
+    "id": "bschsportstherapy",
+    "total": "18"
+  },
+  {
+    "name": "BA(H) Business & Journalism",
+    "id": "bahbusinessjournalism",
+    "total": "14"
+  },
+  {
+    "name": "BA(H) Creative Imaging-Motion Graphics & Animation",
+    "id": "bahcreativeimagingmotiongraphicsanimation",
+    "total": "50"
+  },
+  {
+    "name": "BSc(H) Psychological Studies",
+    "id": "bschpsychologicalstudies",
+    "total": "14"
+  },
+  {
+    "name": "MSc Analytical Bioscience PT",
+    "id": "mscanalyticalbiosciencept",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) Youth & Community Work",
+    "id": "bahyouthcommunitywork",
+    "total": "2"
+  },
+  {
+    "name": "BSc(H) Applied Criminology (Crim & Comm Justice)",
+    "id": "bschappliedcriminologycrimcommjustice",
+    "total": "8"
+  },
+  {
+    "name": "BMus(H) Creative Music Technology",
+    "id": "bmushcreativemusictechnology",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) Management & Accountancy",
+    "id": "bahmanagementaccountancy",
+    "total": "21"
+  },
+  {
+    "name": "MSc Public Health Nursing Practice",
+    "id": "mscpublichealthnursingpractice",
+    "total": "5"
+  },
+  {
+    "name": "BSc (H) Air Transport and Logistics Management",
+    "id": "bschairtransportandlogisticsmanagement",
+    "total": "19"
+  },
+  {
+    "name": "MSc International Business Management",
+    "id": "mscinternationalbusinessmanagement",
+    "total": "4"
+  },
+  {
+    "name": "Diploma in Prof.Studies - Youth & Community Work",
+    "id": "diplomainprofstudiesyouthcommunitywork",
+    "total": "5"
+  },
+  {
+    "name": "BSc(H) Logistics (Top-up)",
+    "id": "bschlogisticstopup",
+    "total": "5"
+  },
+  {
+    "name": "BA(H) Fine Art:Drawing & Painting",
+    "id": "bahfineartdrawingpainting",
+    "total": "6"
+  },
+  {
+    "name": "BA (Hons) Business Management UCO",
+    "id": "bahonsbusinessmanagementuco",
+    "total": "6"
+  },
+  {
+    "name": "FdA Journalism &  Media Production",
+    "id": "fdajournalismmediaproduction",
+    "total": "2"
+  },
+  {
+    "name": "DipHE Combined Sciences",
+    "id": "diphecombinedsciences",
+    "total": "11"
+  },
+  {
+    "name": "MBA (Master of Business Administration)",
+    "id": "mbamasterofbusinessadministration",
+    "total": "14"
+  },
+  {
+    "name": "FdSc Business Information Technology",
+    "id": "fdscbusinessinformationtechnology",
+    "total": "1"
+  },
+  {
+    "name": "MSc Sustainable Architecture",
+    "id": "mscsustainablearchitecture",
+    "total": "6"
+  },
+  {
+    "name": "BSc(Hons) Information and Communication Technology",
+    "id": "bschonsinformationandcommunicationtechnology",
+    "total": "8"
+  },
+  {
+    "name": "DMS/MBA UCO",
+    "id": "dmsmbauco",
+    "total": "6"
+  },
+  {
+    "name": "BSc(H) Computing & Management Sciences",
+    "id": "bschcomputingmanagementsciences",
+    "total": "7"
+  },
+  {
+    "name": "MEng Software Engineering",
+    "id": "mengsoftwareengineering",
+    "total": "1"
+  },
+  {
+    "name": "BSc(H) Multimedia Technology",
+    "id": "bschmultimediatechnology",
+    "total": "1"
+  },
+  {
+    "name": "BSc(H) Computer Games Programming",
+    "id": "bschcomputergamesprogramming",
+    "total": "5"
+  },
+  {
+    "name": "BA(Hons) Music Journalism and Media",
+    "id": "bahonsmusicjournalismandmedia",
+    "total": "2"
+  },
+  {
+    "name": "Fdn Year for the Health Professions",
+    "id": "fdnyearforthehealthprofessions",
+    "total": "4"
+  },
+  {
+    "name": "BA(H) Global Marketing (Topup)",
+    "id": "bahglobalmarketingtopup",
+    "total": "8"
+  },
+  {
+    "name": "MEng Mechanical & Automotive Design",
+    "id": "mengmechanicalautomotivedesign",
+    "total": "3"
+  },
+  {
+    "name": "MSc Global Logistics and Supply Chain Management",
+    "id": "mscgloballogisticsandsupplychainmanagement",
+    "total": "5"
+  },
+  {
+    "name": "Foundation Degree in Early Years UCO",
+    "id": "foundationdegreeinearlyyearsuco",
+    "total": "6"
+  },
+  {
+    "name": "CPD Student Health & Social Studies (Health)",
+    "id": "cpdstudenthealthsocialstudieshealth",
+    "total": "4"
+  },
+  {
+    "name": "BA(H) Film Journalism and Media",
+    "id": "bahfilmjournalismandmedia",
+    "total": "2"
+  },
+  {
+    "name": "FdSc Police Studies",
+    "id": "fdscpolicestudies",
+    "total": "8"
+  },
+  {
+    "name": "FdA Business Management",
+    "id": "fdabusinessmanagement",
+    "total": "4"
+  },
+  {
+    "name": "Early Years FdA UCB",
+    "id": "earlyyearsfdaucb",
+    "total": "4"
+  },
+  {
+    "name": "BA(Hons) Digital Film and Visual Effects Product",
+    "id": "bahonsdigitalfilmandvisualeffectsproduct",
+    "total": "2"
+  },
+  {
+    "name": "MSc Brand Development",
+    "id": "mscbranddevelopment",
+    "total": "8"
+  },
+  {
+    "name": "PGCE Design Technology (11-16 1FT)",
+    "id": "pgcedesigntechnology11161ft",
+    "total": "4"
+  },
+  {
+    "name": "MSc Information Systems Management",
+    "id": "mscinformationsystemsmanagement",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) Advertising, Media & Design Management",
+    "id": "bahadvertisingmediadesignmanagement",
+    "total": "1"
+  },
+  {
+    "name": "BA (Hons) Art and Design Interdisciplinary UCB",
+    "id": "bahonsartanddesigninterdisciplinaryucb",
+    "total": "4"
+  },
+  {
+    "name": "FdSc Multimedia",
+    "id": "fdscmultimedia",
+    "total": "1"
+  },
+  {
+    "name": "HNC Construction UCO",
+    "id": "hncconstructionuco",
+    "total": "2"
+  },
+  {
+    "name": "Short Courses (30 Credits)",
+    "id": "shortcourses30credits",
+    "total": "10"
+  },
+  {
+    "name": "BSc(H) Social Sciences",
+    "id": "bschsocialsciences",
+    "total": "1"
+  },
+  {
+    "name": "BA(Hons) English Literature with Creative Writing",
+    "id": "bahonsenglishliteraturewithcreativewriting",
+    "total": "3"
+  },
+  {
+    "name": "BA(H) Fashion & Textile Buying",
+    "id": "bahfashiontextilebuying",
+    "total": "4"
+  },
+  {
+    "name": "Certificate in Training Practice",
+    "id": "certificateintrainingpractice",
+    "total": "2"
+  },
+  {
+    "name": "BA(H) Business Management",
+    "id": "bahbusinessmanagement",
+    "total": "1"
+  },
+  {
+    "name": "BA(Hons) Video Animation and Music Production",
+    "id": "bahonsvideoanimationandmusicproduction",
+    "total": "2"
+  },
+  {
+    "name": "Certificate in Management Studies",
+    "id": "certificateinmanagementstudies",
+    "total": "1"
+  },
+  {
+    "name": "BSc(Hons) Social Work (Work Based Route)",
+    "id": "bschonssocialworkworkbasedroute",
+    "total": "2"
+  },
+  {
+    "name": "BSc(H) Information & Communication Technology",
+    "id": "bschinformationcommunicationtechnology",
+    "total": "3"
+  },
+  {
+    "name": "Certificate in Education UCB",
+    "id": "certificateineducationucb",
+    "total": "5"
+  },
+  {
+    "name": "BSc (Hons) Construction & Proj Mgmt UCO",
+    "id": "bschonsconstructionprojmgmtuco",
+    "total": "1"
+  },
+  {
+    "name": "BA (Hons) Religion & Education",
+    "id": "bahonsreligioneducation",
+    "total": "4"
+  },
+  {
+    "name": "FdA Early Years",
+    "id": "fdaearlyyears",
+    "total": "5"
+  },
+  {
+    "name": "LLB(H) Law/Bus Law/European Studies",
+    "id": "llbhlawbuslaweuropeanstudies",
+    "total": "1"
+  },
+  {
+    "name": "PGCE Science - Physics  (11-18 1FT)",
+    "id": "pgcesciencephysics11181ft",
+    "total": "2"
+  },
+  {
+    "name": "Research Social Work FT",
+    "id": "researchsocialworkft",
+    "total": "1"
+  },
+  {
+    "name": "BA/BSc(H) Virtual Reality Design",
+    "id": "babschvirtualrealitydesign",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) Childhood Studies",
+    "id": "bahchildhoodstudies",
+    "total": "1"
+  },
+  {
+    "name": "PGCE Bus Education (Schools) (14 - 19 1FT)",
+    "id": "pgcebuseducationschools14191ft",
+    "total": "1"
+  },
+  {
+    "name": "BA(Hons) Combined Studies (Strategy and Marketing)",
+    "id": "bahonscombinedstudiesstrategyandmarketing",
+    "total": "2"
+  },
+  {
+    "name": "BA (H) Sports Journalism & Media",
+    "id": "bahsportsjournalismmedia",
+    "total": "2"
+  },
+  {
+    "name": "BA(H) Human Resource Management",
+    "id": "bahhumanresourcemanagement",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) Public Relations with Media",
+    "id": "bahpublicrelationswithmedia",
+    "total": "6"
+  },
+  {
+    "name": "MText Textile Design for Fashion and Interiors",
+    "id": "mtexttextiledesignforfashionandinteriors",
+    "total": "9"
+  },
+  {
+    "name": "BA (Hons) Computer Games Design",
+    "id": "bahonscomputergamesdesign",
+    "total": "5"
+  },
+  {
+    "name": "Chartered Institute of Personnel & Development",
+    "id": "charteredinstituteofpersonneldevelopment",
+    "total": "3"
+  },
+  {
+    "name": "MPhil/PHD (Applied Sciences) FT/PT",
+    "id": "mphilphdappliedsciencesftpt",
+    "total": "2"
+  },
+  {
+    "name": "PGCE PT UCB",
+    "id": "pgceptucb",
+    "total": "4"
+  },
+  {
+    "name": "MA Modern English Language",
+    "id": "mamodernenglishlanguage",
+    "total": "2"
+  },
+  {
+    "name": "FdSc Holistic Therapies",
+    "id": "fdscholistictherapies",
+    "total": "2"
+  },
+  {
+    "name": "DipHE Operating Department Practice",
+    "id": "dipheoperatingdepartmentpractice",
+    "total": "6"
+  },
+  {
+    "name": "MSc Advanced Nurse Practitioner (Primary Care)",
+    "id": "mscadvancednursepractitionerprimarycare",
+    "total": "5"
+  },
+  {
+    "name": "P.Grad. Diploma in Prof. Dev. (ECS with EYPS)",
+    "id": "pgraddiplomainprofdevecswitheyps",
+    "total": "3"
+  },
+  {
+    "name": "Undergraduate Individualised Programme PT",
+    "id": "undergraduateindividualisedprogrammept",
+    "total": "4"
+  },
+  {
+    "name": "FdSc Construction",
+    "id": "fdscconstruction",
+    "total": "3"
+  },
+  {
+    "name": "BA (Hons) Education and Training UCB",
+    "id": "bahonseducationandtrainingucb",
+    "total": "3"
+  },
+  {
+    "name": "Foundation degree in Educational Administration",
+    "id": "foundationdegreeineducationaladministration",
+    "total": "2"
+  },
+  {
+    "name": "DMS/MBA PT",
+    "id": "dmsmbapt",
+    "total": "5"
+  },
+  {
+    "name": "BSc(H) Bus/Comp with Multimedia",
+    "id": "bschbuscompwithmultimedia",
+    "total": "2"
+  },
+  {
+    "name": "MSc Business Project Management",
+    "id": "mscbusinessprojectmanagement",
+    "total": "4"
+  },
+  {
+    "name": "Professional Development (Action Research)",
+    "id": "professionaldevelopmentactionresearch",
+    "total": "4"
+  },
+  {
+    "name": "BSc(H) Sports & Health Studies",
+    "id": "bschsportshealthstudies",
+    "total": "8"
+  },
+  {
+    "name": "BSc(Hons) Nursing Studies (Adult)",
+    "id": "bschonsnursingstudiesadult",
+    "total": "12"
+  },
+  {
+    "name": "LLB(H) Law",
+    "id": "llbhlaw",
+    "total": "11"
+  },
+  {
+    "name": "BA (H) Transport Design",
+    "id": "bahtransportdesign",
+    "total": "4"
+  },
+  {
+    "name": "BA (Hons) Early Years (Top up) UCO",
+    "id": "bahonsearlyyearstopupuco",
+    "total": "8"
+  },
+  {
+    "name": "MA Child Welfare & Safeguarding",
+    "id": "machildwelfaresafeguarding",
+    "total": "3"
+  },
+  {
+    "name": "Postgraduate Diploma in Guidance",
+    "id": "postgraduatediplomainguidance",
+    "total": "2"
+  },
+  {
+    "name": "HND Business & Management",
+    "id": "hndbusinessmanagement",
+    "total": "2"
+  },
+  {
+    "name": "BSc Science Fdn leading to a BSc(H) Degree",
+    "id": "bscsciencefdnleadingtoabschdegree",
+    "total": "2"
+  },
+  {
+    "name": "PG Cert in Cognitive Behaviour Therapy (SHA)",
+    "id": "pgcertincognitivebehaviourtherapysha",
+    "total": "3"
+  },
+  {
+    "name": "PgDip Physiotherapy",
+    "id": "pgdipphysiotherapy",
+    "total": "1"
+  },
+  {
+    "name": "BSc(H) Bus/Comp with German",
+    "id": "bschbuscompwithgerman",
+    "total": "3"
+  },
+  {
+    "name": "Short Courses P'Grad (30 Credits) SHA",
+    "id": "shortcoursesp'grad30creditssha",
+    "total": "3"
+  },
+  {
+    "name": "BSc (Hons) Computing (Multimedia) UCO",
+    "id": "bschonscomputingmultimediauco",
+    "total": "3"
+  },
+  {
+    "name": "CIPD Professional development Scheme UCO",
+    "id": "cipdprofessionaldevelopmentschemeuco",
+    "total": "2"
+  },
+  {
+    "name": "MA Human Resource Development",
+    "id": "mahumanresourcedevelopment",
+    "total": "1"
+  },
+  {
+    "name": "BSc (Hons) Professional Studies",
+    "id": "bschonsprofessionalstudies",
+    "total": "2"
+  },
+  {
+    "name": "FdSc Medicines Management & Pharmacy Services",
+    "id": "fdscmedicinesmanagementpharmacyservices",
+    "total": "3"
+  },
+  {
+    "name": "Early Years BA",
+    "id": "earlyyearsba",
+    "total": "2"
+  },
+  {
+    "name": "BSc(H) Architectural Computer Aided Technology",
+    "id": "bscharchitecturalcomputeraidedtechnology",
+    "total": "1"
+  },
+  {
+    "name": "MPhil/PHD (Engineering) FT/PT",
+    "id": "mphilphdengineeringftpt",
+    "total": "2"
+  },
+  {
+    "name": "Foundation Degree in Construction UCB",
+    "id": "foundationdegreeinconstructionucb",
+    "total": "1"
+  },
+  {
+    "name": "LLM/MA Health Care Law",
+    "id": "llmmahealthcarelaw",
+    "total": "1"
+  },
+  {
+    "name": "BSc(H) Soft/Dev with German",
+    "id": "bschsoftdevwithgerman",
+    "total": "1"
+  },
+  {
+    "name": "FdSc Secure and Forensic Computing",
+    "id": "fdscsecureandforensiccomputing",
+    "total": "1"
+  },
+  {
+    "name": "BA(H) European Business",
+    "id": "baheuropeanbusiness",
+    "total": "2"
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "name": "PGCE (PCET) (Grimsby Insti)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "26",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "26",
+          "book": [
+              {
+                "title": "Anglo-Saxon England and the Norman Conquest.",
+                "author": "Loyn, H. R. (Henry Royston)",
+                "isbn": "0582482291",
+                "url": "http://library.hud.ac.uk/catlink/bib/105857",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582482291"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582482291"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(Hons) History and Law",
+                      "id": "bahonshistoryandlaw"
+                   }
+                  ]
+              },
+              {
+                "title": "Teaching and learning in further and adult education /",
+                "author": "Walklin, L. (Leslie)",
+                "isbn": "0748701451",
+                "url": "http://library.hud.ac.uk/catlink/bib/132981",
+                "publisher": "Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748701451"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748701451"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching in further education : an outline of principles and practice /",
+                "author": "Curzon, L. B. (Leslie Basil), 1921-",
+                "isbn": "0304702552",
+                "url": "http://library.hud.ac.uk/catlink/bib/298270",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0304702552"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0304702552"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Getting to grips with punctuation and grammar /",
+                "author": "Hyder, Margaret",
+                "isbn": "1857580907",
+                "url": "http://library.hud.ac.uk/catlink/bib/361261",
+                "publisher": "Letts Educational",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1857580907"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1857580907"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing special educational needs : a companion guide for student teachers /",
+                "author": "Garner, Philip, 1947-",
+                "isbn": "1853467332",
+                "url": "http://library.hud.ac.uk/catlink/bib/402737",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853467332"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853467332"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Special educational needs and the Education Reform Act /",
+                "author": "Docking, J. W. (James Woodrow), 1936-",
+                "isbn": "094808054X",
+                "url": "http://library.hud.ac.uk/catlink/bib/414817",
+                "publisher": "Trentham",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=094808054X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/094808054X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Curriculum studies in post-compulsory and adult education : a study guide for teachers and student teachers /",
+                "author": "Neary, Mary.",
+                "isbn": "0748764429",
+                "url": "http://library.hud.ac.uk/catlink/bib/415081",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748764429"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748764429"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "PGCE PT UCB",
+                      "id": "pgceptucb"
+                   }
+                  ]
+              },
+              {
+                "title": "Understanding art : a guide for teachers /",
+                "author": "Wenham, Martin.",
+                "isbn": "0761974776",
+                "url": "http://library.hud.ac.uk/catlink/bib/415761",
+                "publisher": "Paul Chapman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761974776"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761974776"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The changing face of further education : lifelong learning, inclusion and community values in further education /",
+                "author": "Hyland, Terry.",
+                "isbn": "0415268079",
+                "url": "http://library.hud.ac.uk/catlink/bib/418885",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415268079"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415268079"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Eats, shoots & leaves : the zero tolerance approach to punctuation /",
+                "author": "Truss, Lynne.",
+                "isbn": "1861976127",
+                "url": "http://library.hud.ac.uk/catlink/bib/423351",
+                "publisher": "Profile",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861976127"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861976127"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Enhancing curricula : exploring effective curriculum practices in art, design and communication in higher education : Centre for Learning and Teaching in Art & Design 2002: 1st international conference /",
+                "author": "Centre for Learning and Teaching in Art & Design.",
+                "isbn": "0954143922",
+                "url": "http://library.hud.ac.uk/catlink/bib/427184",
+                "publisher": "CLTAD",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0954143922"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0954143922"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching in post-compulsory education : policy, practice and values /",
+                "author": "Coles, Anthony.",
+                "isbn": "1843122332",
+                "url": "http://library.hud.ac.uk/catlink/bib/437248",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843122332"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843122332"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching, training and learning : a practical guide /",
+                "author": "Reece, Ian.",
+                "isbn": "1901888304",
+                "url": "http://library.hud.ac.uk/catlink/bib/445002",
+                "publisher": "Business Education",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1901888304"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1901888304"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Issues in art and design teaching /",
+                "author": "Addison, Nicholas, 1954-",
+                "isbn": "0415266688",
+                "url": "http://library.hud.ac.uk/catlink/bib/414632",
+                "publisher": "RoutledgeFalmer",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415266688"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415266688"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Film studies /",
+                "author": "Butler, Andrew M.",
+                "isbn": "1904048080",
+                "url": "http://library.hud.ac.uk/catlink/bib/415627",
+                "publisher": "Pocket Essentials",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1904048080"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1904048080"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The big youth theatre manual : a working guide to all aspects of youth theatre /",
+                "author": "National Association of Youth Theatres.",
+                "isbn": "0954508211",
+                "url": "http://library.hud.ac.uk/catlink/bib/425262",
+                "publisher": "National Association of Youth Theatres",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0954508211"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0954508211"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Practical theatre /",
+                "author": "Mackey, Sally.",
+                "isbn": "0748728570",
+                "url": "http://library.hud.ac.uk/catlink/bib/431210",
+                "publisher": "Stanley Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748728570"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748728570"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "How to create the inclusive classroom : removing barriers to learning /",
+                "author": "Cheminais, Rita.",
+                "isbn": "1843122405",
+                "url": "http://library.hud.ac.uk/catlink/bib/440465",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843122405"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843122405"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "14-19 education : policy, leadership and learning /",
+                "author": "Lumby, Jacky.",
+                "isbn": "1412901472",
+                "url": "http://library.hud.ac.uk/catlink/bib/452839",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412901472"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412901472"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching skills in further and adult education /",
+                "author": "Minton, David.",
+                "isbn": "1844801403",
+                "url": "http://library.hud.ac.uk/catlink/bib/463765",
+                "publisher": "Thomson Learning",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844801403"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844801403"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching and supporting learning in further education : meeting the FENTO standards /",
+                "author": "Wallace, Susan.",
+                "isbn": "1844450392",
+                "url": "http://library.hud.ac.uk/catlink/bib/465420",
+                "publisher": "Learning Matters",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844450392"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844450392"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Transnational organised crime : perspectives on global security /",
+                "author": "Gill, Peter, 1947-",
+                "isbn": "0415300959",
+                "url": "http://library.hud.ac.uk/catlink/bib/466229",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415300959"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415300959"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teaching 14-19 : everything you need to know about learning and teaching across the phases /",
+                "author": "Donovan, Georgina.",
+                "isbn": "1843123428",
+                "url": "http://library.hud.ac.uk/catlink/bib/498143",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843123428"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843123428"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Global crime today : the changing face of organised crime /",
+                "author": "Galeotti, Mark.",
+                "isbn": "0415366992",
+                "url": "http://library.hud.ac.uk/catlink/bib/501425",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415366992"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415366992"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

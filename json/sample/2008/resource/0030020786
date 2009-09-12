@@ -1,0 +1,20 @@
+{
+  "title": "Principles of instrumental analysis.",
+  "author": "Nieman, Timothy A",
+  "isbn": "0030020786",
+  "url": "http://library.hud.ac.uk/catlink/bib/277779",
+  "publisher": "Saunders",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0030020786",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0030020786"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Analytical Bioscience PT",
+    "id": "mscanalyticalbiosciencept"
+    }
+  ]
+}

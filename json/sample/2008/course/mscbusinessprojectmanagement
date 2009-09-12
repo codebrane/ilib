@@ -1,0 +1,84 @@
+[
+  {
+    "name": "MSc Business Project Management",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Project management : planning and control techniques /",
+                "author": "Burke, Rory, 1952-",
+                "isbn": "0470851244",
+                "url": "http://library.hud.ac.uk/catlink/bib/424681",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470851244"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470851244"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Bus/Comp with Multimedia",
+                      "id": "bschbuscompwithmultimedia"
+                   }
+                  ]
+              },
+              {
+                "title": "International business : competing in the global marketplace /",
+                "author": "Hill, Charles W. L.",
+                "isbn": "0071113118",
+                "url": "http://library.hud.ac.uk/catlink/bib/431609",
+                "publisher": "McGraw-Hill/Irwin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0071113118"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0071113118"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Core concepts of project management in practice /",
+                "author": "Mantel, Samuel J",
+                "isbn": "0471229652",
+                "url": "http://library.hud.ac.uk/catlink/bib/441688",
+                "publisher": "John Wiley & Sons",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471229652"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471229652"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The definitive guide to project management : the fast track to getting the job done on time and on budget /",
+                "author": "Nokes, Sebastian.",
+                "isbn": "0273663976",
+                "url": "http://library.hud.ac.uk/catlink/bib/511407",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273663976"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273663976"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "name": "PG Cert in Cognitive Behaviour Therapy (SHA)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "3",
+          "book": [
+              {
+                "title": "The therapeutic relationship /",
+                "author": "Clarkson, Petruska, 1947-",
+                "isbn": "1861563817",
+                "url": "http://library.hud.ac.uk/catlink/bib/438507",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861563817"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861563817"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The therapist's use of self /",
+                "author": "Jacobs, Michael, 1941-",
+                "isbn": "0335207766",
+                "url": "http://library.hud.ac.uk/catlink/bib/495242",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335207766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335207766"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cognitive therapy in practice : a case formulation approach /",
+                "author": "Persons, Jacqueline B.",
+                "isbn": "0393700771",
+                "url": "http://library.hud.ac.uk/catlink/bib/495245",
+                "publisher": "Norton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0393700771"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0393700771"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

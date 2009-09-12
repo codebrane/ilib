@@ -1,0 +1,54 @@
+[
+  {
+    "name": "BA(Hons) Music Journalism and Media",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Broadcast journalism : techniques of radio and television news /",
+                "author": "Boyd, Andrew, 1920-",
+                "isbn": "0240515714",
+                "url": "http://library.hud.ac.uk/catlink/bib/360035",
+                "publisher": "Focal",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240515714"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240515714"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Pump up the volume : a history of house /",
+                "author": "Bidder, Sean.",
+                "isbn": "0752219863",
+                "url": "http://library.hud.ac.uk/catlink/bib/429112",
+                "publisher": "Channel 4 Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0752219863"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0752219863"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

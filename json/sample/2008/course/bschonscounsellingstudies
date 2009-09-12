@@ -1,0 +1,198 @@
+[
+  {
+    "name": "BSc(Hons) Counselling Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "12",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "9",
+          "book": [
+              {
+                "title": "Cognitive therapy in clinical practice : an illustrative casebook /",
+                "author": "Scott, Jan",
+                "isbn": "041506242X",
+                "url": "http://library.hud.ac.uk/catlink/bib/111338",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041506242X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041506242X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Counselling young people /",
+                "author": "Noonan, Ellen.",
+                "isbn": "0416362109",
+                "url": "http://library.hud.ac.uk/catlink/bib/128970",
+                "publisher": "Methuen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0416362109"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0416362109"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Race, culture, and counselling /",
+                "author": "Thompson, Joyce, 1938-",
+                "isbn": "0335192947",
+                "url": "http://library.hud.ac.uk/catlink/bib/294436",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335192947"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335192947"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Standards and ethics for counselling in action",
+                "author": "ebrary, Inc.",
+                "isbn": "0761963081",
+                "url": "http://library.hud.ac.uk/catlink/bib/340854",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761963081"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761963081"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Counseling across cultures /",
+                "author": "Pedersen, Paul, 1936-",
+                "isbn": "0761920854",
+                "url": "http://library.hud.ac.uk/catlink/bib/388635",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761920854"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761920854"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Existential therapies",
+                "author": "ebrary, Inc.",
+                "isbn": "0761973214",
+                "url": "http://library.hud.ac.uk/catlink/bib/426658",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761973214"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761973214"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Gestalt counselling in action /",
+                "author": "Clarkson, Petruska, 1947-",
+                "isbn": "1412900859",
+                "url": "http://library.hud.ac.uk/catlink/bib/439304",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412900859"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412900859"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sexual minorities : discrimination, challenges and development in America /",
+                "author": "Sullivan, Michael K.",
+                "isbn": "0789002302",
+                "url": "http://library.hud.ac.uk/catlink/bib/454254",
+                "publisher": "Roundhouse",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0789002302"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0789002302"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "First steps in counselling : a students' companion for basic introductory courses /",
+                "author": "Sanders, Pete, 1951-",
+                "isbn": "1898059519",
+                "url": "http://library.hud.ac.uk/catlink/bib/416538",
+                "publisher": "PCCS",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1898059519"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1898059519"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Critical psychology : voices for change /",
+                "author": "Sloan, Tod Stratton, 1952-",
+                "isbn": "0333794524",
+                "url": "http://library.hud.ac.uk/catlink/bib/421698",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333794524"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333794524"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Psychoanalysis and beyond.",
+                "author": "Fuller, Peter, 1947-",
+                "isbn": "0701209119",
+                "url": "http://library.hud.ac.uk/catlink/bib/441091",
+                "publisher": "Hogarth",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0701209119"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0701209119"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "name": "BSc(H) Podiatry",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "35",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "14",
+          "book": [
+              {
+                "title": "Atlas of foot and ankle surgery /",
+                "author": "Thomas, Pat",
+                "isbn": "0721635377",
+                "url": "http://library.hud.ac.uk/catlink/bib/107542",
+                "publisher": "Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0721635377"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0721635377"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding ageing : images, attitudes and professional practice /",
+                "author": "Biggs, Simon.",
+                "isbn": "0335157254",
+                "url": "http://library.hud.ac.uk/catlink/bib/207853",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335157254"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335157254"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The psychology of growing old : looking forward.",
+                "author": "Slater, Robert, 1945-",
+                "isbn": "0335193196",
+                "url": "http://library.hud.ac.uk/catlink/bib/253782",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335193196"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335193196"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Alcohol problems in the community /",
+                "author": "Harrison, Larry, 1946-",
+                "isbn": "0415110424",
+                "url": "http://library.hud.ac.uk/catlink/bib/258506",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415110424"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415110424"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "On being old : the psychology of later life /",
+                "author": "Stokes, Graham, 1952-",
+                "isbn": "1850008396",
+                "url": "http://library.hud.ac.uk/catlink/bib/263636",
+                "publisher": "Falmer Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1850008396"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1850008396"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Moderating focus groups /",
+                "author": "Krueger, Richard A.",
+                "isbn": "0761908218",
+                "url": "http://library.hud.ac.uk/catlink/bib/275607",
+                "publisher": "Sage",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761908218"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761908218"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Abuse, neglect, and exploitation of older persons : strategies for assessment and intervention /",
+                "author": "Beall, S. Colleen",
+                "isbn": "1853024058",
+                "url": "http://library.hud.ac.uk/catlink/bib/284730",
+                "publisher": "Jessica Kingsley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853024058"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853024058"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Reconstructing old age : new agendas in social theory and social practice.",
+                "author": "Phillipson, Chris, 1949-",
+                "isbn": "0803979894",
+                "url": "http://library.hud.ac.uk/catlink/bib/306977",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803979894"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803979894"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Care in the community : illusion or reality? /",
+                "author": "Leff, J. P. (Julian Paul)",
+                "isbn": "0471969818",
+                "url": "http://library.hud.ac.uk/catlink/bib/317450",
+                "publisher": "John Wiley & Sons",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471969818"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471969818"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sports & exercise injuries : conventional, homeopathic & alternative treatments /",
+                "author": "Subotnick, Steven I.",
+                "isbn": "1556431147",
+                "url": "http://library.hud.ac.uk/catlink/bib/347428",
+                "publisher": "Homeopathic Educational Services",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556431147"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556431147"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Focus groups : a practical guide for applied research /",
+                "author": "Casey, Mary Anne",
+                "isbn": "0761920706",
+                "url": "http://library.hud.ac.uk/catlink/bib/351527",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761920706"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761920706"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Drugs, behavior, and modern society /",
+                "author": "Levinthal, Charles F.",
+                "isbn": "0205323669",
+                "url": "http://library.hud.ac.uk/catlink/bib/413976",
+                "publisher": "Allyn and Bacon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0205323669"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0205323669"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Diabetic foot : a clinical atlas /",
+                "author": "Pendsey, Sharad.",
+                "isbn": "184184425X",
+                "url": "http://library.hud.ac.uk/catlink/bib/428359",
+                "publisher": "Martin Dunitz",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=184184425X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/184184425X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Research for the health professional : a practical guide /",
+                "author": "Bailey, Diana M, 1942-",
+                "isbn": "0803601514",
+                "url": "http://library.hud.ac.uk/catlink/bib/453830",
+                "publisher": "F.A. Davis Co",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803601514"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803601514"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "8",
+          "book": [
+              {
+                "title": "A colour atlas of physical signs in cardiovascular disease /",
+                "author": "Fox, Kim M. (Kim Michael)",
+                "isbn": "0723409935",
+                "url": "http://library.hud.ac.uk/catlink/bib/113174",
+                "publisher": "Wolfe",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0723409935"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0723409935"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Clinical biomechanics of the lower extremities /",
+                "author": "Valmassy, Ronald L",
+                "isbn": "0801679869",
+                "url": "http://library.hud.ac.uk/catlink/bib/232177",
+                "publisher": "Mosby",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0801679869"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0801679869"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The musculoskeletal system : orthopaedics, rheumatology, and fractures /",
+                "author": "Fleetcroft, J. P (John P).",
+                "isbn": "0443016119",
+                "url": "http://library.hud.ac.uk/catlink/bib/265960",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443016119"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443016119"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Toohey's medicine.",
+                "author": "Bloom, Arnold Toohey's medicine for nurses",
+                "isbn": "0443047049",
+                "url": "http://library.hud.ac.uk/catlink/bib/286816",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443047049"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443047049"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The care of wounds : a guide for nurses /",
+                "author": "Dealey, Carol.",
+                "isbn": "0632052376",
+                "url": "http://library.hud.ac.uk/catlink/bib/333499",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0632052376"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0632052376"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Trends in wound care /",
+                "author": "White, Richard, (PhD)",
+                "isbn": "1856422461",
+                "url": "http://library.hud.ac.uk/catlink/bib/423302",
+                "publisher": "Quay.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856422461"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856422461"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Oxford handbook of clinical medicine.",
+                "author": "Rajagopalan, Supraj R.",
+                "isbn": "0198525583",
+                "url": "http://library.hud.ac.uk/catlink/bib/445896",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198525583"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198525583"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "13",
+          "book": [
+              {
+                "title": "Principles of anatomy and physiology /",
+                "author": "Grabowski, Sandra Reynolds",
+                "isbn": "0471366927",
+                "url": "http://library.hud.ac.uk/catlink/bib/328986",
+                "publisher": "Wiley",
+                "total": "4",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471366927"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471366927"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Assessment of the lower limb /",
+                "author": "Turner, Warren, (DPodM)",
+                "isbn": "0443071128",
+                "url": "http://library.hud.ac.uk/catlink/bib/416146",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443071128"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443071128"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Text atlas of pathology of the foot /",
+                "author": "Annoni, Federico",
+                "isbn": "1853177873",
+                "url": "http://library.hud.ac.uk/catlink/bib/423131",
+                "publisher": "Martin Dunitz",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853177873"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853177873"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of anatomy and physiology.",
+                "author": "Derrickson, Bryan.",
+                "isbn": "0471718718",
+                "url": "http://library.hud.ac.uk/catlink/bib/453009",
+                "publisher": "Wiley",
+                "total": "7",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471718718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471718718"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "name": "BA(H) Surface Design for Fashion & Interiors",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "17",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "6",
+          "book": [
+              {
+                "title": "Recycling in textiles /",
+                "author": "Wang, Youjiang.",
+                "isbn": "1855739526",
+                "url": "http://library.hud.ac.uk/catlink/bib/585909",
+                "publisher": "Woodhead Publishing",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1855739526"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1855739526"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Trash : from junk to art /",
+                "author": "Vergine, Lea",
+                "isbn": "8843563068",
+                "url": "http://library.hud.ac.uk/catlink/bib/290443",
+                "publisher": "Electa",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=8843563068"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/8843563068"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "When to advertise /",
+                "author": "Incorporated Society of British Advertisers",
+                "isbn": "1841160482",
+                "url": "http://library.hud.ac.uk/catlink/bib/427941",
+                "publisher": "Admap",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1841160482"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1841160482"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Celebrity sells /",
+                "author": "Pringle, Hamish.",
+                "isbn": "0470868503",
+                "url": "http://library.hud.ac.uk/catlink/bib/429529",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470868503"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470868503"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The hidden power of advertising : how low involvement processing influences the way we choose brands /",
+                "author": "Heath, Robert.",
+                "isbn": "1841160938",
+                "url": "http://library.hud.ac.uk/catlink/bib/435068",
+                "publisher": "Admap",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1841160938"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1841160938"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Active design for print design planning / Flowers I.",
+                "author": "Nonomura, A.",
+                "isbn": "4763680714",
+                "url": "http://library.hud.ac.uk/catlink/bib/45337",
+                "publisher": "Kyoto Shoin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4763680714"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4763680714"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "11",
+          "book": [
+              {
+                "title": "Ultrastructure and the biology of plant cells /",
+                "author": "Steer, Martin W.",
+                "isbn": "0713124946",
+                "url": "http://library.hud.ac.uk/catlink/bib/108052",
+                "publisher": "Edward Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713124946"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713124946"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The dice man /",
+                "author": "Rhinehart, Luke.",
+                "isbn": "0586037659",
+                "url": "http://library.hud.ac.uk/catlink/bib/115569",
+                "publisher": "Panther",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0586037659"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0586037659"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Structure and surface : contemporary Japanese textiles /",
+                "author": "McQuaid, Matilda.",
+                "isbn": "0870700766",
+                "url": "http://library.hud.ac.uk/catlink/bib/312386",
+                "publisher": "Museum of Modern Art",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0870700766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0870700766"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern trains and splendid stations : architecture, design, and rail travel for the twenty-first century /",
+                "author": "Dawes, Richard",
+                "isbn": "1858941490",
+                "url": "http://library.hud.ac.uk/catlink/bib/383071",
+                "publisher": "Merrell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1858941490"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1858941490"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The elements of design : rediscovering colours, textures, forms and shapes /",
+                "author": "Oei, Loan.",
+                "isbn": "0500283397",
+                "url": "http://library.hud.ac.uk/catlink/bib/390327",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500283397"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500283397"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "History of 20th century fashion /",
+                "author": "Mackrell, Alice.",
+                "isbn": "0713486929",
+                "url": "http://library.hud.ac.uk/catlink/bib/390378",
+                "publisher": "Batsford",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713486929"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713486929"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Eiffel Tower /",
+                "author": "Herve, Lucien",
+                "isbn": "1568983727",
+                "url": "http://library.hud.ac.uk/catlink/bib/414278",
+                "publisher": "Princeton Architectural",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1568983727"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1568983727"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Picasso and the invention of Cubism.",
+                "author": "Karmel, Pepe.",
+                "isbn": "0300094361",
+                "url": "http://library.hud.ac.uk/catlink/bib/424161",
+                "publisher": "Yale University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0300094361"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0300094361"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Microbial diversity : form and function in prokaryotes /",
+                "author": "Ogunseitan, Oladele",
+                "isbn": "0632047089",
+                "url": "http://library.hud.ac.uk/catlink/bib/440743",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0632047089"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0632047089"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architectural surfaces : details for architects, designers and artists /",
+                "author": "Juracek, Judy A.",
+                "isbn": "0500342180",
+                "url": "http://library.hud.ac.uk/catlink/bib/489350",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500342180"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500342180"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Space and light : how to maximize the potential of your home /",
+                "author": "Sorrell, Katherine.",
+                "isbn": "1845330161",
+                "url": "http://library.hud.ac.uk/catlink/bib/494415",
+                "publisher": "Mitchell Beazley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1845330161"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1845330161"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

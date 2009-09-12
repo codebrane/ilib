@@ -1,0 +1,148 @@
+[
+  {
+    "name": "MBA (Master of Business Administration)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "14",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "14",
+          "book": [
+              {
+                "title": "The business and marketing environment /",
+                "author": "Palmer, Adrian (Adrian James), 1955-",
+                "isbn": "0077094948",
+                "url": "http://library.hud.ac.uk/catlink/bib/347152",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0077094948"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0077094948"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The business environment : challenges and changes /",
+                "author": "Brooks, Ian.",
+                "isbn": "0273646907",
+                "url": "http://library.hud.ac.uk/catlink/bib/385864",
+                "publisher": "Financial Times",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273646907"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273646907"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Operations management /",
+                "author": "Johnston, Robert, 1953-",
+                "isbn": "0273679066",
+                "url": "http://library.hud.ac.uk/catlink/bib/420784",
+                "publisher": "Pearson Education",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273679066"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273679066"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The manager's good study guide /",
+                "author": "Tyler, Sheila.",
+                "isbn": "0749267666",
+                "url": "http://library.hud.ac.uk/catlink/bib/435055",
+                "publisher": "Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749267666"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749267666"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Management and organisational behaviour /",
+                "author": "Mullins, Laurie J",
+                "isbn": "0273688766",
+                "url": "http://library.hud.ac.uk/catlink/bib/435808",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273688766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273688766"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Core concepts of organizational behavior /",
+                "author": "Schermerhorn, John R.",
+                "isbn": "0471391824",
+                "url": "http://library.hud.ac.uk/catlink/bib/435883",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471391824"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471391824"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "HND Business & Management",
+                      "id": "hndbusinessmanagement"
+                   }
+                  ]
+              },
+              {
+                "title": "Organisations and the business environment : David Campbell and Tom Craig.",
+                "author": "Campbell, David J.",
+                "isbn": "0750658290",
+                "url": "http://library.hud.ac.uk/catlink/bib/445274",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750658290"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750658290"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "ACCA study text. Managing people.",
+                "author": "Association of Chartered Certified Accountants.",
+                "isbn": "0751723150",
+                "url": "http://library.hud.ac.uk/catlink/bib/491787",
+                "publisher": "BPP",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0751723150"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0751723150"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

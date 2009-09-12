@@ -1,0 +1,108 @@
+[
+  {
+    "name": "BA(H) Public Relations with Media",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Public relations : a practical guide to the basics /",
+                "author": "Henslowe, Philip, 1934-",
+                "isbn": "0749440724",
+                "url": "http://library.hud.ac.uk/catlink/bib/442438",
+                "publisher": "Kogan Page",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749440724"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749440724"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Privacy and the press /",
+                "author": "Rozenberg, Joshua.",
+                "isbn": "0199250561",
+                "url": "http://library.hud.ac.uk/catlink/bib/429100",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199250561"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199250561"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Big brother : reality TV in the twenty-first century /",
+                "author": "Bignell, Jonathan.",
+                "isbn": "1403916853",
+                "url": "http://library.hud.ac.uk/catlink/bib/497114",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403916853"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403916853"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Newspaper journalism : a practical introduction /",
+                "author": "Pape, Susan.",
+                "isbn": "0761943285",
+                "url": "http://library.hud.ac.uk/catlink/bib/453472",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761943285"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761943285"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Feature writing : a practical introduction /",
+                "author": "Pape, Susan.",
+                "isbn": "1412908000",
+                "url": "http://library.hud.ac.uk/catlink/bib/507103",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412908000"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412908000"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

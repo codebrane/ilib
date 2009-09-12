@@ -1,0 +1,20 @@
+{
+  "title": "Introduction to Schenkerian analysis /",
+  "author": "Gilbert, Steven E., 1943-1999.",
+  "isbn": "0393951928",
+  "url": "http://library.hud.ac.uk/catlink/bib/203469",
+  "publisher": "Norton",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0393951928",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0393951928"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Popular Music Production",
+    "id": "bahpopularmusicproduction"
+    }
+  ]
+}

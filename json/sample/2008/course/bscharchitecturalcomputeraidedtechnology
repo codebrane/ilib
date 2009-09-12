@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BSc(H) Architectural Computer Aided Technology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "1",
+          "book": [
+              {
+                "title": "Engineering Archie : Archibald Leitch - football ground designer /",
+                "author": "Inglis, Simon.",
+                "isbn": "1850749183",
+                "url": "http://library.hud.ac.uk/catlink/bib/498636",
+                "publisher": "English Heritage",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1850749183"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1850749183"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "The student skills guide /",
+  "author": "Bingham, Rosie",
+  "isbn": "0566084309",
+  "url": "http://library.hud.ac.uk/catlink/bib/384076",
+  "publisher": "Gower",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0566084309",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0566084309"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdA Business Management",
+    "id": "fdabusinessmanagement"
+    }
+  ]
+}

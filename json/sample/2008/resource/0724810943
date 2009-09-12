@@ -1,0 +1,20 @@
+{
+  "title": "Interactive Marketing : how to use integrated offer-driven advertising, database marketing and sales promotion to create maximum action /",
+  "author": "Williams, Matin.",
+  "isbn": "0724810943",
+  "url": "http://library.hud.ac.uk/catlink/bib/214956",
+  "publisher": "Prentice-Hall (Australia)",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0724810943",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0724810943"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Advertising & Media Relations",
+    "id": "bahadvertisingmediarelations"
+    }
+  ]
+}

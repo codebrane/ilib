@@ -1,0 +1,20 @@
+{
+  "title": "Promoting health : a practical guide /",
+  "author": "Ewles, Linda.",
+  "isbn": "0702026638",
+  "url": "http://library.hud.ac.uk/catlink/bib/427239",
+  "publisher": "Bailliáere Tindall",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0702026638",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0702026638"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Sports & Health Studies",
+    "id": "bschsportshealthstudies"
+    }
+  ]
+}

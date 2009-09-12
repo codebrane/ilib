@@ -1,0 +1,164 @@
+[
+  {
+    "name": "MSc Analytical Bioscience",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "9",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Statistics for analytical chemistry /",
+                "author": "Miller, J. C. (Jane C.), 1944-",
+                "isbn": "0745802710",
+                "url": "http://library.hud.ac.uk/catlink/bib/129638",
+                "publisher": "Ellis Horwood",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745802710"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745802710"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "NMR in chemistry : a multinuclear introduction /",
+                "author": "Kemp, William, 1932-",
+                "isbn": "0333372913",
+                "url": "http://library.hud.ac.uk/catlink/bib/199763",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333372913"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333372913"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Two dimensional NMR methods for establishing molecular connectivity : a chemist's guide to experiment selection, performance and interpretation /",
+                "author": "Zektzer, Andrew S., 1960-",
+                "isbn": "0895737035",
+                "url": "http://library.hud.ac.uk/catlink/bib/20180",
+                "publisher": "VCH",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0895737035"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0895737035"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of instrumental analysis.",
+                "author": "Nieman, Timothy A",
+                "isbn": "0030020786",
+                "url": "http://library.hud.ac.uk/catlink/bib/277779",
+                "publisher": "Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0030020786"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0030020786"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "MSc Analytical Bioscience PT",
+                      "id": "mscanalyticalbiosciencept"
+                   }
+                  ]
+              },
+              {
+                "title": "Introduction to spectroscopy : a guide for students of organic chemistry /",
+                "author": "Pavia, Donald L.",
+                "isbn": "0030319617",
+                "url": "http://library.hud.ac.uk/catlink/bib/402710",
+                "publisher": "Brooks/Cole",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0030319617"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0030319617"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern spectroscopy /",
+                "author": "Hollas, J. Michael (John Michael).",
+                "isbn": "0470844159",
+                "url": "http://library.hud.ac.uk/catlink/bib/421582",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470844159"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470844159"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Chemistry for biologists /",
+                "author": "Arnold, J. R. P. (John R. P.)",
+                "isbn": "1859963552",
+                "url": "http://library.hud.ac.uk/catlink/bib/425645",
+                "publisher": "BIOS Scientific",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1859963552"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1859963552"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Analytical chemistry /",
+                "author": "Higson, Seamus.",
+                "isbn": "0198502893",
+                "url": "http://library.hud.ac.uk/catlink/bib/425896",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198502893"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198502893"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Chemistry /",
+                "author": "Evans, Wynne",
+                "isbn": "0230000118",
+                "url": "http://library.hud.ac.uk/catlink/bib/511036",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0230000118"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0230000118"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

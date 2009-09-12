@@ -1,0 +1,160 @@
+[
+  {
+    "name": "BA (Hons) Educational Administration",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "9",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Managing the secondary school /",
+                "author": "Blatchford, Roy",
+                "isbn": "0713524944",
+                "url": "http://library.hud.ac.uk/catlink/bib/135571",
+                "publisher": "Bell & Hyman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713524944"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713524944"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Continuing professional development : a practical guide for teachers and schools /",
+                "author": "Bollington, Rob Evaluating and planning professional development, 1992-1995.",
+                "isbn": "0415135338",
+                "url": "http://library.hud.ac.uk/catlink/bib/303271",
+                "publisher": "Routledge in association with The Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415135338"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415135338"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Management theories for educational change.",
+                "author": "Morrison, Keith",
+                "isbn": "1853964042",
+                "url": "http://library.hud.ac.uk/catlink/bib/353343",
+                "publisher": "Paul Chapman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853964042"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853964042"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Continuing professional development : a practical guide for teachers & schools /",
+                "author": "Craft, Anna.",
+                "isbn": "041523770X",
+                "url": "http://library.hud.ac.uk/catlink/bib/358565",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041523770X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041523770X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "School effectiveness and school improvement : alternative perspectives /",
+                "author": "Bennett, Nigel",
+                "isbn": "0826451217",
+                "url": "http://library.hud.ac.uk/catlink/bib/372209",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826451217"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826451217"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The principles and practice of educational management /",
+                "author": "Bush, Tony, 1943-",
+                "isbn": "0761947922",
+                "url": "http://library.hud.ac.uk/catlink/bib/396494",
+                "publisher": "Paul Chapman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761947922"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761947922"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Learning to read critically in educational leadership and management",
+                "author": "Wallace, Mike, 1950-",
+                "isbn": "0761947957",
+                "url": "http://library.hud.ac.uk/catlink/bib/412300",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761947957"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761947957"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Theories of educational leadership and management",
+                "author": "Bush, Tony.",
+                "isbn": "0761940510",
+                "url": "http://library.hud.ac.uk/catlink/bib/417926",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761940510"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761940510"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Developing educational leadership : using evidence for policy and practice /",
+                "author": "British Educational Leadership, Management and Administration Society",
+                "isbn": "0761949372",
+                "url": "http://library.hud.ac.uk/catlink/bib/418050",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761949372"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761949372"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

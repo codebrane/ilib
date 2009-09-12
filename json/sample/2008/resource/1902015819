@@ -1,0 +1,17 @@
+{
+  "title": "Piper Shepard.",
+  "author": "Easton, William.",
+  "isbn": "1902015819",
+  "url": "http://library.hud.ac.uk/catlink/bib/440725",
+  "publisher": "Telos",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1902015819",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1902015819"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

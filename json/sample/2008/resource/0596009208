@@ -1,0 +1,17 @@
+{
+  "title": "Head first Java /",
+  "author": "Sierra, Kathy.",
+  "isbn": "0596009208",
+  "url": "http://library.hud.ac.uk/catlink/bib/490649",
+  "publisher": "O'Reilly",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0596009208",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0596009208"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The computer and music /",
+  "author": "Lincoln, Harry B.",
+  "isbn": "0801405505",
+  "url": "http://library.hud.ac.uk/catlink/bib/106295",
+  "publisher": "Cornell U.P.",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0801405505",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0801405505"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) Music Technology and Popular Music",
+    "id": "bahonsmusictechnologyandpopularmusic"
+    }
+  ]
+}

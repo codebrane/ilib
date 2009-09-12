@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Short Courses P'Grad (30 Credits) SHA",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Evidence-based practice in nursing & healthcare : a guide to best practice /",
+                "author": "Fineout-Overholt, Ellen.",
+                "isbn": "0781758084",
+                "url": "http://library.hud.ac.uk/catlink/bib/445157",
+                "publisher": "Lippincott Williams & Wilkins",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0781758084"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0781758084"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Clinical governance in health care practice /",
+                "author": "Swage, Thoreya.",
+                "isbn": "0750656816",
+                "url": "http://library.hud.ac.uk/catlink/bib/454796",
+                "publisher": "Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750656816"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750656816"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Independent and supplementary prescribing : an essential guide /",
+                "author": "Courtenay, Molly.",
+                "isbn": "0521674646",
+                "url": "http://library.hud.ac.uk/catlink/bib/497276",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521674646"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521674646"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

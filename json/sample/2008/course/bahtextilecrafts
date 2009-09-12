@@ -1,0 +1,300 @@
+[
+  {
+    "name": "BA(H)  Textile Crafts",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "17",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Indian style /",
+                "author": "Slesin, Suzanne.",
+                "isbn": "0500235791",
+                "url": "http://library.hud.ac.uk/catlink/bib/107678",
+                "publisher": "Thames and Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500235791"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500235791"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Marian Smit.",
+                "author": "Kloosterboer, Anne.",
+                "isbn": "1902015320",
+                "url": "http://library.hud.ac.uk/catlink/bib/440720",
+                "publisher": "Telos",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1902015320"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1902015320"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Charles Ricketts : subtle and fantastic decorator /",
+                "author": "Ricketts, Charles.",
+                "isbn": "0500271534",
+                "url": "http://library.hud.ac.uk/catlink/bib/109086",
+                "publisher": "Thames and Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500271534"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500271534"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Folk art of Europe /",
+                "author": "Bossert, H. Th. (Helmuth Theodor)",
+                "isbn": "0847811948",
+                "url": "http://library.hud.ac.uk/catlink/bib/137063",
+                "publisher": "Rizzoli",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0847811948"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0847811948"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The most beautiful villages of Provence /",
+                "author": "Palmer, Hugh",
+                "isbn": "0500541876",
+                "url": "http://library.hud.ac.uk/catlink/bib/230182",
+                "publisher": "Thames and Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500541876"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500541876"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Manhattan skyscrapers /",
+                "author": "Nash, Eric Peter.",
+                "isbn": "1568981813",
+                "url": "http://library.hud.ac.uk/catlink/bib/327543",
+                "publisher": "Princeton Architectural Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1568981813"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1568981813"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "World textiles : a visual guide to traditional techniques /",
+                "author": "Sentance, Brian",
+                "isbn": "0500019509",
+                "url": "http://library.hud.ac.uk/catlink/bib/328723",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500019509"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500019509"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Crafts of Himachal Pradesh /",
+                "author": "Gupta, R. K. Datta",
+                "isbn": "094414246X",
+                "url": "http://library.hud.ac.uk/catlink/bib/363490",
+                "publisher": "Grantha",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=094414246X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/094414246X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern landscape /",
+                "author": "Spens, Michael.",
+                "isbn": "0714841552",
+                "url": "http://library.hud.ac.uk/catlink/bib/418649",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0714841552"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0714841552"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Handwritten : expressive lettering in the digital age /",
+                "author": "Ilic, Mirko, 1956-",
+                "isbn": "0500511713",
+                "url": "http://library.hud.ac.uk/catlink/bib/434715",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500511713"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500511713"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "American illustration 22.",
+                "author": "",
+                "isbn": "1886212201",
+                "url": "http://library.hud.ac.uk/catlink/bib/424467",
+                "publisher": "Amilus",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1886212201"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1886212201"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "6",
+          "book": [
+              {
+                "title": "Flora /",
+                "author": "Knight, Nick, 1958-",
+                "isbn": "0810929880",
+                "url": "http://library.hud.ac.uk/catlink/bib/413003",
+                "publisher": "Harry N. Abrams",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0810929880"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0810929880"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Arts under pressure : promoting cultural diversity in the age of globalization /",
+                "author": "Smiers, Joost.",
+                "isbn": "1842772635",
+                "url": "http://library.hud.ac.uk/catlink/bib/417287",
+                "publisher": "Zed",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1842772635"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1842772635"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Textile perspectives in mixed-media sculpture /",
+                "author": "Scott, Jac.",
+                "isbn": "1861265786",
+                "url": "http://library.hud.ac.uk/catlink/bib/422220",
+                "publisher": "Crowood",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861265786"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861265786"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "What is packaging design?.",
+                "author": "Calver, Giles.",
+                "isbn": "2880466180",
+                "url": "http://library.hud.ac.uk/catlink/bib/423453",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2880466180"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2880466180"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fashion & graphics /",
+                "author": "Blanchard, Tamsin.",
+                "isbn": "1856693384",
+                "url": "http://library.hud.ac.uk/catlink/bib/426232",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856693384"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856693384"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Hong Kong : front door/back door /",
+                "author": "Wolf, Michael.",
+                "isbn": "0500543046",
+                "url": "http://library.hud.ac.uk/catlink/bib/491495",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500543046"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500543046"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

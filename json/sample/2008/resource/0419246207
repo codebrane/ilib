@@ -1,0 +1,20 @@
+{
+  "title": "Sustainable housing : principles & practice /",
+  "author": "Turrent, D. (David)",
+  "isbn": "0419246207",
+  "url": "http://library.hud.ac.uk/catlink/bib/351781",
+  "publisher": "E. & F. N. Spon",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0419246207",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0419246207"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Sustainable Architecture",
+    "id": "mscsustainablearchitecture"
+    }
+  ]
+}

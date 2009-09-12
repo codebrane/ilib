@@ -1,0 +1,142 @@
+[
+  {
+    "name": "BSc(H) Computing & Management Sciences",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "7",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "2",
+          "book": [
+              {
+                "title": "The essence of neural networks /",
+                "author": "Callan, Robert.",
+                "isbn": "013908732X",
+                "url": "http://library.hud.ac.uk/catlink/bib/359239",
+                "publisher": "Prentice Hall Europe",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013908732X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013908732X"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "MEng Software Engineering",
+                      "id": "mengsoftwareengineering"
+                    },
+                    {
+                      "name": "BSc(H) Multimedia Technology",
+                      "id": "bschmultimediatechnology"
+                    },
+                    {
+                      "name": "BSc(H) Computer Games Programming",
+                      "id": "bschcomputergamesprogramming"
+                   }
+                  ]
+              },
+              {
+                "title": "Java in distributed systems : concurrency, distribution, and persistence /",
+                "author": "Boger, Marko.",
+                "isbn": "0471498386",
+                "url": "http://library.hud.ac.uk/catlink/bib/368114",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471498386"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471498386"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Learning SQL : a step by step guide using Oracle /",
+                "author": "Earp, Richard.",
+                "isbn": "0201773635",
+                "url": "http://library.hud.ac.uk/catlink/bib/418925",
+                "publisher": "Addison-Wesley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0201773635"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0201773635"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Data structures and algorithms in Java /",
+                "author": "Goodrich, Michael T.",
+                "isbn": "0471469831",
+                "url": "http://library.hud.ac.uk/catlink/bib/428230",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471469831"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471469831"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Head first Java /",
+                "author": "Sierra, Kathy.",
+                "isbn": "0596009208",
+                "url": "http://library.hud.ac.uk/catlink/bib/490649",
+                "publisher": "O'Reilly",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0596009208"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0596009208"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Objects first with Java : a practical introduction using BlueJ /",
+                "author": "Kolling, Michael.",
+                "isbn": "013197629X",
+                "url": "http://library.hud.ac.uk/catlink/bib/511094",
+                "publisher": "Pearson Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013197629X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013197629X"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "LLM/MA Health Care Law",
+                      "id": "llmmahealthcarelaw"
+                    },
+                    {
+                      "name": "BSc(H) Soft/Dev with German",
+                      "id": "bschsoftdevwithgerman"
+                    },
+                    {
+                      "name": "FdSc Secure and Forensic Computing",
+                      "id": "fdscsecureandforensiccomputing"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

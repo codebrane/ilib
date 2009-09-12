@@ -1,0 +1,17 @@
+{
+  "title": "The Eiffel Tower /",
+  "author": "Herve, Lucien",
+  "isbn": "1568983727",
+  "url": "http://library.hud.ac.uk/catlink/bib/414278",
+  "publisher": "Princeton Architectural",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1568983727",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1568983727"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

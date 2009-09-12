@@ -1,0 +1,80 @@
+[
+  {
+    "name": "BA (H) Transport Design",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "4",
+          "book": [
+              {
+                "title": "Transportation : our impact on the planet /",
+                "author": "Bowden, Rob.",
+                "isbn": "0750239514",
+                "url": "http://library.hud.ac.uk/catlink/bib/433726",
+                "publisher": "Hodder Wayland",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750239514"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750239514"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Focus on freight.",
+                "author": "Great Britain. Transport Statistics.",
+                "isbn": "0115524983",
+                "url": "http://library.hud.ac.uk/catlink/bib/433731",
+                "publisher": "TSO",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0115524983"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0115524983"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Unsustainable transport : city transport in the new century /",
+                "author": "Banister, David",
+                "isbn": "041535790X",
+                "url": "http://library.hud.ac.uk/catlink/bib/455574",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041535790X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041535790X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Transport and distribution /",
+                "author": "TNT Express (Firm).",
+                "isbn": "1852510471",
+                "url": "http://library.hud.ac.uk/catlink/bib/46951",
+                "publisher": "Published in association with CBI Initiative 1992 (by) W.H. Allen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1852510471"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1852510471"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

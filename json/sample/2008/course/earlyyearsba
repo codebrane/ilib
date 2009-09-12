@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Early Years BA",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Young children's personal, social and emotional development /",
+                "author": "Dowling, Marion.",
+                "isbn": "1412906903",
+                "url": "http://library.hud.ac.uk/catlink/bib/494427",
+                "publisher": "Paul Chapman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412906903"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412906903"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Public health and health promotion : developing practice /",
+                "author": "Wills, Jane, MSc.",
+                "isbn": "0702026611",
+                "url": "http://library.hud.ac.uk/catlink/bib/498880",
+                "publisher": "Bailliáere Tindall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702026611"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702026611"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

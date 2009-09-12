@@ -1,0 +1,246 @@
+[
+  {
+    "name": "BA(H) Costume with Textiles",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "14",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "6",
+          "book": [
+              {
+                "title": "Victorian architecture /",
+                "author": "Dixon, Roger, 1935-1983.",
+                "isbn": "0500181632",
+                "url": "http://library.hud.ac.uk/catlink/bib/104510",
+                "publisher": "Thames and Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500181632"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500181632"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Contemporary European architects.",
+                "author": "Jodidio, Philip, 1954-",
+                "isbn": "3822885967",
+                "url": "http://library.hud.ac.uk/catlink/bib/243818",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3822885967"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3822885967"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Christian Lacroix /",
+                "author": "Lacroix, Christian, 1951-",
+                "isbn": "0500017646",
+                "url": "http://library.hud.ac.uk/catlink/bib/250540",
+                "publisher": "Thames and Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500017646"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500017646"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Radical fashion /",
+                "author": "Wilcox, Claire",
+                "isbn": "185177341X",
+                "url": "http://library.hud.ac.uk/catlink/bib/379451",
+                "publisher": "V&A",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185177341X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185177341X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Emporio Armani : Charter House - Hong Kong.",
+                "author": "Fuksas, Massimiliano 1944-, ",
+                "isbn": "8495951371",
+                "url": "http://library.hud.ac.uk/catlink/bib/419867",
+                "publisher": "ACTAR",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=8495951371"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/8495951371"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture 04 : the guide to the RIBA awards /",
+                "author": "Royal Institute of British Architects.",
+                "isbn": "1858942608",
+                "url": "http://library.hud.ac.uk/catlink/bib/441380",
+                "publisher": "Merrell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1858942608"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1858942608"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "8",
+          "book": [
+              {
+                "title": "Performance theory /",
+                "author": "Schechner, Richard.",
+                "isbn": "0415900921",
+                "url": "http://library.hud.ac.uk/catlink/bib/120506",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415900921"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415900921"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The flowers of William Morris.",
+                "author": "Baker, Derek W.",
+                "isbn": "1899531033",
+                "url": "http://library.hud.ac.uk/catlink/bib/231112",
+                "publisher": "Barn Elms",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1899531033"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1899531033"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Haute couture embroidery : the art of Lesage /",
+                "author": "White, Palmer.",
+                "isbn": "0865650942",
+                "url": "http://library.hud.ac.uk/catlink/bib/248171",
+                "publisher": "Vendome Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0865650942"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0865650942"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "50s fashion style : stylish casual wear from the golden age of American fashion. Casual for spring.",
+                "author": "",
+                "isbn": "4894440652",
+                "url": "http://library.hud.ac.uk/catlink/bib/289174",
+                "publisher": "P.I.E.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4894440652"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4894440652"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Towers and Colonnades : the architecture of Cuthbert Brodrick.",
+                "author": "Riba Heinz Gallery",
+                "isbn": "1870737113",
+                "url": "http://library.hud.ac.uk/catlink/bib/313815",
+                "publisher": "Leeds Philosophical and Literary Society",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1870737113"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1870737113"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "50s fashion style : elegant fashion from the golden age of America. Elegance for winter.",
+                "author": "",
+                "isbn": "4894440865",
+                "url": "http://library.hud.ac.uk/catlink/bib/327145",
+                "publisher": "P.I.E.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4894440865"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4894440865"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The gardens of William Morris /",
+                "author": "Morris, William, 1834-1896",
+                "isbn": "1556708718",
+                "url": "http://library.hud.ac.uk/catlink/bib/327221",
+                "publisher": "Stewart, Tabori & Chang",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556708718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556708718"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fashionable clothing from the Sears catalogs : early 1960s : with price guide /",
+                "author": "Skinner, Tina.",
+                "isbn": "0764314718",
+                "url": "http://library.hud.ac.uk/catlink/bib/390380",
+                "publisher": "Schiffer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764314718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764314718"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "HNC Construction UCO",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Construction technology : an illustrated introduction /",
+                "author": "Fleming, Eric.",
+                "isbn": "1405102101",
+                "url": "http://library.hud.ac.uk/catlink/bib/413685",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1405102101"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1405102101"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Building construction handbook /",
+                "author": "Greeno, Roger.",
+                "isbn": "0750661968",
+                "url": "http://library.hud.ac.uk/catlink/bib/434847",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750661968"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750661968"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc (Hons) Construction & Proj Mgmt UCO",
+                      "id": "bschonsconstructionprojmgmtuco"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

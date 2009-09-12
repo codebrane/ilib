@@ -1,0 +1,48 @@
+[
+  {
+    "name": "MPhil/PHD (Applied Sciences) FT/PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "resStaff",
+        "total": "2",
+          "book": [
+              {
+                "title": "Liquid chromatography-mass spectrometry : an introduction /",
+                "author": "Ardrey, R. E.",
+                "isbn": "0471498017",
+                "url": "http://library.hud.ac.uk/catlink/bib/413234",
+                "publisher": "J. Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471498017"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471498017"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Practical high-performance liquid chromatography /",
+                "author": "Meyer, Veronika R.",
+                "isbn": "0470093781",
+                "url": "http://library.hud.ac.uk/catlink/bib/439577",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470093781"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470093781"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

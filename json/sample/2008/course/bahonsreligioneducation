@@ -1,0 +1,80 @@
+[
+  {
+    "name": "BA (Hons) Religion & Education",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Judaism : a short introduction /",
+                "author": "Cohn-Sherbok, Lavinia. Short introduction to Judaism.",
+                "isbn": "1851682074",
+                "url": "http://library.hud.ac.uk/catlink/bib/435440",
+                "publisher": "Oneworld",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851682074"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851682074"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Judaism : history, belief, and practice /",
+                "author": "Cohn-Sherbok, Dan.",
+                "isbn": "0415236614",
+                "url": "http://library.hud.ac.uk/catlink/bib/442748",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415236614"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415236614"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Judaism /",
+                "author": "Cohn-Sherbok, Dan.",
+                "isbn": "013266271X",
+                "url": "http://library.hud.ac.uk/catlink/bib/429355",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013266271X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013266271X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Daoism : a short introduction /",
+                "author": "Miller, James, 1951 Sept. 12-",
+                "isbn": "1851683151",
+                "url": "http://library.hud.ac.uk/catlink/bib/435431",
+                "publisher": "Oneworld",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851683151"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851683151"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BA(H) Human Resource Management",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "1",
+          "book": [
+              {
+                "title": "Exploring corporate strategy /",
+                "author": "Whittington, Richard, 1958-",
+                "isbn": "0273687344",
+                "url": "http://library.hud.ac.uk/catlink/bib/441666",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273687344"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273687344"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

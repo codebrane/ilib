@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MA Human Resource Development",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "1",
+          "book": [
+              {
+                "title": "The Sage handbook of qualitative research /",
+                "author": "Lincoln, Yvonna S.",
+                "isbn": "0761927573",
+                "url": "http://library.hud.ac.uk/catlink/bib/455445",
+                "publisher": "Sage",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761927573"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761927573"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BA(H) Music and Journalism",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Vaughan Williams.",
+                "author": "Hurd, Michael, 1928-",
+                "isbn": "0571084141",
+                "url": "http://library.hud.ac.uk/catlink/bib/102528",
+                "publisher": "Faber",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0571084141"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0571084141"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Pop music : the text book /",
+                "author": "Bricheno, Toby",
+                "isbn": "1843670070",
+                "url": "http://library.hud.ac.uk/catlink/bib/422279",
+                "publisher": "Edition Peters",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843670070"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843670070"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

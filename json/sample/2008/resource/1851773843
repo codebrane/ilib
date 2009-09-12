@@ -1,0 +1,20 @@
+{
+  "title": "The art and craft of Gianni Versace /",
+  "author": "Mendes, Valerie",
+  "isbn": "1851773843",
+  "url": "http://library.hud.ac.uk/catlink/bib/405343",
+  "publisher": "V&A",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1851773843",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1851773843"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA (Hons) Art and Design Interdisciplinary UCB",
+    "id": "bahonsartanddesigninterdisciplinaryucb"
+    }
+  ]
+}

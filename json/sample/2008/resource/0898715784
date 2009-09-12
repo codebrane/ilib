@@ -1,0 +1,20 @@
+{
+  "title": "MATLAB guide /",
+  "author": "Higham, D. J. (Desmond J.)",
+  "isbn": "0898715784",
+  "url": "http://library.hud.ac.uk/catlink/bib/505892",
+  "publisher": "Society for Industrial & Applied Mathematics",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0898715784",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0898715784"
+  },
+  "relatedcourse": [
+  {
+    "name": "MPhil/PHD (Engineering) FT/PT",
+    "id": "mphilphdengineeringftpt"
+    }
+  ]
+}

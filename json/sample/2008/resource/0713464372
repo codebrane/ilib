@@ -1,0 +1,20 @@
+{
+  "title": "Fashions of a decade : the 1960s /",
+  "author": "Connikie, Yvonne.",
+  "isbn": "0713464372",
+  "url": "http://library.hud.ac.uk/catlink/bib/132851",
+  "publisher": "Batsford",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0713464372",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0713464372"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Fashion Design with Textiles",
+    "id": "bahfashiondesignwithtextiles"
+    }
+  ]
+}

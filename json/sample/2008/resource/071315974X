@@ -1,0 +1,20 @@
+{
+  "title": "Stability and strife : England, 1714-1760 /",
+  "author": "Speck, W. A. (William Arthur), 1938-",
+  "isbn": "071315974X",
+  "url": "http://library.hud.ac.uk/catlink/bib/119796",
+  "publisher": "Edward Arnold",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=071315974X",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/071315974X"
+  },
+  "relatedcourse": [
+  {
+    "name": "MA History PT",
+    "id": "mahistorypt"
+    }
+  ]
+}

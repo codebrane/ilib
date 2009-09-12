@@ -1,0 +1,40 @@
+[
+  {
+    "name": "FdSc Secure and Forensic Computing",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Objects first with Java : a practical introduction using BlueJ /",
+                "author": "Kolling, Michael.",
+                "isbn": "013197629X",
+                "url": "http://library.hud.ac.uk/catlink/bib/511094",
+                "publisher": "Pearson Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013197629X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013197629X"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "LLM/MA Health Care Law",
+                      "id": "llmmahealthcarelaw"
+                    },
+                    {
+                      "name": "BSc(H) Soft/Dev with German",
+                      "id": "bschsoftdevwithgerman"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

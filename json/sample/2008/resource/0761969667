@@ -1,0 +1,20 @@
+{
+  "title": "Ethics & journalism /",
+  "author": "Sanders, Karen.",
+  "isbn": "0761969667",
+  "url": "http://library.hud.ac.uk/catlink/bib/415747",
+  "publisher": "SAGE",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0761969667",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0761969667"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) English Literature with Creative Writing",
+    "id": "bahonsenglishliteraturewithcreativewriting"
+    }
+  ]
+}

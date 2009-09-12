@@ -1,0 +1,20 @@
+{
+  "title": "The study skills handbook /",
+  "author": "Cottrell, Stella.",
+  "isbn": "1403911355",
+  "url": "http://library.hud.ac.uk/catlink/bib/419211",
+  "publisher": "Palgrave Macmillan",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1403911355",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1403911355"
+  },
+  "relatedcourse": [
+  {
+    "name": "P.Grad. Diploma in Prof. Dev. (ECS with EYPS)",
+    "id": "pgraddiplomainprofdevecswitheyps"
+    }
+  ]
+}

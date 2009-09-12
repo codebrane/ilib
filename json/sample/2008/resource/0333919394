@@ -1,0 +1,20 @@
+{
+  "title": "Engineering mathematics.",
+  "author": "Stroud, K. A. (Kenneth Arthur), 1908-",
+  "isbn": "0333919394",
+  "url": "http://library.hud.ac.uk/catlink/bib/366651",
+  "publisher": "Palgrave",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0333919394",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0333919394"
+  },
+  "relatedcourse": [
+  {
+    "name": "MEng Mechanical & Automotive Design",
+    "id": "mengmechanicalautomotivedesign"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "name": "BA(H) Interior Design",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "13",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "7",
+          "book": [
+              {
+                "title": "Interior lighting for environmental designers /",
+                "author": "Nuckolls, James L.",
+                "isbn": "0471873810",
+                "url": "http://library.hud.ac.uk/catlink/bib/123341",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471873810"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471873810"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Creative lighting : decorative and illuminating interiors /",
+                "author": "Jankowski, Wanda.",
+                "isbn": "0866363432",
+                "url": "http://library.hud.ac.uk/catlink/bib/266359",
+                "publisher": "PBC International",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0866363432"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0866363432"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A history of interior design /",
+                "author": "Pile, John F. (John Frederick), 1924-",
+                "isbn": "1856692000",
+                "url": "http://library.hud.ac.uk/catlink/bib/360326",
+                "publisher": "Laurence King",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856692000"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856692000"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architectural graphics /",
+                "author": "Ching, Frank, 1943-",
+                "isbn": "0471209066",
+                "url": "http://library.hud.ac.uk/catlink/bib/409146",
+                "publisher": "John Wiley & Sons, Inc.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471209066"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471209066"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Interior design illustrated /",
+                "author": "Ching, Frank, 1943-",
+                "isbn": "0471473766",
+                "url": "http://library.hud.ac.uk/catlink/bib/440748",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471473766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471473766"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "6",
+          "book": [
+              {
+                "title": "Jewish Museum, Berlin : between the lines /",
+                "author": "Schneider, Bernard.",
+                "isbn": "3791320750",
+                "url": "http://library.hud.ac.uk/catlink/bib/315845",
+                "publisher": "Prestel",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3791320750"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3791320750"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Xtreme interiors /",
+                "author": "Smith, Courtenay.",
+                "isbn": "3791329707",
+                "url": "http://library.hud.ac.uk/catlink/bib/419104",
+                "publisher": "Prestel",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3791329707"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3791329707"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern art : painting, sculpture, architecture, photography /",
+                "author": "Wheeler, Daniel.",
+                "isbn": "0131895656",
+                "url": "http://library.hud.ac.uk/catlink/bib/435620",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131895656"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131895656"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Tom Friedman /",
+                "author": "Hainley, Bruce",
+                "isbn": "0714839868",
+                "url": "http://library.hud.ac.uk/catlink/bib/436970",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0714839868"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0714839868"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Experimental eco-design : architecture, fashion, product /",
+                "author": "Mallory, Rachel.",
+                "isbn": "2880468175",
+                "url": "http://library.hud.ac.uk/catlink/bib/495814",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2880468175"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2880468175"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Designing with light /",
+                "author": "Meyers, Victoria.",
+                "isbn": "1856694836",
+                "url": "http://library.hud.ac.uk/catlink/bib/498481",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856694836"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856694836"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

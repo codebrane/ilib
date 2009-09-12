@@ -1,0 +1,304 @@
+[
+  {
+    "name": "BSc(H) Health & Community Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "20",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "9",
+          "book": [
+              {
+                "title": "Issues in mentoring /",
+                "author": "Kerry, Trevor",
+                "isbn": "0415116813",
+                "url": "http://library.hud.ac.uk/catlink/bib/120138",
+                "publisher": "Routledge",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415116813"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415116813"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Flexible working practices : techniques and innovations /",
+                "author": "Institute of Personnel and Development.",
+                "isbn": "0852927444",
+                "url": "http://library.hud.ac.uk/catlink/bib/300724",
+                "publisher": "Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0852927444"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0852927444"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Dynamic organisations : the challenge of change /",
+                "author": "Jackson, D. (Dave), 1956-",
+                "isbn": "0333666453",
+                "url": "http://library.hud.ac.uk/catlink/bib/310335",
+                "publisher": "Macmillan Business",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333666453"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333666453"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health promotion : planning and strategies /",
+                "author": "Green, Jackie",
+                "isbn": "0761974490",
+                "url": "http://library.hud.ac.uk/catlink/bib/415551",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761974490"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761974490"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Management theory and practice /",
+                "author": "Cole, G. A. (Gerald A.)",
+                "isbn": "1844800881",
+                "url": "http://library.hud.ac.uk/catlink/bib/426551",
+                "publisher": "Thomson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844800881"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844800881"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Managing and organizations : an introduction to theory and practice /",
+                "author": "Pitsis, Tyrone.",
+                "isbn": "0761943897",
+                "url": "http://library.hud.ac.uk/catlink/bib/437281",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761943897"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761943897"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Doing a literature review : releasing the social science research imagination /",
+                "author": "Hart, Chris, 1970-",
+                "isbn": "0761959742",
+                "url": "http://library.hud.ac.uk/catlink/bib/306118",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761959742"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761959742"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health policy for health care professionals",
+                "author": "Bradshaw, Peter L.",
+                "isbn": "0761974016",
+                "url": "http://library.hud.ac.uk/catlink/bib/435117",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761974016"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761974016"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Work psychology : understanding human behaviour in the workplace /",
+                "author": "Robertson, Ivan T.",
+                "isbn": "0273628682",
+                "url": "http://library.hud.ac.uk/catlink/bib/323860",
+                "publisher": "FT Pitman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273628682"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273628682"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology : introductory readings /",
+                "author": "Giddens, Anthony.",
+                "isbn": "0745624391",
+                "url": "http://library.hud.ac.uk/catlink/bib/381198",
+                "publisher": "Polity",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745624391"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745624391"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "FdSc Police Studies",
+                      "id": "fdscpolicestudies"
+                   }
+                  ]
+              },
+              {
+                "title": "Ross and Wilson anatomy and physiology in health and illness /",
+                "author": "Waugh, Anne.",
+                "isbn": "0443064687",
+                "url": "http://library.hud.ac.uk/catlink/bib/412157",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443064687"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443064687"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing social theory /",
+                "author": "Jones, Pip.",
+                "isbn": "074562698X",
+                "url": "http://library.hud.ac.uk/catlink/bib/415890",
+                "publisher": "Polity",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=074562698X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/074562698X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A2 sociology, unit 2539, OCR. Social inequality and difference /",
+                "author": "Chapman, Steve, 1957-",
+                "isbn": "086003738X",
+                "url": "http://library.hud.ac.uk/catlink/bib/430546",
+                "publisher": "Philip Allan Updates.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=086003738X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/086003738X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Body knowledge and control : studies in the sociology of physical education and health /",
+                "author": "Wright, Jan",
+                "isbn": "0415306450",
+                "url": "http://library.hud.ac.uk/catlink/bib/432581",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415306450"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415306450"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The good study guide /",
+                "author": "Open University. Understanding Health and Social Care Course Team.",
+                "isbn": "0749259744",
+                "url": "http://library.hud.ac.uk/catlink/bib/435285",
+                "publisher": "Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749259744"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749259744"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introductory sociology /",
+                "author": "Bilton, Tony",
+                "isbn": "0333945727",
+                "url": "http://library.hud.ac.uk/catlink/bib/444168",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333945727"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333945727"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health psychology : theory, research and practice /",
+                "author": "Marks, David",
+                "isbn": "1412903378",
+                "url": "http://library.hud.ac.uk/catlink/bib/494912",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412903378"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412903378"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

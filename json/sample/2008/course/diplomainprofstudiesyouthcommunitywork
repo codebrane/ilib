@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Diploma in Prof.Studies - Youth & Community Work",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Ethical issues in youth work",
+                "author": "ebrary, Inc.",
+                "isbn": "0203018990",
+                "url": "http://library.hud.ac.uk/catlink/bib/326206",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0203018990"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0203018990"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Russell House companion to working with young people /",
+                "author": "Chauhan, Vipin.",
+                "isbn": "189892452X",
+                "url": "http://library.hud.ac.uk/catlink/bib/377430",
+                "publisher": "Russell House",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=189892452X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/189892452X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles and practice of informal education : learning through life /",
+                "author": "Wolfe, Mary, 1952-",
+                "isbn": "0415216907",
+                "url": "http://library.hud.ac.uk/catlink/bib/378198",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415216907"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415216907"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Facing aggression : effective work with young people /",
+                "author": "Owens-Rawle, Derek",
+                "isbn": "1904479022",
+                "url": "http://library.hud.ac.uk/catlink/bib/409713",
+                "publisher": "UK Youth",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1904479022"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1904479022"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Joining together : group theory and group skills /",
+                "author": "Johnson, Frank P., 1940-",
+                "isbn": "0205367402",
+                "url": "http://library.hud.ac.uk/catlink/bib/412410",
+                "publisher": "Allyn and Bacon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0205367402"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0205367402"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

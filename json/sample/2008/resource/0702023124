@@ -1,0 +1,20 @@
+{
+  "title": "Ethics in nursing practice /",
+  "author": "Royal College of Nursing.",
+  "isbn": "0702023124",
+  "url": "http://library.hud.ac.uk/catlink/bib/466211",
+  "publisher": "Bailliere Tindall",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0702023124",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0702023124"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc (Hons) Professional Studies",
+    "id": "bschonsprofessionalstudies"
+    }
+  ]
+}

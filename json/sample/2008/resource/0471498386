@@ -1,0 +1,17 @@
+{
+  "title": "Java in distributed systems : concurrency, distribution, and persistence /",
+  "author": "Boger, Marko.",
+  "isbn": "0471498386",
+  "url": "http://library.hud.ac.uk/catlink/bib/368114",
+  "publisher": "Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0471498386",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0471498386"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

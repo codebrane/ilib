@@ -1,0 +1,48 @@
+[
+  {
+    "name": "FdA Journalism &  Media Production",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Stick it up your punter! : the uncut story of the Sun newspaper /",
+                "author": "Horrie, Chris",
+                "isbn": "0671017829",
+                "url": "http://library.hud.ac.uk/catlink/bib/344142",
+                "publisher": "Pocket Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0671017829"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0671017829"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Media law for journalists /",
+                "author": "Smartt, Ursula.",
+                "isbn": "1412908477",
+                "url": "http://library.hud.ac.uk/catlink/bib/512232",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412908477"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412908477"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

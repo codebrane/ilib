@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MPharm",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "6",
+          "book": [
+              {
+                "title": "Chemistry for pharmacy and the life sciences : including pharmacology and biomedical science /",
+                "author": "Thomas, Gareth",
+                "isbn": "0131316990",
+                "url": "http://library.hud.ac.uk/catlink/bib/260458",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131316990"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131316990"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to pharmacology /",
+                "author": "Hollinger, Mannfred A.",
+                "isbn": "1560325755",
+                "url": "http://library.hud.ac.uk/catlink/bib/320493",
+                "publisher": "Taylor & Francis",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1560325755"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1560325755"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Thinking about prescribing : a handbook for quality use of medicines /",
+                "author": "Rudd, Jo",
+                "isbn": "0074707698",
+                "url": "http://library.hud.ac.uk/catlink/bib/383771",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0074707698"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0074707698"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Drug calculations for nurses : a step-by-step approach /",
+                "author": "Agar, Heather",
+                "isbn": "0340810289",
+                "url": "http://library.hud.ac.uk/catlink/bib/428351",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340810289"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340810289"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Human physiology : from cells to systems /",
+                "author": "Sherwood, Lauralee.",
+                "isbn": "0534395368",
+                "url": "http://library.hud.ac.uk/catlink/bib/420355",
+                "publisher": "Thomson/Brooks/Cole",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0534395368"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0534395368"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Medical pharmacology at a glance /",
+                "author": "Neal, M. J.",
+                "isbn": "1405133600",
+                "url": "http://library.hud.ac.uk/catlink/bib/495539",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1405133600"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1405133600"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "title": "The language of jokes : analyzing verbal play /",
+  "author": "Chiaro, Delia.",
+  "isbn": "0415030900",
+  "url": "http://library.hud.ac.uk/catlink/bib/103786",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415030900",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415030900"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) Creative Writing and English Literature",
+    "id": "bahonscreativewritingandenglishliterature"
+  },
+  {
+    "name": "BA(H) English & Media",
+    "id": "bahenglishmedia"
+  },
+  {
+    "name": "BA(H) English Language w Modern Lang PT",
+    "id": "bahenglishlanguagewmodernlangpt"
+    }
+  ]
+}

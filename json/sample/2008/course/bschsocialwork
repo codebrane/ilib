@@ -1,0 +1,362 @@
+[
+  {
+    "name": "BSc(H) Social Work",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "28",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "18",
+          "book": [
+              {
+                "title": "Sexual offending against children : assessment and treatment of male abusers /",
+                "author": "Erooga, Marcus",
+                "isbn": "0415055040",
+                "url": "http://library.hud.ac.uk/catlink/bib/109514",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415055040"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415055040"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A sourcebook on child sexual abuse /",
+                "author": "Finkelhor, David",
+                "isbn": "0803927487",
+                "url": "http://library.hud.ac.uk/catlink/bib/122983",
+                "publisher": "Sage",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803927487"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803927487"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Blackstone's guide to the Disability Discrimination Act 1995 /",
+                "author": "Gooding, Caroline.",
+                "isbn": "1854314998",
+                "url": "http://library.hud.ac.uk/catlink/bib/225195",
+                "publisher": "Blackstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854314998"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854314998"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Children with special needs : assessment, law and practice - caught in the acts /",
+                "author": "Friel, John",
+                "isbn": "1853022802",
+                "url": "http://library.hud.ac.uk/catlink/bib/258127",
+                "publisher": "Jessica Kingsley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853022802"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853022802"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "AIDS : the hidden agenda in child sexual abuse /",
+                "author": "Sloan, Jane",
+                "isbn": "0471972207",
+                "url": "http://library.hud.ac.uk/catlink/bib/258957",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471972207"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471972207"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Child sexual abuse : responding to the experiences of children /",
+                "author": "Wattam, Corinne",
+                "isbn": "0471983349",
+                "url": "http://library.hud.ac.uk/catlink/bib/325244",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471983349"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471983349"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Constructive social work : towards a new practice /",
+                "author": "Parton, Nigel.",
+                "isbn": "0333747291",
+                "url": "http://library.hud.ac.uk/catlink/bib/350186",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333747291"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333747291"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Blackwell encyclopaedia of social work /",
+                "author": "Davies, Martin",
+                "isbn": "063121450X",
+                "url": "http://library.hud.ac.uk/catlink/bib/351381",
+                "publisher": "Blackwell Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=063121450X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/063121450X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Independent successes : implementing direct payments /",
+                "author": "Dawson, Carol.",
+                "isbn": "1842630113",
+                "url": "http://library.hud.ac.uk/catlink/bib/363223",
+                "publisher": "York Publishing Services",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1842630113"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1842630113"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Critical issues in child sexual abuse : historical, legal, and psychological perspectives /",
+                "author": "Conte, Jon R.",
+                "isbn": "0761909117",
+                "url": "http://library.hud.ac.uk/catlink/bib/388329",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761909117"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761909117"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Buying independence : using direct payments to integrate health and social services /",
+                "author": "Glendinning, Caroline",
+                "isbn": "186134225X",
+                "url": "http://library.hud.ac.uk/catlink/bib/401579",
+                "publisher": "Policy Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=186134225X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/186134225X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Journey to independence : what self-advocates tell us about direct payments /",
+                "author": "Gramlich, Stacey",
+                "isbn": "1904082645",
+                "url": "http://library.hud.ac.uk/catlink/bib/416883",
+                "publisher": "BILD",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1904082645"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1904082645"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The child in mind : a child protection handbook /",
+                "author": "Barker, Judy.",
+                "isbn": "0415321743",
+                "url": "http://library.hud.ac.uk/catlink/bib/427571",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415321743"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415321743"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Contemporary child care policy and practice /",
+                "author": "Fawcett, Barbara",
+                "isbn": "023000623X",
+                "url": "http://library.hud.ac.uk/catlink/bib/427667",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=023000623X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/023000623X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Child pornography : an Internet crime /",
+                "author": "Taylor, Maxwell, 1945-",
+                "isbn": "1583912444",
+                "url": "http://library.hud.ac.uk/catlink/bib/428367",
+                "publisher": "Brunner-Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1583912444"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1583912444"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Youth justice : ideas, policy, practice /",
+                "author": "Smith, Roger S. (Roger Shipley), 1953-",
+                "isbn": "1843920212",
+                "url": "http://library.hud.ac.uk/catlink/bib/428836",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843920212"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843920212"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(Hons) Social Work (Work Based Route)",
+                      "id": "bschonssocialworkworkbasedroute"
+                   }
+                  ]
+              },
+              {
+                "title": "The RHP companion to youth justice /",
+                "author": "Bateman, Tim.",
+                "isbn": "1903855497",
+                "url": "http://library.hud.ac.uk/catlink/bib/451746",
+                "publisher": "Russell House",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903855497"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903855497"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "10",
+          "book": [
+              {
+                "title": "Anti-discriminatory practice /",
+                "author": "Thompson, Neil, 1955-",
+                "isbn": "0333963911",
+                "url": "http://library.hud.ac.uk/catlink/bib/376803",
+                "publisher": "Palgrave",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333963911"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333963911"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Human growth and development /",
+                "author": "Beckett, Chris.",
+                "isbn": "076197248X",
+                "url": "http://library.hud.ac.uk/catlink/bib/390882",
+                "publisher": "SAGE",
+                "total": "4",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=076197248X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/076197248X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Just law /",
+                "author": "Kennedy, Helena.",
+                "isbn": "0701175060",
+                "url": "http://library.hud.ac.uk/catlink/bib/428148",
+                "publisher": "Chatto & Windus",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0701175060"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0701175060"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding the law /",
+                "author": "Rivlin, Geoffrey.",
+                "isbn": "0199270236",
+                "url": "http://library.hud.ac.uk/catlink/bib/439004",
+                "publisher": "Oxford University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199270236"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199270236"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

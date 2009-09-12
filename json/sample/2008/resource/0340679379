@@ -1,0 +1,20 @@
+{
+  "title": "Introduction to research methods and statistics in psychology /",
+  "author": "Coolican, Hugh.",
+  "isbn": "0340679379",
+  "url": "http://library.hud.ac.uk/catlink/bib/276433",
+  "publisher": "Hodder & Stoughton",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0340679379",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0340679379"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Psychological Studies",
+    "id": "bschpsychologicalstudies"
+    }
+  ]
+}

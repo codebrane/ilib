@@ -1,0 +1,20 @@
+{
+  "title": "The business and marketing environment /",
+  "author": "Palmer, Adrian (Adrian James), 1955-",
+  "isbn": "0077094948",
+  "url": "http://library.hud.ac.uk/catlink/bib/347152",
+  "publisher": "McGraw-Hill",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0077094948",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0077094948"
+  },
+  "relatedcourse": [
+  {
+    "name": "MBA (Master of Business Administration)",
+    "id": "mbamasterofbusinessadministration"
+    }
+  ]
+}

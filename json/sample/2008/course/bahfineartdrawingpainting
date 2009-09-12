@@ -1,0 +1,118 @@
+[
+  {
+    "name": "BA(H) Fine Art:Drawing & Painting",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Masks : faces of culture /",
+                "author": "St. Louis Art Museum",
+                "isbn": "0810943794",
+                "url": "http://library.hud.ac.uk/catlink/bib/336776",
+                "publisher": "Abrams in association with the Saint Louis Art Museum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0810943794"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0810943794"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "By nature's design /",
+                "author": "Murphy, Pat.",
+                "isbn": "0811803295",
+                "url": "http://library.hud.ac.uk/catlink/bib/352806",
+                "publisher": "Chronicle Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0811803295"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0811803295"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "6,000 years of housing /",
+                "author": "Schoenauer, Norbert, 1923-",
+                "isbn": "0393730522",
+                "url": "http://library.hud.ac.uk/catlink/bib/354599",
+                "publisher": "W.W. Norton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0393730522"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0393730522"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Shelter.",
+                "author": "",
+                "isbn": "0936070110",
+                "url": "http://library.hud.ac.uk/catlink/bib/361344",
+                "publisher": "Shelter",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0936070110"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0936070110"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Cruel and tender : the real in the twentieth-century photograph /",
+                "author": "Weski, Thomas",
+                "isbn": "1854374540",
+                "url": "http://library.hud.ac.uk/catlink/bib/417637",
+                "publisher": "Tate",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854374540"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854374540"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Between past and future : new photography and video from China /",
+                "author": "Phillips, Christopher.",
+                "isbn": "3865210368",
+                "url": "http://library.hud.ac.uk/catlink/bib/438468",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3865210368"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3865210368"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

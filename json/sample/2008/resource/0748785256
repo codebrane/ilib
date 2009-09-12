@@ -1,0 +1,20 @@
+{
+  "title": "Teaching today : a practical guide /",
+  "author": "Petty, Geoff.",
+  "isbn": "0748785256",
+  "url": "http://library.hud.ac.uk/catlink/bib/434834",
+  "publisher": "Nelson Thornes",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0748785256",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0748785256"
+  },
+  "relatedcourse": [
+  {
+    "name": "Certificate in Education UCB",
+    "id": "certificateineducationucb"
+    }
+  ]
+}

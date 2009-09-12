@@ -1,0 +1,20 @@
+{
+  "title": "The elements of copywriting : the essential guide to creating copy that gets the result you want /",
+  "author": "Bly, Robert W.",
+  "isbn": "0028626303",
+  "url": "http://library.hud.ac.uk/catlink/bib/404910",
+  "publisher": "Macmillan USA",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0028626303",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0028626303"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Advertising, Media & Design Management",
+    "id": "bahadvertisingmediadesignmanagement"
+    }
+  ]
+}

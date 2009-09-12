@@ -1,0 +1,774 @@
+[
+  {
+    "name": "BA(H) Creative Imaging-Motion Graphics & Animation",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "50",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "38",
+          "book": [
+              {
+                "title": "Fun with fonts /",
+                "author": "Carter, David E.",
+                "isbn": "3910052959",
+                "url": "http://library.hud.ac.uk/catlink/bib/275026",
+                "publisher": "Nippan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3910052959"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3910052959"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The new typographic logo /",
+                "author": "Rosentswieg, Gerry",
+                "isbn": "3910052878",
+                "url": "http://library.hud.ac.uk/catlink/bib/276076",
+                "publisher": "Madison Square Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3910052878"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3910052878"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "6 chapters in design : Saul Bass, Ivan Chermayeff, Milton Glaser, Paul Rand, Ikko Tanaka, Henryk Tomaszewski /",
+                "author": "Glaser, Milton",
+                "isbn": "0811817229",
+                "url": "http://library.hud.ac.uk/catlink/bib/307694",
+                "publisher": "Chronicle Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0811817229"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0811817229"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The designer's guide to web type : your connection to the best fonts online /",
+                "author": "Ziegler, Kathleen",
+                "isbn": "0060933739",
+                "url": "http://library.hud.ac.uk/catlink/bib/376433",
+                "publisher": "HBI",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0060933739"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0060933739"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Typographics collection : the new faces of contemporary typography.",
+                "author": "",
+                "isbn": "4894441136",
+                "url": "http://library.hud.ac.uk/catlink/bib/376501",
+                "publisher": "PIE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4894441136"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4894441136"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "High impact portrait photography : creative techniques for dramatic, fashion-inspired portraits /",
+                "author": "Brystan, Lori.",
+                "isbn": "158428062X",
+                "url": "http://library.hud.ac.uk/catlink/bib/395636",
+                "publisher": "Amherst Media",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=158428062X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/158428062X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Brasil inspired /",
+                "author": "Costa, Nando",
+                "isbn": "3931126935",
+                "url": "http://library.hud.ac.uk/catlink/bib/408311",
+                "publisher": "Gestalten",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3931126935"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3931126935"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Transforming language.",
+                "author": "Marecki, Thomas.",
+                "isbn": "3931126846",
+                "url": "http://library.hud.ac.uk/catlink/bib/409637",
+                "publisher": "Gestalten",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3931126846"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3931126846"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Idea index : graphic effects and typographic treatments /",
+                "author": "Krause, Jim, 1962-",
+                "isbn": "1581800460",
+                "url": "http://library.hud.ac.uk/catlink/bib/412312",
+                "publisher": "North Light",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1581800460"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1581800460"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Krazy kids' food! /",
+                "author": "Goodsell, Dan",
+                "isbn": "382282237X",
+                "url": "http://library.hud.ac.uk/catlink/bib/415002",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=382282237X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/382282237X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Type graphics : the power of type in graphic design /",
+                "author": "Richardson, Margaret E.",
+                "isbn": "156496714X",
+                "url": "http://library.hud.ac.uk/catlink/bib/415459",
+                "publisher": "Rockport",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=156496714X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/156496714X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Typographics : the art and science of type design in context /",
+                "author": "Vartanian, Ivan",
+                "isbn": "2880467691",
+                "url": "http://library.hud.ac.uk/catlink/bib/418592",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2880467691"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2880467691"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The typographic experiment : radical innovation in contemporary type design /",
+                "author": "Triggs, Teal",
+                "isbn": "0500511438",
+                "url": "http://library.hud.ac.uk/catlink/bib/418605",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500511438"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500511438"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Skateboard stickers /",
+                "author": "Cardwell, Steve",
+                "isbn": "1856693791",
+                "url": "http://library.hud.ac.uk/catlink/bib/427452",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856693791"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856693791"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "New book design /",
+                "author": "Fawcett-Tang, Roger",
+                "isbn": "185669366X",
+                "url": "http://library.hud.ac.uk/catlink/bib/430113",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185669366X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185669366X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Graphics : a century of poster and advertising design /",
+                "author": "Weill, Alain.",
+                "isbn": "0500301166",
+                "url": "http://library.hud.ac.uk/catlink/bib/432641",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500301166"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500301166"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "This ain't no disco : new wave album covers /",
+                "author": "McKnight-Trontz, Jennifer.",
+                "isbn": "0500285500",
+                "url": "http://library.hud.ac.uk/catlink/bib/444160",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500285500"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500285500"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Art of modern rock /",
+                "author": "King, Dennis.",
+                "isbn": "081184529X",
+                "url": "http://library.hud.ac.uk/catlink/bib/444581",
+                "publisher": "Chronicle",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=081184529X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/081184529X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The all-American book of illustration XXIII.",
+                "author": "",
+                "isbn": "1886212228",
+                "url": "http://library.hud.ac.uk/catlink/bib/452598",
+                "publisher": "Amilus",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1886212228"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1886212228"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "New typographics with font samples.",
+                "author": "Mitomi, Hitoshi",
+                "isbn": "4894443937",
+                "url": "http://library.hud.ac.uk/catlink/bib/452975",
+                "publisher": "P.I.E",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4894443937"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4894443937"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Big type : including over 200 examples of work with designers' comments and analysis /",
+                "author": "Walton, Roger",
+                "isbn": "0060185813",
+                "url": "http://library.hud.ac.uk/catlink/bib/412363",
+                "publisher": "HBI",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0060185813"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0060185813"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "JPG.",
+                "author": "Ras gallery. Barcelona.",
+                "isbn": "8495951177",
+                "url": "http://library.hud.ac.uk/catlink/bib/412582",
+                "publisher": "Actar",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=8495951177"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/8495951177"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Type: no borders, no boundaries, no limits /",
+                "author": "Walton, Roger",
+                "isbn": "3935814062",
+                "url": "http://library.hud.ac.uk/catlink/bib/415457",
+                "publisher": "HBI",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3935814062"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3935814062"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sampler 3 : radical album cover art /",
+                "author": "House, Julian",
+                "isbn": "185669352X",
+                "url": "http://library.hud.ac.uk/catlink/bib/421877",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185669352X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185669352X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ai 21.",
+                "author": "",
+                "isbn": "188621218X",
+                "url": "http://library.hud.ac.uk/catlink/bib/422163",
+                "publisher": "Amilus",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=188621218X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/188621218X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "100 habits of successful graphic designers : insider secrets on working smart and staying creative /",
+                "author": "Dougher, Sarah.",
+                "isbn": "1564969770",
+                "url": "http://library.hud.ac.uk/catlink/bib/422510",
+                "publisher": "Rockport",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1564969770"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1564969770"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Advertising graphics with impact : a collection of select world advertising with impact!.",
+                "author": "Baba, Naomi",
+                "isbn": "4894442876",
+                "url": "http://library.hud.ac.uk/catlink/bib/426716",
+                "publisher": "P.I.E.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4894442876"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4894442876"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "World graphic design : contemporary graphics from Africa, the Far East, Latin America and the Middle East /",
+                "author": "Caban, Geoffrey.",
+                "isbn": "1858942195",
+                "url": "http://library.hud.ac.uk/catlink/bib/430049",
+                "publisher": "Merrell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1858942195"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1858942195"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sonic : visuals for music /",
+                "author": "Hellige, Hendrik",
+                "isbn": "3899550404",
+                "url": "http://library.hud.ac.uk/catlink/bib/435606",
+                "publisher": "Die Gestalten Verlag",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3899550404"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3899550404"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Maximalism : the graphic design of decadence & excess /",
+                "author": "Rivers, Charlotte.",
+                "isbn": "2880467942",
+                "url": "http://library.hud.ac.uk/catlink/bib/439215",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2880467942"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2880467942"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Type one : discipline and progress in typography /",
+                "author": "Klanten, Robert",
+                "isbn": "3899550560",
+                "url": "http://library.hud.ac.uk/catlink/bib/455559",
+                "publisher": "Gestalten Verlag",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3899550560"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3899550560"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Typography /",
+                "author": "Ambrose, Gavin.",
+                "isbn": "2940373353",
+                "url": "http://library.hud.ac.uk/catlink/bib/489117",
+                "publisher": "AVA",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2940373353"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2940373353"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Blood, sweat & tears.",
+                "author": "Gudel, Benjamin.",
+                "isbn": "3899550749",
+                "url": "http://library.hud.ac.uk/catlink/bib/490982",
+                "publisher": "Die Gestalten",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3899550749"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3899550749"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Graphic design now /",
+                "author": "Fiell, Peter",
+                "isbn": "382284778X",
+                "url": "http://library.hud.ac.uk/catlink/bib/497695",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=382284778X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/382284778X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The fundamentals of illustration : how to generate ideas, interpret briefs and promote oneself : practicality, philosophy and professionalism are explored in both the digital and analogue worlds of illustration /",
+                "author": "Zeegen, Lawrence.",
+                "isbn": "2884790608",
+                "url": "http://library.hud.ac.uk/catlink/bib/501346",
+                "publisher": "AVA",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2884790608"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2884790608"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "12",
+          "book": [
+              {
+                "title": "Burg /",
+                "author": "Deitcher, David",
+                "isbn": "3822878812",
+                "url": "http://library.hud.ac.uk/catlink/bib/317302",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3822878812"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3822878812"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Associated Press guide to photojournalism /",
+                "author": "Horton, Brian.",
+                "isbn": "0071363874",
+                "url": "http://library.hud.ac.uk/catlink/bib/363750",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0071363874"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0071363874"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Photography : a cultural history /",
+                "author": "Marien, Mary Warner.",
+                "isbn": "1856692884",
+                "url": "http://library.hud.ac.uk/catlink/bib/418946",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856692884"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856692884"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The complete guide to digital photography /",
+                "author": "Freeman, Michael, 1945-",
+                "isbn": "0500542775",
+                "url": "http://library.hud.ac.uk/catlink/bib/430630",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500542775"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500542775"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Powerful page design : top designers lay out their concepts to reveal their inspirations /",
+                "author": "Warmke, Clare",
+                "isbn": "1581802587",
+                "url": "http://library.hud.ac.uk/catlink/bib/415010",
+                "publisher": "HOW Design Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1581802587"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1581802587"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ken Cato : the dimensions of design.",
+                "author": "",
+                "isbn": "1876907738",
+                "url": "http://library.hud.ac.uk/catlink/bib/415624",
+                "publisher": "Images",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1876907738"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1876907738"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Graphic agitation 2 : social and political graphics in the digital age /",
+                "author": "McQuiston, Liz, 1952-",
+                "isbn": "0714841773",
+                "url": "http://library.hud.ac.uk/catlink/bib/434665",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0714841773"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0714841773"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Block beuys : photographs /",
+                "author": "Blume, Eugen.",
+                "isbn": "3865210015",
+                "url": "http://library.hud.ac.uk/catlink/bib/442794",
+                "publisher": "Steidl ;",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3865210015"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3865210015"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Head, heart & hips /",
+                "author": "Big Active (Firm)",
+                "isbn": "3899550609",
+                "url": "http://library.hud.ac.uk/catlink/bib/462348",
+                "publisher": "Gestalten Verlag",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3899550609"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3899550609"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "C/id : visual identity and branding for the arts /",
+                "author": "Hyland, Angus",
+                "isbn": "1856694089",
+                "url": "http://library.hud.ac.uk/catlink/bib/498417",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856694089"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856694089"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Character design collection.",
+                "author": "",
+                "isbn": "489444495X",
+                "url": "http://library.hud.ac.uk/catlink/bib/507374",
+                "publisher": "Publishers Group Worldwide (distributor)",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=489444495X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/489444495X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Francesca Woodman : scattered in space and time /",
+                "author": "Townsend, Chris.",
+                "isbn": "0714844306",
+                "url": "http://library.hud.ac.uk/catlink/bib/511142",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0714844306"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0714844306"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

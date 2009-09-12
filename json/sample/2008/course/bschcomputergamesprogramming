@@ -1,0 +1,92 @@
+[
+  {
+    "name": "BSc(H) Computer Games Programming",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "5",
+          "book": [
+              {
+                "title": "The essence of neural networks /",
+                "author": "Callan, Robert.",
+                "isbn": "013908732X",
+                "url": "http://library.hud.ac.uk/catlink/bib/359239",
+                "publisher": "Prentice Hall Europe",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013908732X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013908732X"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Computing & Management Sciences",
+                      "id": "bschcomputingmanagementsciences"
+                    },
+                    {
+                      "name": "MEng Software Engineering",
+                      "id": "mengsoftwareengineering"
+                    },
+                    {
+                      "name": "BSc(H) Multimedia Technology",
+                      "id": "bschmultimediatechnology"
+                   }
+                  ]
+              },
+              {
+                "title": "Non-photorealistic computer graphics : modeling, rendering, and animation /",
+                "author": "Strothotte, Thomas, 1959-",
+                "isbn": "1558607870",
+                "url": "http://library.hud.ac.uk/catlink/bib/404891",
+                "publisher": "Morgan Kaufmann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1558607870"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1558607870"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Model, rig, animate with 3ds max 7 /",
+                "author": "Bousquet, Michele, 1962-",
+                "isbn": "0321321782",
+                "url": "http://library.hud.ac.uk/catlink/bib/445086",
+                "publisher": "New Riders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0321321782"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0321321782"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Artificial intelligence : structures and strategies for complex problem solving /",
+                "author": "Luger, George F.",
+                "isbn": "0321263189",
+                "url": "http://library.hud.ac.uk/catlink/bib/499173",
+                "publisher": "Addison-Wesley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0321263189"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0321263189"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

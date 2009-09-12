@@ -1,0 +1,20 @@
+{
+  "title": "Vaughan Williams.",
+  "author": "Hurd, Michael, 1928-",
+  "isbn": "0571084141",
+  "url": "http://library.hud.ac.uk/catlink/bib/102528",
+  "publisher": "Faber",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0571084141",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0571084141"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Music and Journalism",
+    "id": "bahmusicandjournalism"
+    }
+  ]
+}

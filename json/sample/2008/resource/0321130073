@@ -1,0 +1,20 @@
+{
+  "title": "HTML for the World Wide Web : with XHTML and CSS /",
+  "author": "Castro, Elizabeth.",
+  "isbn": "0321130073",
+  "url": "http://library.hud.ac.uk/catlink/bib/406483",
+  "publisher": "Peachpit",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0321130073",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0321130073"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdSc Multimedia",
+    "id": "fdscmultimedia"
+    }
+  ]
+}

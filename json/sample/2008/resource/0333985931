@@ -1,0 +1,20 @@
+{
+  "title": "Social work : themes, issues and critical debates /",
+  "author": "Open University.",
+  "isbn": "0333985931",
+  "url": "http://library.hud.ac.uk/catlink/bib/415076",
+  "publisher": "Palgrave",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0333985931",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0333985931"
+  },
+  "relatedcourse": [
+  {
+    "name": "Short Courses (30 Credits)",
+    "id": "shortcourses30credits"
+    }
+  ]
+}

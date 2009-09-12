@@ -1,0 +1,20 @@
+{
+  "title": "Liquid chromatography-mass spectrometry : an introduction /",
+  "author": "Ardrey, R. E.",
+  "isbn": "0471498017",
+  "url": "http://library.hud.ac.uk/catlink/bib/413234",
+  "publisher": "J. Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0471498017",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0471498017"
+  },
+  "relatedcourse": [
+  {
+    "name": "MPhil/PHD (Applied Sciences) FT/PT",
+    "id": "mphilphdappliedsciencesftpt"
+    }
+  ]
+}

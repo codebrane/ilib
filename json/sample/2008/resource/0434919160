@@ -1,0 +1,20 @@
+{
+  "title": "Computers in the fashion industry /",
+  "author": "Taylor, Patrick J.",
+  "isbn": "0434919160",
+  "url": "http://library.hud.ac.uk/catlink/bib/119179",
+  "publisher": "Heinemann Professional",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0434919160",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0434919160"
+  },
+  "relatedcourse": [
+  {
+    "name": "MA Professional Development",
+    "id": "maprofessionaldevelopment"
+    }
+  ]
+}

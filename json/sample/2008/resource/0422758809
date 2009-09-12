@@ -1,0 +1,20 @@
+{
+  "title": "The archaeology of knowledge /",
+  "author": "Foucault, Michel, 1926-1984.",
+  "isbn": "0422758809",
+  "url": "http://library.hud.ac.uk/catlink/bib/103083",
+  "publisher": "Tavistock Publications",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0422758809",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0422758809"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) Early Primary Education with QTS",
+    "id": "bahonsearlyprimaryeducationwithqts"
+    }
+  ]
+}

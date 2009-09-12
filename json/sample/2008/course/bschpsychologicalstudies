@@ -1,0 +1,198 @@
+[
+  {
+    "name": "BSc(H) Psychological Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "14",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "11",
+          "book": [
+              {
+                "title": "Introduction to research methods and statistics in psychology /",
+                "author": "Coolican, Hugh.",
+                "isbn": "0340679379",
+                "url": "http://library.hud.ac.uk/catlink/bib/276433",
+                "publisher": "Hodder & Stoughton",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340679379"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340679379"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing qualitative research in psychology : adventures in theory and method /",
+                "author": "Willig, Carla, 1964-",
+                "isbn": "0335205364",
+                "url": "http://library.hud.ac.uk/catlink/bib/376987",
+                "publisher": "Open University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335205364"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335205364"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Qualitative researching /",
+                "author": "Mason, Jennifer, 1958-",
+                "isbn": "076197427X",
+                "url": "http://library.hud.ac.uk/catlink/bib/402880",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=076197427X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/076197427X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing criminology /",
+                "author": "Norris, Clive.",
+                "isbn": "1903240093",
+                "url": "http://library.hud.ac.uk/catlink/bib/410992",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903240093"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903240093"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Textbook on criminology /",
+                "author": "Williams, Katherine S.",
+                "isbn": "0199264406",
+                "url": "http://library.hud.ac.uk/catlink/bib/440254",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199264406"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199264406"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Doing qualitative research : a practical handbook /",
+                "author": "Silverman, David.",
+                "isbn": "1412901979",
+                "url": "http://library.hud.ac.uk/catlink/bib/454273",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412901979"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412901979"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Qualitative psychology : a practical guide to research methods /",
+                "author": "Smith, Jonathan A.",
+                "isbn": "0761972315",
+                "url": "http://library.hud.ac.uk/catlink/bib/413207",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761972315"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761972315"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to research methods and data analysis in psychology /",
+                "author": "Langdridge, Darren.",
+                "isbn": "0130978329",
+                "url": "http://library.hud.ac.uk/catlink/bib/426026",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130978329"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130978329"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Penguin dictionary of psychology /",
+                "author": "Reber, Arthur S., 1940-",
+                "isbn": "0140514511",
+                "url": "http://library.hud.ac.uk/catlink/bib/491782",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140514511"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140514511"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Doing research on crime and justice /",
+                "author": "Wincup, Emma.",
+                "isbn": "0198765398",
+                "url": "http://library.hud.ac.uk/catlink/bib/344088",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198765398"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198765398"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Criminological perspectives : essential readings /",
+                "author": "Muncie, John",
+                "isbn": "0761941444",
+                "url": "http://library.hud.ac.uk/catlink/bib/414256",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761941444"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761941444"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

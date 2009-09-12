@@ -1,0 +1,20 @@
+{
+  "title": "Learning through play : babies, toddlers and the foundation years /",
+  "author": "Bruce, Tina.",
+  "isbn": "0340801522",
+  "url": "http://library.hud.ac.uk/catlink/bib/435715",
+  "publisher": "Hodder & Stoughton",
+  "total": "3",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0340801522",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0340801522"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdA Early Years",
+    "id": "fdaearlyyears"
+    }
+  ]
+}

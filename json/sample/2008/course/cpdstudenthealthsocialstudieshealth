@@ -1,0 +1,80 @@
+[
+  {
+    "name": "CPD Student Health & Social Studies (Health)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "The widening gap : health inequalities and policy in Britain /",
+                "author": "Shaw, Mary",
+                "isbn": "1861341423",
+                "url": "http://library.hud.ac.uk/catlink/bib/375188",
+                "publisher": "Policy",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861341423"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861341423"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ethical issues in palliative care : reflections and considerations /",
+                "author": "Webb, Pat",
+                "isbn": "1898507279",
+                "url": "http://library.hud.ac.uk/catlink/bib/406969",
+                "publisher": "Hochland & Hochland",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1898507279"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1898507279"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Nursing the dying patient : caring in different contexts /",
+                "author": "Costello, John, 1954-",
+                "isbn": "0333980824",
+                "url": "http://library.hud.ac.uk/catlink/bib/427550",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333980824"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333980824"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Write great essays! : a guide to reading and essay writing for undergraduates and taught postgraduates /",
+                "author": "Levin, Peter.",
+                "isbn": "007711129X",
+                "url": "http://library.hud.ac.uk/catlink/bib/446561",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=007711129X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/007711129X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

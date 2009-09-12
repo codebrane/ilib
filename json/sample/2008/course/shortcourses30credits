@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Short Courses (30 Credits)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "10",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "10",
+          "book": [
+              {
+                "title": "Social work : themes, issues and critical debates /",
+                "author": "Open University.",
+                "isbn": "0333985931",
+                "url": "http://library.hud.ac.uk/catlink/bib/415076",
+                "publisher": "Palgrave",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333985931"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333985931"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social work practice : assessment, planning, intervention and review /",
+                "author": "Bradley, Greta",
+                "isbn": "1903300851",
+                "url": "http://library.hud.ac.uk/catlink/bib/416234",
+                "publisher": "Learning Matters",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903300851"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903300851"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Critical practice in social work /",
+                "author": "Campling, Jo",
+                "isbn": "033392553X",
+                "url": "http://library.hud.ac.uk/catlink/bib/435287",
+                "publisher": "Palgrave Macmillan",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=033392553X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/033392553X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Anti-oppressive social work theory and practice /",
+                "author": "Dominelli, Lena.",
+                "isbn": "0333771559",
+                "url": "http://library.hud.ac.uk/catlink/bib/435288",
+                "publisher": "Palgrave Macmillan",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333771559"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333771559"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social work and evidence-based practice",
+                "author": "ebrary, Inc.",
+                "isbn": "1843101564",
+                "url": "http://library.hud.ac.uk/catlink/bib/446157",
+                "publisher": "Jessica Kingsley Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843101564"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843101564"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern social work theory : a critical introduction /",
+                "author": "Payne, Malcolm, 1947-",
+                "isbn": "1403918368",
+                "url": "http://library.hud.ac.uk/catlink/bib/452441",
+                "publisher": "Palgrave Macmillan",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403918368"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403918368"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

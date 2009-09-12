@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Foundation degree in Early Years",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Children and emotion : the development of psychological understanding /",
+                "author": "Harris, Paul L.",
+                "isbn": "0631167536",
+                "url": "http://library.hud.ac.uk/catlink/bib/137552",
+                "publisher": "Basil Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631167536"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631167536"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Infant development /",
+                "author": "Slater, Alan",
+                "isbn": "0863771270",
+                "url": "http://library.hud.ac.uk/catlink/bib/258046",
+                "publisher": "Erlbaum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0863771270"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0863771270"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introduction to developmental psychology /",
+                "author": "Bremner, J. Gavin, 1949-",
+                "isbn": "0631213961",
+                "url": "http://library.hud.ac.uk/catlink/bib/416799",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631213961"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631213961"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

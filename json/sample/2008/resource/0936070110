@@ -1,0 +1,17 @@
+{
+  "title": "Shelter.",
+  "author": "",
+  "isbn": "0936070110",
+  "url": "http://library.hud.ac.uk/catlink/bib/361344",
+  "publisher": "Shelter",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0936070110",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0936070110"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

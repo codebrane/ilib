@@ -1,0 +1,198 @@
+[
+  {
+    "name": "BA(H) Politics & Law",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "13",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Citizen Machiavelli /",
+                "author": "Hulliung, Mark.",
+                "isbn": "0691076618",
+                "url": "http://library.hud.ac.uk/catlink/bib/127602",
+                "publisher": "Princeton University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0691076618"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0691076618"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Rousseau : an introduction to his political philosophy.",
+                "author": "Hall, John C. (John Cecil)",
+                "isbn": "0333001222",
+                "url": "http://library.hud.ac.uk/catlink/bib/195209",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333001222"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333001222"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "State and society : British political and social history 1870-1992 /",
+                "author": "Pugh, Martin",
+                "isbn": "0340507101",
+                "url": "http://library.hud.ac.uk/catlink/bib/197210",
+                "publisher": "Edward Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340507101"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340507101"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Plato's Republic : a philosophical commentary /",
+                "author": "Cross, R. C. (Robert Craigie), 1911-",
+                "isbn": "0333193024",
+                "url": "http://library.hud.ac.uk/catlink/bib/198496",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333193024"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333193024"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Republic /",
+                "author": "Waterfield, Robin, 1952-",
+                "isbn": "0192126040",
+                "url": "http://library.hud.ac.uk/catlink/bib/227609",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192126040"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192126040"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Consensus politics from Attlee to Major /",
+                "author": "Kavanagh, Dennis Consensus politics from Attlee to Thatcher.",
+                "isbn": "063119228X",
+                "url": "http://library.hud.ac.uk/catlink/bib/251705",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=063119228X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/063119228X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "British politics today /",
+                "author": "Kavanagh, Dennis",
+                "isbn": "0719054079",
+                "url": "http://library.hud.ac.uk/catlink/bib/372035",
+                "publisher": "Manchester University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0719054079"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0719054079"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Politics UK /",
+                "author": "Jones, Bill, 1946-",
+                "isbn": "0130994073",
+                "url": "http://library.hud.ac.uk/catlink/bib/431862",
+                "publisher": "Pearson Education",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130994073"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130994073"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Conservatism : dream and reality /",
+                "author": "Nisbet, Robert A.",
+                "isbn": "033515378X",
+                "url": "http://library.hud.ac.uk/catlink/bib/218410",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=033515378X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/033515378X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The globalization of world politics : an introduction to international relations /",
+                "author": "Smith, Steve, 1952-",
+                "isbn": "0198782632",
+                "url": "http://library.hud.ac.uk/catlink/bib/387963",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198782632"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198782632"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Political ideologies : an introduction /",
+                "author": "Heywood, Andrew.",
+                "isbn": "0333961773",
+                "url": "http://library.hud.ac.uk/catlink/bib/490672",
+                "publisher": "Palgrave Macmillan",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333961773"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333961773"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Dip in Architecture/Architecture (International)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "24",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "12",
+          "book": [
+              {
+                "title": "Water and architecture /",
+                "author": "Lidz, Jane",
+                "isbn": "0500341311",
+                "url": "http://library.hud.ac.uk/catlink/bib/111870",
+                "publisher": "Thames and Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500341311"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500341311"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A modern theory of architecture /",
+                "author": "Allsopp, Bruce, 1912-",
+                "isbn": "0710086113",
+                "url": "http://library.hud.ac.uk/catlink/bib/130610",
+                "publisher": "Routledge and Kegan Paul",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0710086113"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0710086113"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Santiago Calatrava /",
+                "author": "Sharp, Dennis",
+                "isbn": "185490454X",
+                "url": "http://library.hud.ac.uk/catlink/bib/242716",
+                "publisher": "Academy Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185490454X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185490454X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Bridgescape : the art of designing bridges /",
+                "author": "Gottemoeller, Frederick.",
+                "isbn": "0471292966",
+                "url": "http://library.hud.ac.uk/catlink/bib/308376",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471292966"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471292966"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Power of contemporary architecture /",
+                "author": "Spiller, Neil.",
+                "isbn": "0471984191",
+                "url": "http://library.hud.ac.uk/catlink/bib/321066",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471984191"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471984191"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Lost architectures /",
+                "author": "Spiller, Neil.",
+                "isbn": "0471495352",
+                "url": "http://library.hud.ac.uk/catlink/bib/363256",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471495352"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471495352"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "4 + 1 Peter Salter : building projects /",
+                "author": "Harbison, Robert, 1941-",
+                "isbn": "1901033368",
+                "url": "http://library.hud.ac.uk/catlink/bib/375095",
+                "publisher": "Black Dog",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1901033368"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1901033368"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Santiago Calatrava : Ingenieur-Architektur /",
+                "author": "Calatrava, Santiago, 1951-",
+                "isbn": "3764324600",
+                "url": "http://library.hud.ac.uk/catlink/bib/38153",
+                "publisher": "Birkhèauser",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3764324600"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3764324600"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Bridge : the architecture of connection /",
+                "author": "Blakstad, Lucy.",
+                "isbn": "3764366435",
+                "url": "http://library.hud.ac.uk/catlink/bib/389454",
+                "publisher": "August",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3764366435"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3764366435"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "30 bridges /",
+                "author": "Wells, Matthew.",
+                "isbn": "1856692175",
+                "url": "http://library.hud.ac.uk/catlink/bib/392176",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856692175"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856692175"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Transport, engineering and architecture /",
+                "author": "Collis, Hugh.",
+                "isbn": "185669321X",
+                "url": "http://library.hud.ac.uk/catlink/bib/421972",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185669321X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185669321X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architectural design in steel /",
+                "author": "Trebilcock, Peter.",
+                "isbn": "0419244905",
+                "url": "http://library.hud.ac.uk/catlink/bib/425217",
+                "publisher": "Spon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0419244905"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0419244905"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "PhD2",
+        "total": "12",
+          "book": [
+              {
+                "title": "House of the book : building, Zvi Hecker /",
+                "author": "Hejduk, John, 1929-2000.",
+                "isbn": "1901033155",
+                "url": "http://library.hud.ac.uk/catlink/bib/375262",
+                "publisher": "Black Dog",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1901033155"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1901033155"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Art spaces : the architecture of four Tates /",
+                "author": "Searing, Helen",
+                "isbn": "1854373986",
+                "url": "http://library.hud.ac.uk/catlink/bib/385506",
+                "publisher": "Tate",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854373986"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854373986"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Daylighting : natural light in architecture /",
+                "author": "Phillips, Derek, 1923-",
+                "isbn": "0750663235",
+                "url": "http://library.hud.ac.uk/catlink/bib/431720",
+                "publisher": "Architectural",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750663235"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750663235"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Experimental formats 2 : books, brochures, catalogs /",
+                "author": "Fawcett-Tang, Roger",
+                "isbn": "2880468078",
+                "url": "http://library.hud.ac.uk/catlink/bib/445947",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2880468078"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2880468078"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Solar architecture : strategies, visions, concepts /",
+                "author": "Detail.",
+                "isbn": "3764307471",
+                "url": "http://library.hud.ac.uk/catlink/bib/451940",
+                "publisher": "Birkhèauser",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3764307471"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3764307471"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Big & green : toward sustainable architecture in the 21st century /",
+                "author": "National Building Museum (U.S.)",
+                "isbn": "1568983611",
+                "url": "http://library.hud.ac.uk/catlink/bib/413893",
+                "publisher": "Princeton Architectural",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1568983611"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1568983611"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Smart architecture /",
+                "author": "Hinte, Ed van, 1951-",
+                "isbn": "9064504903",
+                "url": "http://library.hud.ac.uk/catlink/bib/436291",
+                "publisher": "010 Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=9064504903"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/9064504903"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Design for sustainability a sourcebook of integrated, ecological solutions /",
+                "author": "Birkeland, Janis.",
+                "isbn": "1853839000",
+                "url": "http://library.hud.ac.uk/catlink/bib/495304",
+                "publisher": "Earthscan Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853839000"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853839000"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ecological architecture : a critical history /",
+                "author": "Steele, James, 1943-",
+                "isbn": "0500342105",
+                "url": "http://library.hud.ac.uk/catlink/bib/495307",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500342105"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500342105"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ten shades of green : architecture and the natural world /",
+                "author": "Buchanan, Peter",
+                "isbn": "0393731898",
+                "url": "http://library.hud.ac.uk/catlink/bib/497476",
+                "publisher": "Architectural League of New York",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0393731898"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0393731898"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture in a climate of change : a guide to sustainable design /",
+                "author": "Smith, Peter F. (Peter Frederick), 1930-",
+                "isbn": "0750665440",
+                "url": "http://library.hud.ac.uk/catlink/bib/501322",
+                "publisher": "Architectural",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750665440"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750665440"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ecodesign : a manual for ecological design /",
+                "author": "Yeang, Ken, 1948-",
+                "isbn": "0470852917",
+                "url": "http://library.hud.ac.uk/catlink/bib/502843",
+                "publisher": "Wiley-Academy",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470852917"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470852917"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

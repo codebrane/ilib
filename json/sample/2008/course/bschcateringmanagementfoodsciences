@@ -1,0 +1,294 @@
+[
+  {
+    "name": "BSc(H) Catering Management & Food Sciences",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "18",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "4",
+          "book": [
+              {
+                "title": "Nutrition in pregnancy and lactation /",
+                "author": "Worthington-Roberts, Bonnie S., 1943-",
+                "isbn": "0801665698",
+                "url": "http://library.hud.ac.uk/catlink/bib/111095",
+                "publisher": "Mosby-Year Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0801665698"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0801665698"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Foodborne illness /",
+                "author": "Waites, W. M.",
+                "isbn": "034055570X",
+                "url": "http://library.hud.ac.uk/catlink/bib/202243",
+                "publisher": "Edward Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=034055570X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/034055570X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Infant nutrition /",
+                "author": "Walker, Ann",
+                "isbn": "0412591405",
+                "url": "http://library.hud.ac.uk/catlink/bib/232366",
+                "publisher": "Chapman & Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0412591405"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0412591405"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "HACCP : a practical aproach /",
+                "author": "Wallace, Carol",
+                "isbn": "0412754401",
+                "url": "http://library.hud.ac.uk/catlink/bib/346280",
+                "publisher": "Blackie Academic & Professional",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0412754401"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0412754401"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "14",
+          "book": [
+              {
+                "title": "Food : the definitive guide /",
+                "author": "Davies, Jill, 1955-",
+                "isbn": "0851864317",
+                "url": "http://library.hud.ac.uk/catlink/bib/125993",
+                "publisher": "Royal Society of Chemistry",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0851864317"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0851864317"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Chemistry and physics of baking : materials, processes, and products : the proceedings of an international symposium organised by the Food Chemistry Group of the Royal Society of Chemistry and the School of Agriculture of the University of Nottingham",
+                "author": "University of Nottingham. School of Agriculture.",
+                "isbn": "0851869955",
+                "url": "http://library.hud.ac.uk/catlink/bib/127609",
+                "publisher": "Royal Society of Chemistry",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0851869955"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0851869955"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Egg science and technology /",
+                "author": "Stadelman, William J.",
+                "isbn": "1560228555",
+                "url": "http://library.hud.ac.uk/catlink/bib/225518",
+                "publisher": "Food Products Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1560228555"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1560228555"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The science and technology of foods /",
+                "author": "Proudlove, R. K. (R Keith)",
+                "isbn": "0901762903",
+                "url": "http://library.hud.ac.uk/catlink/bib/238058",
+                "publisher": "Forbes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0901762903"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0901762903"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The science of food /",
+                "author": "Sherrington, K. B.",
+                "isbn": "075062373X",
+                "url": "http://library.hud.ac.uk/catlink/bib/259722",
+                "publisher": "Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=075062373X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/075062373X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Food : the chemistry of its components /",
+                "author": "Royal Society of Chemistry.",
+                "isbn": "0854045139",
+                "url": "http://library.hud.ac.uk/catlink/bib/321232",
+                "publisher": "Royal Society of Chemistry",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0854045139"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0854045139"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The science and technology of foods /",
+                "author": "Proudlove, R. K.",
+                "isbn": "0901762628",
+                "url": "http://library.hud.ac.uk/catlink/bib/3876",
+                "publisher": "Forbes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0901762628"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0901762628"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Food : the chemistry of its components /",
+                "author": "Royal Society of Chemistry.",
+                "isbn": "0854046151",
+                "url": "http://library.hud.ac.uk/catlink/bib/405401",
+                "publisher": "Royal Society of Chemistry",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0854046151"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0854046151"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Brock biology of microorganisms.",
+                "author": "Madigan, Michael T., 1949-",
+                "isbn": "0131721348",
+                "url": "http://library.hud.ac.uk/catlink/bib/462509",
+                "publisher": "Pearson/Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131721348"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131721348"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Baked products : science, technology and practice /",
+                "author": "Young, Linda S.",
+                "isbn": "1405127023",
+                "url": "http://library.hud.ac.uk/catlink/bib/492146",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1405127023"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1405127023"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Starches : David J. Thomas and William A. Atwell.",
+                "author": "Thomas, David John.",
+                "isbn": "1891127012",
+                "url": "http://library.hud.ac.uk/catlink/bib/498670",
+                "publisher": "Eagan Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1891127012"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1891127012"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The digestive system /",
+                "author": "Smith, Margaret",
+                "isbn": "0443062455",
+                "url": "http://library.hud.ac.uk/catlink/bib/501414",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443062455"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443062455"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Kitchen chemistry /",
+                "author": "Blumenthal, Heston.",
+                "isbn": "0854043896",
+                "url": "http://library.hud.ac.uk/catlink/bib/505825",
+                "publisher": "Royal Society of Chemistry",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0854043896"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0854043896"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

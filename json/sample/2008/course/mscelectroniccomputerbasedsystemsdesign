@@ -1,0 +1,64 @@
+[
+  {
+    "name": "MSc Electronic & Computer Based Systems Design",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Application specific integrated circuits /",
+                "author": "Smith, Michael John Sebastian.",
+                "isbn": "0201500221",
+                "url": "http://library.hud.ac.uk/catlink/bib/266454",
+                "publisher": "Addison-Wesley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0201500221"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0201500221"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Digital design : principles and practices /",
+                "author": "Wakerly, John F.",
+                "isbn": "0130899232",
+                "url": "http://library.hud.ac.uk/catlink/bib/371378",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130899232"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130899232"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Error control coding : from theory to practice /",
+                "author": "Sweeney, Peter, 1950-",
+                "isbn": "047084356X",
+                "url": "http://library.hud.ac.uk/catlink/bib/391323",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=047084356X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/047084356X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

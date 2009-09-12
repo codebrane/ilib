@@ -1,0 +1,20 @@
+{
+  "title": "The sociology of health promotion : critical analyses of consumption, lifestyle, and risk /",
+  "author": "Bunton, Robin, 1954-",
+  "isbn": "0415116473",
+  "url": "http://library.hud.ac.uk/catlink/bib/218113",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415116473",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415116473"
+  },
+  "relatedcourse": [
+  {
+    "name": "DipHE (BSc(Hons) option) Nursing Studies - Child",
+    "id": "diphebschonsoptionnursingstudieschild"
+    }
+  ]
+}

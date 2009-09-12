@@ -1,0 +1,20 @@
+{
+  "title": "Teaching business education 14-19 /",
+  "author": "Economics and Business Education Association.",
+  "isbn": "1843122545",
+  "url": "http://library.hud.ac.uk/catlink/bib/440351",
+  "publisher": "David Fulton",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1843122545",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1843122545"
+  },
+  "relatedcourse": [
+  {
+    "name": "PGCE Bus Education (Schools) (14 - 19 1FT)",
+    "id": "pgcebuseducationschools14191ft"
+    }
+  ]
+}

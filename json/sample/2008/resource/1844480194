@@ -1,0 +1,20 @@
+{
+  "title": "The encyclopedia of drawing techniques /",
+  "author": "Harrison, Hazel.",
+  "isbn": "1844480194",
+  "url": "http://library.hud.ac.uk/catlink/bib/452845",
+  "publisher": "Search",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1844480194",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1844480194"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA (Hons) Computer Games Design",
+    "id": "bahonscomputergamesdesign"
+    }
+  ]
+}

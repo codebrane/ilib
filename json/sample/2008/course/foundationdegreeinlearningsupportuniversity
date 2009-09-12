@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Foundation degree in Learning Support (University)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "10",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "10",
+          "book": [
+              {
+                "title": "The law of special educational needs : a guide to the Education Act 1981 /",
+                "author": "Cox, Bryan, 1955-",
+                "isbn": "0709934297",
+                "url": "http://library.hud.ac.uk/catlink/bib/102259",
+                "publisher": "Croom Helm",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0709934297"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0709934297"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Education in the 1990s /",
+                "author": "Cashdan, Asher",
+                "isbn": "0863393640",
+                "url": "http://library.hud.ac.uk/catlink/bib/25763",
+                "publisher": "PAVIC Publications, Sheffield Hallam University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0863393640"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0863393640"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Education and the social order, 1940-1990 /",
+                "author": "Simon, Brian",
+                "isbn": "0853157340",
+                "url": "http://library.hud.ac.uk/catlink/bib/29201",
+                "publisher": "Lawrence & Wishart",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0853157340"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0853157340"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Theories of inclusive education : a students' guide /",
+                "author": "Corbett, Jenny",
+                "isbn": "0761969403",
+                "url": "http://library.hud.ac.uk/catlink/bib/363909",
+                "publisher": "Sage ; Paul Chapman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969403"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969403"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A century of education /",
+                "author": "Aldrich, Richard.",
+                "isbn": "041524322X",
+                "url": "http://library.hud.ac.uk/catlink/bib/383446",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041524322X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041524322X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Meeting special needs in mainstream schools : a practical guide for teachers /",
+                "author": "Hornby, Garry.",
+                "isbn": "1853466999",
+                "url": "http://library.hud.ac.uk/catlink/bib/385707",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853466999"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853466999"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Special educational needs, inclusion, and diversity : a textbook /",
+                "author": "Cline, Tony",
+                "isbn": "0335204023",
+                "url": "http://library.hud.ac.uk/catlink/bib/389079",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335204023"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335204023"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Education policy /",
+                "author": "Trowler, Paul.",
+                "isbn": "0415275539",
+                "url": "http://library.hud.ac.uk/catlink/bib/416032",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415275539"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415275539"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Special educational needs in the primary school : a practical guide /",
+                "author": "Gross, Jean.",
+                "isbn": "0335212174",
+                "url": "http://library.hud.ac.uk/catlink/bib/434300",
+                "publisher": "Open University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335212174"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335212174"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Understanding news /",
+  "author": "Hartley, John, 1933-",
+  "isbn": "0415039339",
+  "url": "http://library.hud.ac.uk/catlink/bib/105690",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415039339",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415039339"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) Journalism & Media",
+    "id": "bahonsjournalismmedia"
+    }
+  ]
+}

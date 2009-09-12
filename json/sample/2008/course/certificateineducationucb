@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Certificate in Education UCB",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Teaching today : a practical guide /",
+                "author": "Petty, Geoff.",
+                "isbn": "0748785256",
+                "url": "http://library.hud.ac.uk/catlink/bib/434834",
+                "publisher": "Nelson Thornes",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748785256"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748785256"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Curriculum studies in post-compulsory and adult education : a study guide for teachers and student teachers /",
+                "author": "Neary, Mary.",
+                "isbn": "0748764429",
+                "url": "http://library.hud.ac.uk/catlink/bib/415081",
+                "publisher": "Nelson Thornes",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748764429"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748764429"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "PGCE PT UCB",
+                      "id": "pgceptucb"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Vowels and consonants : an introduction to the sounds of languages /",
+  "author": "Ladefoged, Peter.",
+  "isbn": "0631214119",
+  "url": "http://library.hud.ac.uk/catlink/bib/415840",
+  "publisher": "Blackwell",
+  "total": "2",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0631214119",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0631214119"
+  },
+  "relatedcourse": [
+  {
+    "name": "MA Modern English Language",
+    "id": "mamodernenglishlanguage"
+    }
+  ]
+}

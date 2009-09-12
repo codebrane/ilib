@@ -1,0 +1,86 @@
+[
+  {
+    "name": "BA(H) Fashion & Textile Buying",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "2",
+          "book": [
+              {
+                "title": "Photodamaged skin : clinical signs, causes and management /",
+                "author": "Marks, R. (Ronald), 1935-",
+                "isbn": "1853173452",
+                "url": "http://library.hud.ac.uk/catlink/bib/418433",
+                "publisher": "Martin Dunitz",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853173452"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853173452"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sun protection and schools : how to make a difference /",
+                "author": "World Health Organization.",
+                "isbn": "9241590629",
+                "url": "http://library.hud.ac.uk/catlink/bib/432778",
+                "publisher": "World Health Organization",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=9241590629"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/9241590629"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Fashion design /",
+                "author": "Jones, Sue Jenkyn.",
+                "isbn": "1856694364",
+                "url": "http://library.hud.ac.uk/catlink/bib/493706",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856694364"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856694364"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fashioning the future : tomorrow's wardrobe /",
+                "author": "Jones, Nick Thornton.",
+                "isbn": "0500512612",
+                "url": "http://library.hud.ac.uk/catlink/bib/497552",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500512612"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500512612"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

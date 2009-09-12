@@ -1,0 +1,20 @@
+{
+  "title": "Interprofessional working for health and social care /",
+  "author": "Mathias, Peter.",
+  "isbn": "0333645537",
+  "url": "http://library.hud.ac.uk/catlink/bib/266214",
+  "publisher": "Macmillan",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0333645537",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0333645537"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Occupational Therapy",
+    "id": "bschoccupationaltherapy"
+    }
+  ]
+}

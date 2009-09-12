@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CIPD Professional development Scheme UCO",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Human resource management at work : people management and development /",
+                "author": "Wilkinson, Adrian, 1963-",
+                "isbn": "1843980622",
+                "url": "http://library.hud.ac.uk/catlink/bib/452577",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843980622"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843980622"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

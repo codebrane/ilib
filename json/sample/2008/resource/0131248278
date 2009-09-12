@@ -1,0 +1,20 @@
+{
+  "title": "Understanding antibacterial action and resistance /",
+  "author": "Chopra, I (Ian), 1946-",
+  "isbn": "0131248278",
+  "url": "http://library.hud.ac.uk/catlink/bib/260457",
+  "publisher": "Ellis Horwood",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0131248278",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0131248278"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Forensic Science with Criminology",
+    "id": "bschforensicsciencewithcriminology"
+    }
+  ]
+}

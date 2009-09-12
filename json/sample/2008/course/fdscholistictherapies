@@ -1,0 +1,48 @@
+[
+  {
+    "name": "FdSc Holistic Therapies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Clinical aromatherapy : essential oils in practice /",
+                "author": "Buckle, Jane, RGN, MA, BPhil, Cert Ed, MISPA, MIScB Clinical aromatherapy.",
+                "isbn": "0443072361",
+                "url": "http://library.hud.ac.uk/catlink/bib/416096",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443072361"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443072361"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health promotion strategies and methods /",
+                "author": "Donovan, Robert J., Ph. D.",
+                "isbn": "0074715003",
+                "url": "http://library.hud.ac.uk/catlink/bib/490144",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0074715003"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0074715003"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

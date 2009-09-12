@@ -1,0 +1,268 @@
+[
+  {
+    "name": "BA(Hons) Music Technology and Popular Music",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "16",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "7",
+          "book": [
+              {
+                "title": "The computer and music /",
+                "author": "Lincoln, Harry B.",
+                "isbn": "0801405505",
+                "url": "http://library.hud.ac.uk/catlink/bib/106295",
+                "publisher": "Cornell U.P.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0801405505"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0801405505"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Language of electroacoustic music /",
+                "author": "Emmerson, Simon, 1950-",
+                "isbn": "0333397606",
+                "url": "http://library.hud.ac.uk/catlink/bib/195572",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333397606"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333397606"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Representations of musical signals /",
+                "author": "De Poli, Giovanni",
+                "isbn": "0262041138",
+                "url": "http://library.hud.ac.uk/catlink/bib/219847",
+                "publisher": "MIT Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0262041138"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0262041138"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Twenty four frames under : a buried history of film music /",
+                "author": "Lack, Russell, 1964-",
+                "isbn": "0704380455",
+                "url": "http://library.hud.ac.uk/catlink/bib/301300",
+                "publisher": "Quartet Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0704380455"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0704380455"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Soundtrack available : essays on film and popular music /",
+                "author": "Wojcik, Pamela Robertson",
+                "isbn": "082232797X",
+                "url": "http://library.hud.ac.uk/catlink/bib/393592",
+                "publisher": "Duke University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=082232797X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/082232797X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Movie music, the film reader /",
+                "author": "Dickinson, Kay, 1972-",
+                "isbn": "0415281601",
+                "url": "http://library.hud.ac.uk/catlink/bib/423933",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415281601"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415281601"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Warp : labels unlimited /",
+                "author": "Young, Rob, 1964-",
+                "isbn": "1904772323",
+                "url": "http://library.hud.ac.uk/catlink/bib/497847",
+                "publisher": "Black Dog",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1904772323"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1904772323"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "The war of the worlds /",
+                "author": "Wells, H. G. (Herbert George), 1866-1946.",
+                "isbn": "0434852031",
+                "url": "http://library.hud.ac.uk/catlink/bib/114027",
+                "publisher": "Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0434852031"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0434852031"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Basic live sound /",
+                "author": "White, Paul, 1949-",
+                "isbn": "1860742718",
+                "url": "http://library.hud.ac.uk/catlink/bib/351442",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860742718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860742718"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Basic microphones /",
+                "author": "White, Paul, 1949-",
+                "isbn": "1860742653",
+                "url": "http://library.hud.ac.uk/catlink/bib/351444",
+                "publisher": "Sanctuary",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860742653"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860742653"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Pop music : the text book /",
+                "author": "Bricheno, Toby",
+                "isbn": "1843670070",
+                "url": "http://library.hud.ac.uk/catlink/bib/422279",
+                "publisher": "Edition Peters",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843670070"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843670070"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Popular music : the key concepts /",
+                "author": "Shuker, Roy.",
+                "isbn": "0415347696",
+                "url": "http://library.hud.ac.uk/catlink/bib/454300",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415347696"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415347696"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "4",
+          "book": [
+              {
+                "title": "Audio-vision : sound on screen",
+                "author": "Chion, Michel, 1947-",
+                "isbn": "0231078994",
+                "url": "http://library.hud.ac.uk/catlink/bib/347316",
+                "publisher": "Columbia University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0231078994"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0231078994"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mastering audio : the art and the science /",
+                "author": "Katz, Bob.",
+                "isbn": "0240805453",
+                "url": "http://library.hud.ac.uk/catlink/bib/427927",
+                "publisher": "Focal",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240805453"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240805453"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding color : an introduction for designers /",
+                "author": "Holtzschue, Linda.",
+                "isbn": "0471715085",
+                "url": "http://library.hud.ac.uk/catlink/bib/501331",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471715085"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471715085"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

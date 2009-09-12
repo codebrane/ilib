@@ -1,0 +1,244 @@
+[
+  {
+    "name": "BA(H) Business & Journalism",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "14",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "10",
+          "book": [
+              {
+                "title": "Strategic business marketing /",
+                "author": "Chisnall, Peter M.",
+                "isbn": "0132033658",
+                "url": "http://library.hud.ac.uk/catlink/bib/272022",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0132033658"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0132033658"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Marketing strategy and management /",
+                "author": "Baker, Michael J. (Michael John), 1935-",
+                "isbn": "0333748565",
+                "url": "http://library.hud.ac.uk/catlink/bib/347123",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333748565"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333748565"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "International trade new patterns of trade, production & investment /",
+                "author": "ebrary, Inc.",
+                "isbn": "0415156270",
+                "url": "http://library.hud.ac.uk/catlink/bib/362421",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415156270"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415156270"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(H) Global Marketing (Topup)",
+                      "id": "bahglobalmarketingtopup"
+                   }
+                  ]
+              },
+              {
+                "title": "Exploring corporate strategy /",
+                "author": "Johnson, Gerry",
+                "isbn": "0273651129",
+                "url": "http://library.hud.ac.uk/catlink/bib/383622",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273651129"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273651129"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "International trade and the world economy /",
+                "author": "Marrewijk, Charles van.",
+                "isbn": "0199250049",
+                "url": "http://library.hud.ac.uk/catlink/bib/407288",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199250049"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199250049"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exploring corporate strategy /",
+                "author": "Whittington, Richard, 1958-",
+                "isbn": "0273687344",
+                "url": "http://library.hud.ac.uk/catlink/bib/441666",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273687344"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273687344"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(H) Human Resource Management",
+                      "id": "bahhumanresourcemanagement"
+                   }
+                  ]
+              },
+              {
+                "title": "Business psychology and organisational behaviour : a student's handbook /",
+                "author": "McKenna, Eugene F.",
+                "isbn": "0863776671",
+                "url": "http://library.hud.ac.uk/catlink/bib/419216",
+                "publisher": "Psychology Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0863776671"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0863776671"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology, work and industry /",
+                "author": "Watson, Tony J.",
+                "isbn": "0415321654",
+                "url": "http://library.hud.ac.uk/catlink/bib/420282",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415321654"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415321654"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Work psychology : understanding human behaviour in the workplace.",
+                "author": "Silvester, Joanne.",
+                "isbn": "0273655442",
+                "url": "http://library.hud.ac.uk/catlink/bib/435833",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273655442"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273655442"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Principles of operations management /",
+                "author": "Harrison, Mike, 1945 Dec. 11-",
+                "isbn": "0273614509",
+                "url": "http://library.hud.ac.uk/catlink/bib/299311",
+                "publisher": "Pitman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273614509"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273614509"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Contract law.",
+                "author": "Halson, Roger",
+                "isbn": "0582086477",
+                "url": "http://library.hud.ac.uk/catlink/bib/377232",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582086477"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582086477"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "2",
+          "book": [
+              {
+                "title": "Britain, Europe, and EMU",
+                "author": "ebrary, Inc.",
+                "isbn": "0312229860",
+                "url": "http://library.hud.ac.uk/catlink/bib/341679",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0312229860"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0312229860"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "European business /",
+                "author": "Welford, Richard, 1960-",
+                "isbn": "0273646001",
+                "url": "http://library.hud.ac.uk/catlink/bib/362497",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273646001"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273646001"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

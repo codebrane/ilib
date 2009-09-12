@@ -1,0 +1,20 @@
+{
+  "title": "The therapeutic relationship /",
+  "author": "Clarkson, Petruska, 1947-",
+  "isbn": "1861563817",
+  "url": "http://library.hud.ac.uk/catlink/bib/438507",
+  "publisher": "Whurr",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1861563817",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1861563817"
+  },
+  "relatedcourse": [
+  {
+    "name": "PG Cert in Cognitive Behaviour Therapy (SHA)",
+    "id": "pgcertincognitivebehaviourtherapysha"
+    }
+  ]
+}

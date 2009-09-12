@@ -1,0 +1,48 @@
+[
+  {
+    "name": "FdSc Medicines Management & Pharmacy Services",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "Conducting your pharmacy practice research project : a step-by-step guide /",
+                "author": "Smith, Felicity, 1958-",
+                "isbn": "0853696063",
+                "url": "http://library.hud.ac.uk/catlink/bib/489330",
+                "publisher": "Pharmaceutical Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0853696063"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0853696063"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Prince 2 revealed : including how to use Prince 2 for small projects /",
+                "author": "Bentley, Colin.",
+                "isbn": "0750666722",
+                "url": "http://library.hud.ac.uk/catlink/bib/497687",
+                "publisher": "Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750666722"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750666722"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

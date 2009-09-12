@@ -1,0 +1,20 @@
+{
+  "title": "History of twentieth century fashion.",
+  "author": "Ewing, Elizabeth.",
+  "isbn": "0713429763",
+  "url": "http://library.hud.ac.uk/catlink/bib/129732",
+  "publisher": "Batsford",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0713429763",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0713429763"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Fashion, Media & Promotion",
+    "id": "bahfashionmediapromotion"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Victorian architecture /",
+  "author": "Dixon, Roger, 1935-1983.",
+  "isbn": "0500181632",
+  "url": "http://library.hud.ac.uk/catlink/bib/104510",
+  "publisher": "Thames and Hudson",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0500181632",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0500181632"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Costume with Textiles",
+    "id": "bahcostumewithtextiles"
+    }
+  ]
+}

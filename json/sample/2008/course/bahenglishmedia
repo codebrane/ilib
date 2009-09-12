@@ -1,0 +1,94 @@
+[
+  {
+    "name": "BA(H) English & Media",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "The language of jokes : analyzing verbal play /",
+                "author": "Chiaro, Delia.",
+                "isbn": "0415030900",
+                "url": "http://library.hud.ac.uk/catlink/bib/103786",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415030900"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415030900"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(Hons) Creative Writing and English Literature",
+                      "id": "bahonscreativewritingandenglishliterature"
+                    },
+                    {
+                      "name": "BA(H) English Language w Modern Lang PT",
+                      "id": "bahenglishlanguagewmodernlangpt"
+                   }
+                  ]
+              },
+              {
+                "title": "Culture and anarchy and other writings /",
+                "author": "Arnold, Matthew, 1822-1888.",
+                "isbn": "052137796X",
+                "url": "http://library.hud.ac.uk/catlink/bib/116463",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=052137796X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/052137796X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Metaphor a practical introduction /",
+                "author": "Kovecses, Zoltan.",
+                "isbn": "0195145100",
+                "url": "http://library.hud.ac.uk/catlink/bib/412319",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0195145100"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0195145100"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Mrs Dalloway /",
+                "author": "Woolf, Virginia, 1882-1941",
+                "isbn": "0192839705",
+                "url": "http://library.hud.ac.uk/catlink/bib/388593",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192839705"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192839705"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

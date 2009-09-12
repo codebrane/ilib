@@ -1,0 +1,172 @@
+[
+  {
+    "name": "MText Textile Design for Fashion and Interiors",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "9",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "5",
+          "book": [
+              {
+                "title": "Extreme textiles : designing for high performance /",
+                "author": "Cooper-Hewitt Museum.",
+                "isbn": "0500512256",
+                "url": "http://library.hud.ac.uk/catlink/bib/444163",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500512256"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500512256"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Colour-and-weave-design : a practical reference book /",
+                "author": "Sutton, Ann, 1935-",
+                "isbn": "0947792015",
+                "url": "http://library.hud.ac.uk/catlink/bib/42198",
+                "publisher": "Bellew Publishing",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0947792015"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0947792015"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Wallpapers : [17th century to the present day] /",
+                "author": "Banham, Joanna.",
+                "isbn": "1851703705",
+                "url": "http://library.hud.ac.uk/catlink/bib/42855",
+                "publisher": "Studio Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851703705"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851703705"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Hokusai : mountains and water, flowers and birds /",
+                "author": "Forrer, Matthi.",
+                "isbn": "3791330438",
+                "url": "http://library.hud.ac.uk/catlink/bib/438500",
+                "publisher": "Prestel",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3791330438"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3791330438"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Toile : the storied fabrics of Europe and America /",
+                "author": "Palmer, Michele.",
+                "isbn": "0764318918",
+                "url": "http://library.hud.ac.uk/catlink/bib/507276",
+                "publisher": "Schiffer Pub",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764318918"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764318918"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "The art of knitting : inspirational stitches, textures and surfaces /",
+                "author": "Tellier-Loumagne, Francoise.",
+                "isbn": "0500285578",
+                "url": "http://library.hud.ac.uk/catlink/bib/444175",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500285578"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500285578"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Art deco.",
+                "author": "",
+                "isbn": "9057680726",
+                "url": "http://library.hud.ac.uk/catlink/bib/445501",
+                "publisher": "The Pepin Press/Agile Rabbit Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=9057680726"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/9057680726"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Art nouveau designs.",
+                "author": "",
+                "isbn": "9057680130",
+                "url": "http://library.hud.ac.uk/catlink/bib/462666",
+                "publisher": "Pepin Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=9057680130"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/9057680130"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "All wrapped up! : groovy gift wrap of the 1960s /",
+                "author": "Akers, Kevin.",
+                "isbn": "0811843734",
+                "url": "http://library.hud.ac.uk/catlink/bib/493842",
+                "publisher": "Chronicle",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0811843734"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0811843734"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Strategic management theory : an integrated approach /",
+  "author": "Jones, Gareth R.",
+  "isbn": "0395857783",
+  "url": "http://library.hud.ac.uk/catlink/bib/321568",
+  "publisher": "Houghton Mifflin",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0395857783",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0395857783"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc International Business Management",
+    "id": "mscinternationalbusinessmanagement"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BSc(Hons) Electronics and Music Technology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Analog electronics : an integrated PSpice aproach /",
+                "author": "Price, T. E.",
+                "isbn": "0132428431",
+                "url": "http://library.hud.ac.uk/catlink/bib/246061",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0132428431"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0132428431"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Problem solving, abstraction, design using C++ /",
+                "author": "Koffman, Elliot B.",
+                "isbn": "0201612771",
+                "url": "http://library.hud.ac.uk/catlink/bib/343992",
+                "publisher": "Addison-Wesley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0201612771"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0201612771"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

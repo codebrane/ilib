@@ -1,0 +1,20 @@
+{
+  "title": "Administrative leadership : in academic governance and management /",
+  "author": "Fincher, Cameron.",
+  "isbn": "0761826955",
+  "url": "http://library.hud.ac.uk/catlink/bib/423316",
+  "publisher": "University Press of America",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0761826955",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0761826955"
+  },
+  "relatedcourse": [
+  {
+    "name": "Foundation degree in Educational Administration",
+    "id": "foundationdegreeineducationaladministration"
+    }
+  ]
+}

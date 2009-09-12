@@ -1,0 +1,20 @@
+{
+  "title": "A manager's guide to leadership /",
+  "author": "Boydell, Tom",
+  "isbn": "0077104234",
+  "url": "http://library.hud.ac.uk/catlink/bib/426125",
+  "publisher": "McGraw-Hill",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0077104234",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0077104234"
+  },
+  "relatedcourse": [
+  {
+    "name": "Professional Development (Action Research)",
+    "id": "professionaldevelopmentactionresearch"
+    }
+  ]
+}

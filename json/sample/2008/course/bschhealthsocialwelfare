@@ -1,0 +1,400 @@
+[
+  {
+    "name": "BSc(H) Health & Social Welfare",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "26",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "21",
+          "book": [
+              {
+                "title": "Health, race & ethnicity /",
+                "author": "Phillips, David R. (David Rosser), 1953-",
+                "isbn": "0709942214",
+                "url": "http://library.hud.ac.uk/catlink/bib/104099",
+                "publisher": "Croom Helm",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0709942214"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0709942214"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Choices in health policy : an agenda for the European Union /",
+                "author": "Abel-Smith, Brian, 1926-",
+                "isbn": "1855217627",
+                "url": "http://library.hud.ac.uk/catlink/bib/231044",
+                "publisher": "Dartmouth",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1855217627"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1855217627"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Community health care development /",
+                "author": "Hennessy, Deborah",
+                "isbn": "0333646924",
+                "url": "http://library.hud.ac.uk/catlink/bib/266215",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333646924"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333646924"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The National Health Service : a political history /",
+                "author": "Webster, Charles, 1936-",
+                "isbn": "0192892967",
+                "url": "http://library.hud.ac.uk/catlink/bib/289168",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192892967"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192892967"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology in practice for health care professionals /",
+                "author": "Poland, Fiona",
+                "isbn": "0333645766",
+                "url": "http://library.hud.ac.uk/catlink/bib/294326",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333645766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333645766"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Care, communities, and citizens /",
+                "author": "Barnes, Marian, 1952-",
+                "isbn": "058225129X",
+                "url": "http://library.hud.ac.uk/catlink/bib/341463",
+                "publisher": "Longman",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=058225129X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/058225129X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Working for health /",
+                "author": "Heller, Tom",
+                "isbn": "0761969977",
+                "url": "http://library.hud.ac.uk/catlink/bib/364374",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969977"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969977"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The sociology of healthcare /",
+                "author": "Clarke, Alan, 1951-",
+                "isbn": "0582369541",
+                "url": "http://library.hud.ac.uk/catlink/bib/371503",
+                "publisher": "Pearson Education",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582369541"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582369541"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Community work /",
+                "author": "Community Development Foundation",
+                "isbn": "0333912705",
+                "url": "http://library.hud.ac.uk/catlink/bib/377978",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333912705"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333912705"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing cultural studies /",
+                "author": "Sardar, Ziauddin",
+                "isbn": "1840460741",
+                "url": "http://library.hud.ac.uk/catlink/bib/380721",
+                "publisher": "Icon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1840460741"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1840460741"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health and disease : a reader /",
+                "author": "Gray, Alastair McIntosh, 1953-",
+                "isbn": "033520967X",
+                "url": "http://library.hud.ac.uk/catlink/bib/384491",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=033520967X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/033520967X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The skilled helper : a problem-management and opportunity-development approach to helping /",
+                "author": "Egan, Gerard.",
+                "isbn": "0534367313",
+                "url": "http://library.hud.ac.uk/catlink/bib/405516",
+                "publisher": "Brooks/Cole",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0534367313"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0534367313"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Community care : policy and practice.",
+                "author": "Means, Robin.",
+                "isbn": "0333983262",
+                "url": "http://library.hud.ac.uk/catlink/bib/415400",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333983262"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333983262"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cultural diversity in health & illness /",
+                "author": "Spector, Rachel E., 1940-",
+                "isbn": "0130493791",
+                "url": "http://library.hud.ac.uk/catlink/bib/438148",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130493791"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130493791"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding health a sociological introduction /",
+                "author": "ebrary, Inc.",
+                "isbn": "0761973060",
+                "url": "http://library.hud.ac.uk/catlink/bib/438517",
+                "publisher": "SAGE Publications",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761973060"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761973060"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Women, drugs and custody : the experiences of women drug users in prison /",
+                "author": "Malloch, Margaret S.",
+                "isbn": "1872870910",
+                "url": "http://library.hud.ac.uk/catlink/bib/446100",
+                "publisher": "Waterside",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1872870910"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1872870910"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A beginner's guide to social theory /",
+                "author": "Best, Shaun.",
+                "isbn": "0761965327",
+                "url": "http://library.hud.ac.uk/catlink/bib/415192",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761965327"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761965327"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An intelligent person's guide to ethics /",
+                "author": "Warnock, Mary.",
+                "isbn": "1585676934",
+                "url": "http://library.hud.ac.uk/catlink/bib/435691",
+                "publisher": "Duckworth Overlook",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1585676934"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1585676934"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "Postgraduate Diploma in Guidance",
+                      "id": "postgraduatediplomainguidance"
+                   }
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Strategies for mentoring : a blueprint for successful organizational development /",
+                "author": "Conway, Christopher, 1956-",
+                "isbn": "0471984388",
+                "url": "http://library.hud.ac.uk/catlink/bib/314683",
+                "publisher": "John Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471984388"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471984388"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding management /",
+                "author": "Marcic, Dorothy",
+                "isbn": "0324259182",
+                "url": "http://library.hud.ac.uk/catlink/bib/422883",
+                "publisher": "Thomson/South-Western",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0324259182"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0324259182"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Everyone needs a mentor : fostering talent in your organisation /",
+                "author": "Chartered Institute of Personnel and Development.",
+                "isbn": "1843980541",
+                "url": "http://library.hud.ac.uk/catlink/bib/430496",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843980541"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843980541"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Techniques for coaching and mentoring /",
+                "author": "Megginson, David, 1943-",
+                "isbn": "075065287X",
+                "url": "http://library.hud.ac.uk/catlink/bib/431856",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=075065287X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/075065287X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "1",
+          "book": [
+              {
+                "title": "Handbook of social problems : a comparative international perspective /",
+                "author": "Ritzer, George.",
+                "isbn": "0761926100",
+                "url": "http://library.hud.ac.uk/catlink/bib/438153",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761926100"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761926100"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Organizational behavior /",
+  "author": "Schermerhorn, John R.",
+  "isbn": "0471701505",
+  "url": "http://library.hud.ac.uk/catlink/bib/440753",
+  "publisher": "Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0471701505",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0471701505"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) Combined Studies (Strategy and Marketing)",
+    "id": "bahonscombinedstudiesstrategyandmarketing"
+    }
+  ]
+}

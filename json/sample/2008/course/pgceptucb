@@ -1,0 +1,80 @@
+[
+  {
+    "name": "PGCE PT UCB",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "PhD2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Curriculum studies in post-compulsory and adult education : a study guide for teachers and student teachers /",
+                "author": "Neary, Mary.",
+                "isbn": "0748764429",
+                "url": "http://library.hud.ac.uk/catlink/bib/415081",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748764429"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748764429"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The power of critical theory for adult learning and teaching /",
+                "author": "Brookfield, Stephen.",
+                "isbn": "0335211321",
+                "url": "http://library.hud.ac.uk/catlink/bib/454763",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335211321"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335211321"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "What is curriculum theory? /",
+                "author": "Pinar, William",
+                "isbn": "0805848274",
+                "url": "http://library.hud.ac.uk/catlink/bib/462352",
+                "publisher": "Lawrence Erlbaum Associates",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0805848274"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0805848274"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Teacher professionalism in further and higher education : challenges to culture and practice /",
+                "author": "Robson, Jocelyn.",
+                "isbn": "0415331668",
+                "url": "http://library.hud.ac.uk/catlink/bib/498665",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415331668"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415331668"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

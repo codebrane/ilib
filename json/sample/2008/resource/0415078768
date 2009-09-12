@@ -1,0 +1,20 @@
+{
+  "title": "Understanding popular culture /",
+  "author": "Fiske, John, 1939-",
+  "isbn": "0415078768",
+  "url": "http://library.hud.ac.uk/catlink/bib/115386",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415078768",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415078768"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Sociology & Criminology",
+    "id": "bschsociologycriminology"
+    }
+  ]
+}

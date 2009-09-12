@@ -1,0 +1,20 @@
+{
+  "title": "Smith & Keenan's advanced business law.",
+  "author": "Smith, Kenneth, 1910-1966",
+  "isbn": "027364601X",
+  "url": "http://library.hud.ac.uk/catlink/bib/338812",
+  "publisher": "Longman",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=027364601X",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/027364601X"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA (Hons) Business Management UCO",
+    "id": "bahonsbusinessmanagementuco"
+    }
+  ]
+}

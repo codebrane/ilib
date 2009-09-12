@@ -1,0 +1,214 @@
+[
+  {
+    "name": "BSc (Hons) Podiatry PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "14",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "12",
+          "book": [
+              {
+                "title": "Knee pain and disability /",
+                "author": "Cailliet, Rene.",
+                "isbn": "0803616201",
+                "url": "http://library.hud.ac.uk/catlink/bib/116711",
+                "publisher": "F. A. Davis Co",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803616201"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803616201"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The social psychology of aging /",
+                "author": "Claremont Symposium on Applied Social Psychology (5th : 1988 : Claremont Graduate School).",
+                "isbn": "0803935552",
+                "url": "http://library.hud.ac.uk/catlink/bib/124487",
+                "publisher": "Sage Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803935552"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803935552"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The sociology of old age /",
+                "author": "Phillipson, Chris, 1949-",
+                "isbn": "0335158609",
+                "url": "http://library.hud.ac.uk/catlink/bib/207827",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335158609"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335158609"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The social challenge of ageing /",
+                "author": "Hobman, David",
+                "isbn": "0856644285",
+                "url": "http://library.hud.ac.uk/catlink/bib/24082",
+                "publisher": "Croom Helm",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0856644285"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0856644285"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Practical orthotics for chiropodists /",
+                "author": "Coates, T. Theodore.",
+                "isbn": "0900024186",
+                "url": "http://library.hud.ac.uk/catlink/bib/25492",
+                "publisher": "Actinic Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0900024186"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0900024186"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The foot : examination & diagnosis /",
+                "author": "Alexander, Ian J.",
+                "isbn": "0443076561",
+                "url": "http://library.hud.ac.uk/catlink/bib/296279",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443076561"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443076561"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Systematic reviews : synthesis of best evidence for health care decisions /",
+                "author": "Mulrow, Cynthia D (Cynthia Diane), 1953-",
+                "isbn": "0943126665",
+                "url": "http://library.hud.ac.uk/catlink/bib/367440",
+                "publisher": "American College of Physicians",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0943126665"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0943126665"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Doing a literature search : a comprehensive guide for the social sciences /",
+                "author": "Hart, Chris, 1970-",
+                "isbn": "0761968091",
+                "url": "http://library.hud.ac.uk/catlink/bib/371100",
+                "publisher": "SAGE",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761968091"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761968091"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A practical manual of diabetic foot care /",
+                "author": "Foster, Alethea V. M.",
+                "isbn": "1405107154",
+                "url": "http://library.hud.ac.uk/catlink/bib/423134",
+                "publisher": "Blackwell Pub",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1405107154"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1405107154"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ageing : issues for physical, psychological and social health /",
+                "author": "Woodrow, Philip, 1957 Sep. 4-",
+                "isbn": "1861563116",
+                "url": "http://library.hud.ac.uk/catlink/bib/428894",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861563116"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861563116"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Assessment of the lower limb /",
+                "author": "Turner, Warren, (DPodM)",
+                "isbn": "0443071128",
+                "url": "http://library.hud.ac.uk/catlink/bib/416146",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443071128"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443071128"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of anatomy and physiology.",
+                "author": "Derrickson, Bryan.",
+                "isbn": "0471718718",
+                "url": "http://library.hud.ac.uk/catlink/bib/453009",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471718718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471718718"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

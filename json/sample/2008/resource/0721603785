@@ -1,0 +1,20 @@
+{
+  "title": "Physical therapy for children /",
+  "author": "Campbell, Suzann K",
+  "isbn": "0721603785",
+  "url": "http://library.hud.ac.uk/catlink/bib/585935",
+  "publisher": "Elsevier Saunders",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0721603785",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0721603785"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Physiotherapy",
+    "id": "bschphysiotherapy"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "FdSc Sports Coaching",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Coaching basketball successfully /",
+                "author": "Wootten, Morgan.",
+                "isbn": "0880114460",
+                "url": "http://library.hud.ac.uk/catlink/bib/248895",
+                "publisher": "Leisure Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0880114460"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0880114460"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Jumping into plyometrics /",
+                "author": "Chu, Donald A (Donald Allen), 1940-",
+                "isbn": "0880118466",
+                "url": "http://library.hud.ac.uk/catlink/bib/305259",
+                "publisher": "Human Kinetics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0880118466"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0880118466"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

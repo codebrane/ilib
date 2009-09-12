@@ -1,0 +1,17 @@
+{
+  "title": "Fresh fruits /",
+  "author": "Aoki, Shoichi.",
+  "isbn": "0714845108",
+  "url": "http://library.hud.ac.uk/catlink/bib/489102",
+  "publisher": "Phaidon",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0714845108",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0714845108"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

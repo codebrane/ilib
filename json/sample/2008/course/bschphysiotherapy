@@ -1,0 +1,204 @@
+[
+  {
+    "name": "BSc(H) Physiotherapy",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "13",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "10",
+          "book": [
+              {
+                "title": "Physical therapy for children /",
+                "author": "Campbell, Suzann K",
+                "isbn": "0721603785",
+                "url": "http://library.hud.ac.uk/catlink/bib/585935",
+                "publisher": "Elsevier Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0721603785"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0721603785"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Physiotherapy for children /",
+                "author": "Pountney, Teresa E",
+                "isbn": "0750688866",
+                "url": "http://library.hud.ac.uk/catlink/bib/585949",
+                "publisher": "Butterworth-Heinemann Elsevier",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750688866"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750688866"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The adult with Down syndrome : a new challenge for society /",
+                "author": "Rondal, J. A.",
+                "isbn": "1861563973",
+                "url": "http://library.hud.ac.uk/catlink/bib/423985",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861563973"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861563973"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Guidelines for pulmonary rehabilitation programs /",
+                "author": "American Association of Cardiovascular & Pulmonary Rehabilitation",
+                "isbn": "0736055738",
+                "url": "http://library.hud.ac.uk/catlink/bib/440283",
+                "publisher": "Human Kinetics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0736055738"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0736055738"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The concise book of muscles /",
+                "author": "Jarmey, Chris.",
+                "isbn": "1556434669",
+                "url": "http://library.hud.ac.uk/catlink/bib/462229",
+                "publisher": "North Atlantic Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556434669"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556434669"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Access to communication : developing the basic communication with people who have severe learning difficulties /",
+                "author": "Nind, Melanie",
+                "isbn": "1843121840",
+                "url": "http://library.hud.ac.uk/catlink/bib/490664",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843121840"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843121840"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Chronic obstructive pulmonary disease in primary care : all you need to know to manage COPD in your practice /",
+                "author": "Bellamy, David, FRCP.",
+                "isbn": "1859591043",
+                "url": "http://library.hud.ac.uk/catlink/bib/494486",
+                "publisher": "Class",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1859591043"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1859591043"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cardiovascular and pulmonary physical therapy : evidence and practice /",
+                "author": "Frownfelter, Donna L. Principles and practices of cardiopulmonary therapy.",
+                "isbn": "032302775X",
+                "url": "http://library.hud.ac.uk/catlink/bib/510385",
+                "publisher": "Mosby Elsevier",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=032302775X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/032302775X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Neuromusculoskeletal examination and assessment : a handbook for therapists /",
+                "author": "Moore, Ann P.",
+                "isbn": "044307061X",
+                "url": "http://library.hud.ac.uk/catlink/bib/420315",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=044307061X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/044307061X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Piper Shepard.",
+                "author": "Easton, William.",
+                "isbn": "1902015819",
+                "url": "http://library.hud.ac.uk/catlink/bib/440725",
+                "publisher": "Telos",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1902015819"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1902015819"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The concise book of muscles /",
+                "author": "Jarmey, Chris.",
+                "isbn": "1556434669",
+                "url": "http://library.hud.ac.uk/catlink/bib/462229",
+                "publisher": "North Atlantic Books",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1556434669"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1556434669"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

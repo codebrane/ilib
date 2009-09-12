@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BA(H) Film Journalism and Media",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Introducing film /",
+                "author": "Roberts, Graham, 1957-",
+                "isbn": "0340762284",
+                "url": "http://library.hud.ac.uk/catlink/bib/375255",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340762284"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340762284"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Horror, the film reader /",
+                "author": "Jancovich, Mark.",
+                "isbn": "0415235618",
+                "url": "http://library.hud.ac.uk/catlink/bib/401224",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415235618"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415235618"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

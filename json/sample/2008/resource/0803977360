@@ -1,0 +1,20 @@
+{
+  "title": "Discursive psychology in practice /",
+  "author": "Stearns, Peter",
+  "isbn": "0803977360",
+  "url": "http://library.hud.ac.uk/catlink/bib/211331",
+  "publisher": "Sage",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0803977360",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0803977360"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Psychology",
+    "id": "bschpsychology"
+    }
+  ]
+}

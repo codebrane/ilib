@@ -1,0 +1,103 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : About</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body id="aboutTab">
+
+<div style="float: left;"><img src="/ilib/images/academic_books.gif"/></div>
+<div style="padding: 15px;"><div class="banner">&nbsp;&nbsp;iLib, the Course Book Finder : About</div></div>
+<div style="clear: both; padding: 1px;"/>
+
+<ul id="tabnav">
+	<li class="searchTab"><a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a></li>
+	<li class="tab1"><a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a></li>
+	<li class="allCoursesTab"><a href="/ilib/allcourses">All Courses</a></li>
+	<li class="readingListTab"><a href="/ilib/readinglist">My Reading List</a></li>
+	<li class="courseTab"><a href="/ilib/course/<%= session["current_course_id"] %>"><%= session["current_course_name"] %></a></li>
+	<li class="sharedReadingListsTab"><a href="/ilib/shared_reading_lists">Shared Reading Lists</a></li>
+	<li class="aboutTab"><a href="/ilib/about">About</a></li>
+</ul>
+
+<div class="contentBox">
+
+<h2>Welcome to iLib, the Course Book Finder</h2>
+<p>
+<h4>You can use this site to find books that have been borrowed from your institution's library and add them to a reading list and share it with others.	</h4>
+</p>
+
+<p>
+If you're eager to see iLib in action, there's a short video <a href="/ilib/ilib.mov" target="_blank">here</a>.
+</p>
+
+<p>
+To get started, you can either
+click on the <a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a> tab and search for a course using a simple keyword, such as, physics, or you can browse through all the courses by clicking on the <a href="/ilib/allcourses">All Courses</a> tab.
+When you see a course in which you are interested, just click on its name and you will be taken to a new tab
+showing you all the books that have been borrowed by students or staff on that course.
+</p>
+
+<p>
+On the course tab, there is a short summary of lending information for that course, such as how many books were
+borrowed by students or staff. For example, first and second year students etc. If you want to see books that were borrowed by students or staff in your year, just click on the year name at the top of the page. All books at this link will be relevant to your course and year of study.
+</p>
+
+<p>
+You can use the following link to view a selected course:<br />
+<a href="/ilib/course/mscpublichealthnursingpractice">MSc Public Health Nursing Practice</a>
+</p>
+
+<p>
+You can also search for books using the <a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a> tab if you are not interested in a particular course, although each book will show what courses it was used on.
+</p>
+
+<p>
+Each book also has a Google Books and an Amazon link, so if you want to preview the book on either of these services, or read reviews of the book, just click on one of the logos. Also, if others have added the book to their reading list, the number of times will be shown.
+</p>
+
+<p>
+If you click on the <a href="/ilib/readinglist">My Reading List</a> tab you can create a reading list, to which you can add books in which you are interested. To create a reading list you will need to give it a name, a password, to stop others using it and also your email address, to allow you to reset the password if you forget it. If you do forget your reading list's password, just enter the name of your reading list and click on the "Send me a new password" button.
+</p>
+
+<p>
+If you want to have lots of reading lists, just close the browser and your current reading list information will be removed from your iLib session. You can then create another reading list with a different name. Whenever you want to load a different reading list from the one you are using, just close the browser and load the new one using its name and password.
+</p>
+
+<p>
+You can choose to share your reading list with other iLib users by simply clicking on the "Share this reading list" link. If you want to stop sharing your reading list, just click on the "Unshare this reading list" link. You can view all the shared reading lists on the <a href="/ilib/shared_reading_lists">Shared Reading Lists</a> tab.
+</p>
+
+<p>
+Once you have created a reading list, the following icons will appear when you are browsing books:
+</p>
+
+<div style="float: left;"><img src="/ilib/images/tick.gif" /></div>
+<div style="padding: 15px;"><div>&nbsp;&nbsp;You can click on this icon to add a book to your reading list.</div></div>
+<div style="clear: both;"/>
+<br />
+
+<div style="float: left;"><img src="/ilib/images/fav.gif" /></div>
+<div style="padding: 15px;"><div>&nbsp;&nbsp;If a book is in your reading list, this icon will be displayed.</div></div>
+<div style="clear: both;"/>
+<br />
+
+<div style="float: left;"><img src="/ilib/images/cross.gif" /></div>
+<div style="padding: 15px;"><div>&nbsp;&nbsp;If a book is in your reading list, you can click on this icon to remove it from your reading list.</div></div>
+<div style="clear: both;"/>
+
+<hr />
+
+<p>
+Technical details of iLib can be found <a href="http://codebrane.com/blog/?p=979">here</a>. Clip art courtesy of 	<a href="http://www.school-clip-art.com/">School Clip Art</a>, <a href="http://www.openwebgraphics.com/icons/">OpenWebGraphics</a> and <a href="http://www.bry-backmanor.org/schoolclipart.html">Back To School Clip Art</a>.
+</p>
+
+<p>
+You can send comments to <a href="mailto:ilib@codebrane.com">iLib@codebrane.com</a>
+</p>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "title": "The law of special educational needs : a guide to the Education Act 1981 /",
+  "author": "Cox, Bryan, 1955-",
+  "isbn": "0709934297",
+  "url": "http://library.hud.ac.uk/catlink/bib/102259",
+  "publisher": "Croom Helm",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0709934297",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0709934297"
+  },
+  "relatedcourse": [
+  {
+    "name": "Foundation degree in Learning Support (University)",
+    "id": "foundationdegreeinlearningsupportuniversity"
+    }
+  ]
+}

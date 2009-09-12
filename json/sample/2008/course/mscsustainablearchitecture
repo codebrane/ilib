@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MSc Sustainable Architecture",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "6",
+          "book": [
+              {
+                "title": "Sustainable housing : principles & practice /",
+                "author": "Turrent, D. (David)",
+                "isbn": "0419246207",
+                "url": "http://library.hud.ac.uk/catlink/bib/351781",
+                "publisher": "E. & F. N. Spon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0419246207"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0419246207"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ecohouse 2 : a design guide /",
+                "author": "Fuentes, Manuel, 1961-",
+                "isbn": "0750657340",
+                "url": "http://library.hud.ac.uk/catlink/bib/413746",
+                "publisher": "Architectural",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750657340"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750657340"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sustainable architecture : high-tech housing.",
+                "author": "",
+                "isbn": "848986179X",
+                "url": "http://library.hud.ac.uk/catlink/bib/422589",
+                "publisher": "Windsor",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=848986179X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/848986179X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Nose to tail eating : a kind of British cooking /",
+                "author": "Henderson, Fergus",
+                "isbn": "0747572577",
+                "url": "http://library.hud.ac.uk/catlink/bib/440941",
+                "publisher": "Bloomsbury",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0747572577"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0747572577"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The obesity epidemic : science, morality and ideology /",
+                "author": "Wright, Jan, 1948-",
+                "isbn": "0203619307",
+                "url": "http://library.hud.ac.uk/catlink/bib/502935",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0203619307"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0203619307"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Encyclopedia of foods : a guide to healthy nutrition /",
+                "author": "Dole Food Company.",
+                "isbn": "0122198034",
+                "url": "http://library.hud.ac.uk/catlink/bib/511312",
+                "publisher": "Academic Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0122198034"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0122198034"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

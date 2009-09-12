@@ -1,0 +1,438 @@
+[
+  {
+    "name": "BA(H) Fashion Design with Marketing & Production",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "26",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "22",
+          "book": [
+              {
+                "title": "Celtic art : an introduction /",
+                "author": "Finlay, Ian.",
+                "isbn": "0571086780",
+                "url": "http://library.hud.ac.uk/catlink/bib/102976",
+                "publisher": "Faber",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0571086780"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0571086780"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Aboriginal art /",
+                "author": "Caruana, Wally.",
+                "isbn": "0500202648",
+                "url": "http://library.hud.ac.uk/catlink/bib/105406",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500202648"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500202648"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing abstract printmaking /",
+                "author": "Capon, Robin.",
+                "isbn": "0823060985",
+                "url": "http://library.hud.ac.uk/catlink/bib/109560",
+                "publisher": "Batsford",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0823060985"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0823060985"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Anatomy of movement /",
+                "author": "Anderson, Stephen",
+                "isbn": "0939616173",
+                "url": "http://library.hud.ac.uk/catlink/bib/210798",
+                "publisher": "Eastland Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0939616173"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0939616173"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Celtic design : a sourcebook of patterns and motifs /",
+                "author": "Zaczek, Ian.",
+                "isbn": "1858912474",
+                "url": "http://library.hud.ac.uk/catlink/bib/219919",
+                "publisher": "Studio Editions Ltd",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1858912474"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1858912474"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Comics, comix and graphic novels : a history of comic art /",
+                "author": "Sabin, Roger, 1961-",
+                "isbn": "0714830089",
+                "url": "http://library.hud.ac.uk/catlink/bib/256031",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0714830089"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0714830089"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Bones and joints : a guide for students /",
+                "author": "Gunn, Christine.",
+                "isbn": "044304399X",
+                "url": "http://library.hud.ac.uk/catlink/bib/265574",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=044304399X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/044304399X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Painted bodies : by forty-five Chilean artists /",
+                "author": "Edwards, Roberto, 1937-",
+                "isbn": "0789202689",
+                "url": "http://library.hud.ac.uk/catlink/bib/278376",
+                "publisher": "Abbeville",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0789202689"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0789202689"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Graphic style from Victorian to post-modern /",
+                "author": "Chwast, Seymour",
+                "isbn": "0500277990",
+                "url": "http://library.hud.ac.uk/catlink/bib/283199",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500277990"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500277990"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Thinking print : books to billboards, 1980-95 /",
+                "author": "Museum of Modern Art (New York, N.Y.)",
+                "isbn": "087070124X",
+                "url": "http://library.hud.ac.uk/catlink/bib/317722",
+                "publisher": "Museum of Modern Art",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=087070124X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/087070124X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Aboriginal art /",
+                "author": "Morphy, Howard.",
+                "isbn": "0714837520",
+                "url": "http://library.hud.ac.uk/catlink/bib/321453",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0714837520"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0714837520"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "John Wolseley: Land Marks.",
+                "author": "Grishin, Sasha.",
+                "isbn": "9057034018",
+                "url": "http://library.hud.ac.uk/catlink/bib/326809",
+                "publisher": "Craftsman House,Netherlands",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=9057034018"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/9057034018"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Art deco architecture : design, decoration and detail from the twenties and thirties.",
+                "author": "Bayer, Patricia",
+                "isbn": "0500281491",
+                "url": "http://library.hud.ac.uk/catlink/bib/330359",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500281491"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500281491"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "City icons.",
+                "author": "Gaudi, Antoni, 1852-1926",
+                "isbn": "071483873X",
+                "url": "http://library.hud.ac.uk/catlink/bib/330925",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=071483873X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/071483873X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The magic of M.C. Escher /",
+                "author": "Escher, M. C. (Maurits Cornelis), 1898-1972.",
+                "isbn": "0500975914",
+                "url": "http://library.hud.ac.uk/catlink/bib/354894",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500975914"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500975914"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Australian art /",
+                "author": "Sayers, Andrew, 1957-",
+                "isbn": "0192842145",
+                "url": "http://library.hud.ac.uk/catlink/bib/369627",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192842145"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192842145"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture in the twentieth century /",
+                "author": "Gossel, Peter, 1956-",
+                "isbn": "3822890561",
+                "url": "http://library.hud.ac.uk/catlink/bib/42105",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3822890561"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3822890561"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Michael Wesely : open shutter /",
+                "author": "Museum of Modern Art (New York, NY)",
+                "isbn": "0870706829",
+                "url": "http://library.hud.ac.uk/catlink/bib/444122",
+                "publisher": "Museum of Modern Art",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0870706829"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0870706829"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Where's my space age? : the rise and fall of futuristic design /",
+                "author": "Topham, Sean",
+                "isbn": "3791328441",
+                "url": "http://library.hud.ac.uk/catlink/bib/413688",
+                "publisher": "Prestel",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3791328441"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3791328441"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The buildings of Huddersfield : an illustrated architectural history /",
+                "author": "Gibson, Keith",
+                "isbn": "0752436759",
+                "url": "http://library.hud.ac.uk/catlink/bib/494397",
+                "publisher": "Tempus",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0752436759"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0752436759"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture in the 20th century /",
+                "author": "Gossel, Peter, 1956-",
+                "isbn": "3822841269",
+                "url": "http://library.hud.ac.uk/catlink/bib/497359",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3822841269"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3822841269"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Colors for modern fashion : drawing fashion with colored markers /",
+                "author": "Riegelman, Nancy.",
+                "isbn": "0970246323",
+                "url": "http://library.hud.ac.uk/catlink/bib/511343",
+                "publisher": "9 Heads Media",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0970246323"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0970246323"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "4",
+          "book": [
+              {
+                "title": "How to draw anime & game characters. Basics for beginners and beyond.",
+                "author": "Ozawa, Tadashi.",
+                "isbn": "4766111206",
+                "url": "http://library.hud.ac.uk/catlink/bib/414545",
+                "publisher": "Hi Marketing.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=4766111206"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/4766111206"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Summer of love / art of the psychedelic era. ",
+                "author": "",
+                "isbn": "1854375954",
+                "url": "http://library.hud.ac.uk/catlink/bib/462487",
+                "publisher": "Tate",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854375954"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854375954"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Muscle mechanics /",
+                "author": "Aaberg, Everett, 1963-",
+                "isbn": "0736061819",
+                "url": "http://library.hud.ac.uk/catlink/bib/505838",
+                "publisher": "Human Kinetics",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0736061819"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0736061819"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The golden age of DC Comics : 365 days /",
+                "author": "Kidd, Chip.",
+                "isbn": "0810949695",
+                "url": "http://library.hud.ac.uk/catlink/bib/506018",
+                "publisher": "Harry N. Abrams",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0810949695"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0810949695"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

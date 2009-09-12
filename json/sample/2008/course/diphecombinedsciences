@@ -1,0 +1,134 @@
+[
+  {
+    "name": "DipHE Combined Sciences",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "11",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "8",
+          "book": [
+              {
+                "title": "Psychiatry in learning disability /",
+                "author": "Read, Stephen G.",
+                "isbn": "0702021199",
+                "url": "http://library.hud.ac.uk/catlink/bib/345905",
+                "publisher": "W. B. Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702021199"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702021199"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Behavioural distress : concepts and strategies /",
+                "author": "Gear, Jane",
+                "isbn": "0702024155",
+                "url": "http://library.hud.ac.uk/catlink/bib/363884",
+                "publisher": "Bailli ere Tindall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702024155"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702024155"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Challenging behaviour : analysis and intervention in people with severe intellectual disabilities /",
+                "author": "Emerson, Eric.",
+                "isbn": "0521794447",
+                "url": "http://library.hud.ac.uk/catlink/bib/382869",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521794447"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521794447"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Psychiatric nursing care plans /",
+                "author": "Holoday-Worret, Patricia A.",
+                "isbn": "0323014828",
+                "url": "http://library.hud.ac.uk/catlink/bib/416216",
+                "publisher": "Mosby",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0323014828"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0323014828"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Assessment in psychiatric and mental health nursing : in search of the whole person /",
+                "author": "Barker, Philip J.",
+                "isbn": "0748778012",
+                "url": "http://library.hud.ac.uk/catlink/bib/426643",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748778012"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748778012"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mental health care for people with learning disabilities /",
+                "author": "Priest, Helena.",
+                "isbn": "0443073538",
+                "url": "http://library.hud.ac.uk/catlink/bib/452356",
+                "publisher": "Churchill Livingstone",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443073538"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443073538"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Ross and Wilson anatomy and physiology in health and illness /",
+                "author": "Waugh, Anne.",
+                "isbn": "0443064687",
+                "url": "http://library.hud.ac.uk/catlink/bib/412157",
+                "publisher": "Churchill Livingstone",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443064687"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443064687"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

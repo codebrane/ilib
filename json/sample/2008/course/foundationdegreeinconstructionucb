@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Foundation Degree in Construction UCB",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "1",
+          "book": [
+              {
+                "title": "Contractual procedures in the construction industry /",
+                "author": "Ashworth, A. (Allan)",
+                "isbn": "0131298275",
+                "url": "http://library.hud.ac.uk/catlink/bib/510597",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131298275"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131298275"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

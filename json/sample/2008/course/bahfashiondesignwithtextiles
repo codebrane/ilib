@@ -1,0 +1,502 @@
+[
+  {
+    "name": "BA(H) Fashion Design with Textiles",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "31",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "10",
+          "book": [
+              {
+                "title": "Fashions of a decade : the 1960s /",
+                "author": "Connikie, Yvonne.",
+                "isbn": "0713464372",
+                "url": "http://library.hud.ac.uk/catlink/bib/132851",
+                "publisher": "Batsford",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713464372"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713464372"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Eating disorders : the facts /",
+                "author": "Llewellyn-Jones, Derek, 1923-",
+                "isbn": "0192621998",
+                "url": "http://library.hud.ac.uk/catlink/bib/216255",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192621998"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192621998"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Underground architecture /",
+                "author": "London Transport. Museum.",
+                "isbn": "1854141600",
+                "url": "http://library.hud.ac.uk/catlink/bib/217149",
+                "publisher": "Capital Transport",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854141600"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854141600"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Anorexia and bulimia : anatomy of a social epidemic.",
+                "author": "Gordon, Richard A. (Richard Allan), 1941-",
+                "isbn": "0631148515",
+                "url": "http://library.hud.ac.uk/catlink/bib/258266",
+                "publisher": "Basil Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631148515"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631148515"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Why women? : gender issues and eating disorders /",
+                "author": "Gitzinger, Inez",
+                "isbn": "048511450X",
+                "url": "http://library.hud.ac.uk/catlink/bib/276347",
+                "publisher": "Athlone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=048511450X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/048511450X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The social construction of anorexia.",
+                "author": "Hepworth, Julie.",
+                "isbn": "0761953086",
+                "url": "http://library.hud.ac.uk/catlink/bib/319988",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761953086"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761953086"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mods! /",
+                "author": "Barnes, Richard, 1944 Oct. 3-",
+                "isbn": "0859651738",
+                "url": "http://library.hud.ac.uk/catlink/bib/395996",
+                "publisher": "Plexus",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0859651738"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0859651738"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Who is a dandy? /",
+                "author": "Barbey d'Aurevilly, Jules Amedee, 1808-1889 On dandyism and George Brummell.",
+                "isbn": "1903933188",
+                "url": "http://library.hud.ac.uk/catlink/bib/415194",
+                "publisher": "Gibson Square",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903933188"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903933188"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Men in the mirror : men's fashion, masculinity and consumer society /",
+                "author": "Edwards, Tim, 1963-",
+                "isbn": "0304337897",
+                "url": "http://library.hud.ac.uk/catlink/bib/424146",
+                "publisher": "Cassell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0304337897"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0304337897"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The new English dandy /",
+                "author": "Cicolini, Alice",
+                "isbn": "050051268X",
+                "url": "http://library.hud.ac.uk/catlink/bib/494219",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=050051268X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/050051268X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "21",
+          "book": [
+              {
+                "title": "Architecture of transportation /",
+                "author": "Toy, Maggie",
+                "isbn": "1854902407",
+                "url": "http://library.hud.ac.uk/catlink/bib/19368",
+                "publisher": "Academy Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854902407"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854902407"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture of rail : the way ahead.",
+                "author": "Binney, Marcus.",
+                "isbn": "1854903969",
+                "url": "http://library.hud.ac.uk/catlink/bib/217061",
+                "publisher": "Academy Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854903969"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854903969"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "New architecture. A selection of contemporary architecture /",
+                "author": "Asensio Cerver, Francisco",
+                "isbn": "8481850330",
+                "url": "http://library.hud.ac.uk/catlink/bib/272070",
+                "publisher": "Atrium International",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=8481850330"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/8481850330"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Nomadic architecture : human practicality serves human emotion : exhibition design by Edgar Reinhard /",
+                "author": "Robinson, Michael",
+                "isbn": "3907044444",
+                "url": "http://library.hud.ac.uk/catlink/bib/326278",
+                "publisher": "Lars Mèuller",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3907044444"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3907044444"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Millennium architecture.",
+                "author": "Toy, Maggie",
+                "isbn": "0471720240",
+                "url": "http://library.hud.ac.uk/catlink/bib/335406",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471720240"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471720240"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Aspects of Huddersfield : discovering local history /",
+                "author": "Schofield, Isobel",
+                "isbn": "1871647665",
+                "url": "http://library.hud.ac.uk/catlink/bib/337908",
+                "publisher": "Wharncliffe",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1871647665"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1871647665"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Begegnungen : an architect meets architects /",
+                "author": "Blaser, Werner, 1924-",
+                "isbn": "3764363142",
+                "url": "http://library.hud.ac.uk/catlink/bib/354089",
+                "publisher": "Birkhauser",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3764363142"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3764363142"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "EXPO Architektur Dokumente : Beitrage zur Weltausstellung EXPO 2000 in Hannover = EXPO architecture documents : contributions for the World Exposition EXPO 2000 in Hanover.",
+                "author": "",
+                "isbn": "3775708596",
+                "url": "http://library.hud.ac.uk/catlink/bib/355963",
+                "publisher": "Hatje Cantz",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3775708596"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3775708596"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern architecture /",
+                "author": "Colquhoun, Alan, 1921-",
+                "isbn": "0192842269",
+                "url": "http://library.hud.ac.uk/catlink/bib/393429",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192842269"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192842269"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Aspects of Huddersfield /",
+                "author": "Wade, Stephen, 1948-",
+                "isbn": "1903425239",
+                "url": "http://library.hud.ac.uk/catlink/bib/408050",
+                "publisher": "Wharncliffe",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903425239"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903425239"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture now! /",
+                "author": "Jodidio, Philip, 1954-",
+                "isbn": "3822825077",
+                "url": "http://library.hud.ac.uk/catlink/bib/414142",
+                "publisher": "Taschen",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3822825077"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3822825077"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Bridges that changed the world /",
+                "author": "Graf, Bernhard",
+                "isbn": "3791327011",
+                "url": "http://library.hud.ac.uk/catlink/bib/419116",
+                "publisher": "Prestel",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3791327011"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3791327011"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Tribal Asia : ceremonies, rituals and dress /",
+                "author": "Trupp, Fritz",
+                "isbn": "0500542856",
+                "url": "http://library.hud.ac.uk/catlink/bib/428020",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500542856"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500542856"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The making of Huddersfield /",
+                "author": "Redmonds, George, 1935-",
+                "isbn": "1903425395",
+                "url": "http://library.hud.ac.uk/catlink/bib/428580",
+                "publisher": "Wharncliffe",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903425395"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903425395"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Huddersfield Mills : a textile heritage /",
+                "author": "Teasdale, Vivien.",
+                "isbn": "1903425778",
+                "url": "http://library.hud.ac.uk/catlink/bib/440910",
+                "publisher": "Wharncliffe",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903425778"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903425778"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Neontigers : photographs of Asian megacities /",
+                "author": "Bialobrzeski, Peter.",
+                "isbn": "3775713948",
+                "url": "http://library.hud.ac.uk/catlink/bib/444323",
+                "publisher": "Hatje Cantz",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3775713948"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3775713948"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Computer-aided pattern design and product development /",
+                "author": "Bond, Terry, 1954-",
+                "isbn": "1405102837",
+                "url": "http://library.hud.ac.uk/catlink/bib/424507",
+                "publisher": "Blackwell Pub",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1405102837"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1405102837"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The house of God : church architecture, style and history /",
+                "author": "Norman, Edward R.",
+                "isbn": "050028556X",
+                "url": "http://library.hud.ac.uk/catlink/bib/443896",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=050028556X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/050028556X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Dress in detail from around the world /",
+                "author": "Wearden, Jennifer Mary",
+                "isbn": "1851773789",
+                "url": "http://library.hud.ac.uk/catlink/bib/498342",
+                "publisher": "V&A",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851773789"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851773789"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Africa is in style /",
+                "author": "Geoffroy-Schneiter, Berenice.",
+                "isbn": "2843238005",
+                "url": "http://library.hud.ac.uk/catlink/bib/505562",
+                "publisher": "Assouline",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2843238005"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2843238005"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

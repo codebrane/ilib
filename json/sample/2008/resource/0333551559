@@ -1,0 +1,20 @@
+{
+  "title": "The social context of health and health work /",
+  "author": "Jones, Linda J.",
+  "isbn": "0333551559",
+  "url": "http://library.hud.ac.uk/catlink/bib/193484",
+  "publisher": "Macmillan",
+  "total": "3",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0333551559",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0333551559"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Midwifery Studies",
+    "id": "bschmidwiferystudies"
+    }
+  ]
+}

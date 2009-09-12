@@ -1,0 +1,20 @@
+{
+  "title": "Atlas of foot and ankle surgery /",
+  "author": "Thomas, Pat",
+  "isbn": "0721635377",
+  "url": "http://library.hud.ac.uk/catlink/bib/107542",
+  "publisher": "Saunders",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0721635377",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0721635377"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(H) Podiatry",
+    "id": "bschpodiatry"
+    }
+  ]
+}

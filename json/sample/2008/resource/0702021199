@@ -1,0 +1,20 @@
+{
+  "title": "Psychiatry in learning disability /",
+  "author": "Read, Stephen G.",
+  "isbn": "0702021199",
+  "url": "http://library.hud.ac.uk/catlink/bib/345905",
+  "publisher": "W. B. Saunders",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0702021199",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0702021199"
+  },
+  "relatedcourse": [
+  {
+    "name": "DipHE Combined Sciences",
+    "id": "diphecombinedsciences"
+    }
+  ]
+}

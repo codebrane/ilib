@@ -1,0 +1,20 @@
+{
+  "title": "Young children's personal, social and emotional development /",
+  "author": "Dowling, Marion.",
+  "isbn": "1412906903",
+  "url": "http://library.hud.ac.uk/catlink/bib/494427",
+  "publisher": "Paul Chapman",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1412906903",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1412906903"
+  },
+  "relatedcourse": [
+  {
+    "name": "Early Years BA",
+    "id": "earlyyearsba"
+    }
+  ]
+}

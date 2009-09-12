@@ -1,0 +1,20 @@
+{
+  "title": "Modeling the supply chain /",
+  "author": "Shapiro, Jeremy F, 1939-",
+  "isbn": "0534373631",
+  "url": "http://library.hud.ac.uk/catlink/bib/368112",
+  "publisher": "Duxbury-Thomson Learning",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0534373631",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0534373631"
+  },
+  "relatedcourse": [
+  {
+    "name": "MSc Global Logistics and Supply Chain Management",
+    "id": "mscgloballogisticsandsupplychainmanagement"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Sociology, work and industry /",
+  "author": "Watson, Tony J.",
+  "isbn": "0415435552",
+  "url": "http://library.hud.ac.uk/catlink/bib/586044",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0415435552",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0415435552"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Human Resource Management (Top up)",
+    "id": "bahhumanresourcemanagementtopup"
+    }
+  ]
+}

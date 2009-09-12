@@ -1,0 +1,214 @@
+[
+  {
+    "name": "BA(Hons) Journalism & Media",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "13",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Understanding news /",
+                "author": "Hartley, John, 1933-",
+                "isbn": "0415039339",
+                "url": "http://library.hud.ac.uk/catlink/bib/105690",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415039339"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415039339"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "12",
+          "book": [
+              {
+                "title": "Law and the media : an everyday guide for professionals /",
+                "author": "Crone, Tom.",
+                "isbn": "0750620080",
+                "url": "http://library.hud.ac.uk/catlink/bib/206816",
+                "publisher": "Focal press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750620080"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750620080"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mass media and media policy in Western Europe /",
+                "author": "Humphreys, Peter.",
+                "isbn": "0719031966",
+                "url": "http://library.hud.ac.uk/catlink/bib/270435",
+                "publisher": "Distributed exclusively in the USA and Canada by St. Martin's Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0719031966"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0719031966"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Media policy : convergence, concentration and commerce /",
+                "author": "McQuail, Denis.",
+                "isbn": "0761959408",
+                "url": "http://library.hud.ac.uk/catlink/bib/312605",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761959408"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761959408"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Theories of mass communication.",
+                "author": "Ball-Rokeach, Sandra J.",
+                "isbn": "080130007X",
+                "url": "http://library.hud.ac.uk/catlink/bib/317956",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=080130007X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/080130007X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Media effects : advances in theory and research /",
+                "author": "Zillmann, Dolf",
+                "isbn": "080580918X",
+                "url": "http://library.hud.ac.uk/catlink/bib/344806",
+                "publisher": "L. Erlbaum Associates",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=080580918X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/080580918X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Mass media /",
+                "author": "Jones, Emma",
+                "isbn": "0333672062",
+                "url": "http://library.hud.ac.uk/catlink/bib/348256",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333672062"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333672062"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Reputations under fire : winners and losers in the libel business /",
+                "author": "Hooper, David, 1949-",
+                "isbn": "0751529931",
+                "url": "http://library.hud.ac.uk/catlink/bib/378212",
+                "publisher": "Warner",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0751529931"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0751529931"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Media law and human rights /",
+                "author": "Nicol, Andrew G. L",
+                "isbn": "1841741345",
+                "url": "http://library.hud.ac.uk/catlink/bib/381885",
+                "publisher": "Blackstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1841741345"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1841741345"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Law and the media /",
+                "author": "Alberstat, Philip, 1964-",
+                "isbn": "024051629X",
+                "url": "http://library.hud.ac.uk/catlink/bib/396117",
+                "publisher": "Focal",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=024051629X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/024051629X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Critical readings : media and audiences /",
+                "author": "Nightingale, Virginia.",
+                "isbn": "0335211666",
+                "url": "http://library.hud.ac.uk/catlink/bib/423358",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335211666"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335211666"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Media law for journalists /",
+                "author": "Smartt, Ursula.",
+                "isbn": "1412908477",
+                "url": "http://library.hud.ac.uk/catlink/bib/512232",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1412908477"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1412908477"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

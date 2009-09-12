@@ -1,0 +1,20 @@
+{
+  "title": "Cognitive therapy in clinical practice : an illustrative casebook /",
+  "author": "Scott, Jan",
+  "isbn": "041506242X",
+  "url": "http://library.hud.ac.uk/catlink/bib/111338",
+  "publisher": "Routledge",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=041506242X",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/041506242X"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(Hons) Counselling Studies",
+    "id": "bschonscounsellingstudies"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "MMus Contemporary Music Performance",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "1",
+          "book": [
+              {
+                "title": "A short history of Spanish music /",
+                "author": "Livermore, Ann",
+                "isbn": "0715606344",
+                "url": "http://library.hud.ac.uk/catlink/bib/113573",
+                "publisher": "Duckworth",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0715606344"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0715606344"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "PhD2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Western plainchant : a handbook /",
+                "author": "Hiley, David.",
+                "isbn": "0198162898",
+                "url": "http://library.hud.ac.uk/catlink/bib/222509",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198162898"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198162898"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "English church polyphony : singers and sources from the 14th to the 17th century /",
+                "author": "Bowers, Roger.",
+                "isbn": "0860787788",
+                "url": "http://library.hud.ac.uk/catlink/bib/327596",
+                "publisher": "Ashgate",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0860787788"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0860787788"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The motet in the age of Du Fay",
+                "author": "ebrary, Inc.",
+                "isbn": "0521473772",
+                "url": "http://library.hud.ac.uk/catlink/bib/353552",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521473772"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521473772"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

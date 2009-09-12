@@ -1,0 +1,240 @@
+[
+  {
+    "name": "BA(H) Leadership and Managing Innovation",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "20",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "14",
+          "book": [
+              {
+                "title": "White-collar crime : a 20th-century crisis /",
+                "author": "Bequai, August.",
+                "isbn": "0669019003",
+                "url": "http://library.hud.ac.uk/catlink/bib/103074",
+                "publisher": "(Distributed by) Teakfield Ltd",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0669019003"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0669019003"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Criminology",
+                      "id": "bschcriminology"
+                   }
+                  ]
+              },
+              {
+                "title": "Violence in society : the reality behind violent crime /",
+                "author": "Godsi, Elie.",
+                "isbn": "0094781400",
+                "url": "http://library.hud.ac.uk/catlink/bib/363752",
+                "publisher": "Constable",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0094781400"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0094781400"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Occupational crime /",
+                "author": "Mars, Gerald.",
+                "isbn": "1855213826",
+                "url": "http://library.hud.ac.uk/catlink/bib/390487",
+                "publisher": "Ashgate",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1855213826"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1855213826"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Microeconomics /",
+                "author": "Warmington, Bob.",
+                "isbn": "190333702X",
+                "url": "http://library.hud.ac.uk/catlink/bib/407831",
+                "publisher": "Crucial",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=190333702X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/190333702X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Accounting for non-specialists /",
+                "author": "Jones, Michael.",
+                "isbn": "0471495727",
+                "url": "http://library.hud.ac.uk/catlink/bib/408005",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471495727"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471495727"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Essentials of economics /",
+                "author": "Sloman, John, 1947-",
+                "isbn": "0273683829",
+                "url": "http://library.hud.ac.uk/catlink/bib/424311",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273683829"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273683829"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Essential economics : a guide for business students /",
+                "author": "Ferguson, Ken.",
+                "isbn": "0333962974",
+                "url": "http://library.hud.ac.uk/catlink/bib/435006",
+                "publisher": "Palgrave",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333962974"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333962974"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of marketing /",
+                "author": "Brassington, Frances.",
+                "isbn": "0273657917",
+                "url": "http://library.hud.ac.uk/catlink/bib/413477",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273657917"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273657917"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "2",
+          "book": [
+              {
+                "title": "Contemporary British society /",
+                "author": "Abercrombie, Nicholas.",
+                "isbn": "0745622976",
+                "url": "http://library.hud.ac.uk/catlink/bib/344183",
+                "publisher": "Polity Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745622976"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745622976"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "The complete PLAB. Extended-matching questions /",
+                "author": "Mir, M. A (Mohammad Afzal)",
+                "isbn": "044307092X",
+                "url": "http://library.hud.ac.uk/catlink/bib/426114",
+                "publisher": "Churchill Livingstone.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=044307092X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/044307092X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Service operations management : improving service delivery /",
+                "author": "Johnston, Robert, 1953-",
+                "isbn": "0273683675",
+                "url": "http://library.hud.ac.uk/catlink/bib/446316",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273683675"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273683675"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Consumer behaviour : a European perspective /",
+                "author": "Askegaard, Sren",
+                "isbn": "027365182X",
+                "url": "http://library.hud.ac.uk/catlink/bib/453245",
+                "publisher": "Financial Times/Prentice-Hall ;",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=027365182X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/027365182X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Data analysis and presentation skills : an introduction for the life and medical sciences /",
+                "author": "Willis, Jackie",
+                "isbn": "0470852747",
+                "url": "http://library.hud.ac.uk/catlink/bib/455225",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470852747"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470852747"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "name": "BSc(Hons) Information and Communication Technology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "8",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Beginning XHTML /",
+                "author": "Boumphrey, Frank.",
+                "isbn": "1861003439",
+                "url": "http://library.hud.ac.uk/catlink/bib/354818",
+                "publisher": "Wrox Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861003439"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861003439"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Skills for success : the personal development planning handbook /",
+                "author": "Cottrell, Stella.",
+                "isbn": "1403911320",
+                "url": "http://library.hud.ac.uk/catlink/bib/421804",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403911320"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403911320"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Beginning JavaScript /",
+                "author": "Wilton, Paul.",
+                "isbn": "0764555871",
+                "url": "http://library.hud.ac.uk/catlink/bib/429085",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764555871"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764555871"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Excel 2003 power programming with VBA /",
+                "author": "Walkenbach, John",
+                "isbn": "0764540726",
+                "url": "http://library.hud.ac.uk/catlink/bib/441987",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0764540726"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0764540726"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Bus/Comp with German",
+                      "id": "bschbuscompwithgerman"
+                   }
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "4",
+          "book": [
+              {
+                "title": "Managing information systems : an organisational perspective /",
+                "author": "Boddy, David, 1940-",
+                "isbn": "0273655957",
+                "url": "http://library.hud.ac.uk/catlink/bib/386302",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273655957"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273655957"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Information systems : achieving success by avoiding failure /",
+                "author": "Peters, Geoff",
+                "isbn": "0470862556",
+                "url": "http://library.hud.ac.uk/catlink/bib/453016",
+                "publisher": "John Wiley",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470862556"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470862556"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Managing information systems : an organisational perspective /",
+                "author": "Kennedy, Graham, 1961-",
+                "isbn": "0273686356",
+                "url": "http://library.hud.ac.uk/catlink/bib/445047",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273686356"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273686356"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

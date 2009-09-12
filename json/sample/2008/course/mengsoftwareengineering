@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MEng Software Engineering",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "1",
+          "book": [
+              {
+                "title": "The essence of neural networks /",
+                "author": "Callan, Robert.",
+                "isbn": "013908732X",
+                "url": "http://library.hud.ac.uk/catlink/bib/359239",
+                "publisher": "Prentice Hall Europe",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013908732X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013908732X"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Computing & Management Sciences",
+                      "id": "bschcomputingmanagementsciences"
+                    },
+                    {
+                      "name": "BSc(H) Multimedia Technology",
+                      "id": "bschmultimediatechnology"
+                    },
+                    {
+                      "name": "BSc(H) Computer Games Programming",
+                      "id": "bschcomputergamesprogramming"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

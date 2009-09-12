@@ -1,0 +1,148 @@
+[
+  {
+    "name": "FdSc Police Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "8",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "8",
+          "book": [
+              {
+                "title": "Sociology : introductory readings /",
+                "author": "Giddens, Anthony.",
+                "isbn": "0745624391",
+                "url": "http://library.hud.ac.uk/catlink/bib/381198",
+                "publisher": "Polity",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745624391"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745624391"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The problem of crime /",
+                "author": "Muncie, John",
+                "isbn": "0761969713",
+                "url": "http://library.hud.ac.uk/catlink/bib/415587",
+                "publisher": "Sage, in association with the Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969713"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969713"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(H) Social Sciences",
+                      "id": "bschsocialsciences"
+                   }
+                  ]
+              },
+              {
+                "title": "Understanding victims and restorative justice /",
+                "author": "Dignan, James",
+                "isbn": "0335209793",
+                "url": "http://library.hud.ac.uk/catlink/bib/417053",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335209793"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335209793"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology : themes and perspectives /",
+                "author": "Holborn, Martin",
+                "isbn": "000715447X",
+                "url": "http://library.hud.ac.uk/catlink/bib/420820",
+                "publisher": "Collins",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=000715447X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/000715447X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Victimisation : theory, research and policy /",
+                "author": "Francis, Peter, 1968-",
+                "isbn": "1403921792",
+                "url": "http://library.hud.ac.uk/catlink/bib/415245",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403921792"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403921792"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Working with victims of crime : policies, politics and practice /",
+                "author": "Williams, Brian",
+                "isbn": "1853024503",
+                "url": "http://library.hud.ac.uk/catlink/bib/435850",
+                "publisher": "Jessica Kingsley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853024503"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853024503"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Psychology : the science of mind and behaviour /",
+                "author": "Gross, Richard D.",
+                "isbn": "0340900989",
+                "url": "http://library.hud.ac.uk/catlink/bib/494308",
+                "publisher": "Hodder Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340900989"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340900989"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Victims of crime and community justice",
+                "author": "ebrary, Inc.",
+                "isbn": "1843101955",
+                "url": "http://library.hud.ac.uk/catlink/bib/501427",
+                "publisher": "Jessica Kingsley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843101955"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843101955"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

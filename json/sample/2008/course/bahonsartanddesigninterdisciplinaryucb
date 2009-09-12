@@ -1,0 +1,80 @@
+[
+  {
+    "name": "BA (Hons) Art and Design Interdisciplinary UCB",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "The art and craft of Gianni Versace /",
+                "author": "Mendes, Valerie",
+                "isbn": "1851773843",
+                "url": "http://library.hud.ac.uk/catlink/bib/405343",
+                "publisher": "V&A",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851773843"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851773843"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "New York City /",
+                "author": "Vartanian, Ivan",
+                "isbn": "2880467675",
+                "url": "http://library.hud.ac.uk/catlink/bib/418456",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2880467675"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2880467675"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Manga : sixty years of Japanese comics /",
+                "author": "Gravett, Paul.",
+                "isbn": "1856693910",
+                "url": "http://library.hud.ac.uk/catlink/bib/431747",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856693910"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856693910"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "New material as new media : The Fabric Workshop and Museum /",
+                "author": "Mitchell, Kelly",
+                "isbn": "0262194899",
+                "url": "http://library.hud.ac.uk/catlink/bib/414740",
+                "publisher": "MIT",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0262194899"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0262194899"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

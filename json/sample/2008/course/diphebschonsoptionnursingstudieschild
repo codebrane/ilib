@@ -1,0 +1,282 @@
+[
+  {
+    "name": "DipHE (BSc(Hons) option) Nursing Studies - Child",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "16",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "14",
+          "book": [
+              {
+                "title": "The sociology of health promotion : critical analyses of consumption, lifestyle, and risk /",
+                "author": "Bunton, Robin, 1954-",
+                "isbn": "0415116473",
+                "url": "http://library.hud.ac.uk/catlink/bib/218113",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415116473"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415116473"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Stress and coping in nursing /",
+                "author": "Bailey, Roy D.",
+                "isbn": "0412338300",
+                "url": "http://library.hud.ac.uk/catlink/bib/278140",
+                "publisher": "Chapman and Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0412338300"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0412338300"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The savage god : a study of suicide /",
+                "author": "Alvarez, A. (Alfred), 1929-",
+                "isbn": "0140037470",
+                "url": "http://library.hud.ac.uk/catlink/bib/286290",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140037470"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140037470"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ross and Wilson anatomy and physiology in health and illness /",
+                "author": "Waugh, Anne.",
+                "isbn": "0443051569",
+                "url": "http://library.hud.ac.uk/catlink/bib/326260",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443051569"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443051569"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding advanced human biology /",
+                "author": "Vellacott, Jane.",
+                "isbn": "0340679115",
+                "url": "http://library.hud.ac.uk/catlink/bib/335366",
+                "publisher": "Hodder & Stoughton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340679115"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340679115"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Communication in nursing /",
+                "author": "Balzer-Riley, Julia W. Communications in nursing.",
+                "isbn": "0323008720",
+                "url": "http://library.hud.ac.uk/catlink/bib/346866",
+                "publisher": "Mosby",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0323008720"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0323008720"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Difficult patients /",
+                "author": "Duxbury, Joy.",
+                "isbn": "0750638389",
+                "url": "http://library.hud.ac.uk/catlink/bib/360239",
+                "publisher": "Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750638389"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750638389"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Practice nurse handbook /",
+                "author": "Hampson, Gillian.",
+                "isbn": "0632063920",
+                "url": "http://library.hud.ac.uk/catlink/bib/402883",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0632063920"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0632063920"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ross and Wilson anatomy and physiology in health and illness /",
+                "author": "Waugh, Anne.",
+                "isbn": "0443064687",
+                "url": "http://library.hud.ac.uk/catlink/bib/412157",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443064687"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443064687"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Essential nursing skills /",
+                "author": "Nicol, Maggie",
+                "isbn": "0723433070",
+                "url": "http://library.hud.ac.uk/catlink/bib/419023",
+                "publisher": "Mosby",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0723433070"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0723433070"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Physiology for health care and nursing /",
+                "author": "Kindlen, Sheenan",
+                "isbn": "0443071160",
+                "url": "http://library.hud.ac.uk/catlink/bib/420317",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443071160"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443071160"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Evidence-based practice in nursing & healthcare : a guide to best practice /",
+                "author": "Fineout-Overholt, Ellen.",
+                "isbn": "0781758084",
+                "url": "http://library.hud.ac.uk/catlink/bib/445157",
+                "publisher": "Lippincott Williams & Wilkins",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0781758084"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0781758084"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "Short Courses P'Grad (30 Credits) SHA",
+                      "id": "shortcoursesp'grad30creditssha"
+                   }
+                  ]
+              },
+              {
+                "title": "Physiology and anatomy : a homeostatic approach /",
+                "author": "Clancy, John, PGCE",
+                "isbn": "034076239X",
+                "url": "http://library.hud.ac.uk/catlink/bib/500849",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=034076239X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/034076239X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of caring : a practical approach /",
+                "author": "McGee, Paula.",
+                "isbn": "0748794093",
+                "url": "http://library.hud.ac.uk/catlink/bib/502921",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748794093"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748794093"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Thinking skills & eye Q : visual tools for raising intelligence /",
+                "author": "Harris, Ian.",
+                "isbn": "1855390914",
+                "url": "http://library.hud.ac.uk/catlink/bib/439046",
+                "publisher": "Network Educational",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1855390914"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1855390914"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Keys to nursing success /",
+                "author": "Katz, Janet R, 1953-",
+                "isbn": "0131135589",
+                "url": "http://library.hud.ac.uk/catlink/bib/444189",
+                "publisher": "Pearson/Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0131135589"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0131135589"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

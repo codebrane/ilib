@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Short Courses 30 Credits SHA",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Critical care algorithms /",
+                "author": "Armstrong, R. F (Rod F)",
+                "isbn": "0192621076",
+                "url": "http://library.hud.ac.uk/catlink/bib/267337",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192621076"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192621076"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Intensive care : a concise textbook /",
+                "author": "Watson, D",
+                "isbn": "0702015415",
+                "url": "http://library.hud.ac.uk/catlink/bib/361661",
+                "publisher": "W. B. Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702015415"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702015415"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Monitoring the critically ill patient /",
+                "author": "Ewens, Beverley",
+                "isbn": "063205803X",
+                "url": "http://library.hud.ac.uk/catlink/bib/393593",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=063205803X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/063205803X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

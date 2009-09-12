@@ -1,0 +1,17 @@
+{
+  "title": "New book design /",
+  "author": "Fawcett-Tang, Roger",
+  "isbn": "185669366X",
+  "url": "http://library.hud.ac.uk/catlink/bib/430113",
+  "publisher": "Laurence King",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=185669366X",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/185669366X"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "How to plan, teach and assess history in the National Curriculum /",
+  "author": "Booth, M. B. (Martin Butler), 1936-",
+  "isbn": "0435310720",
+  "url": "http://library.hud.ac.uk/catlink/bib/123211",
+  "publisher": "Heinemann Educational",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0435310720",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0435310720"
+  },
+  "relatedcourse": [
+  {
+    "name": "PGCE History (11-18 1FT)",
+    "id": "pgcehistory11181ft"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+[
+  {
+    "name": "BSc(H) Midwifery Studies",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "24",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "7",
+          "book": [
+              {
+                "title": "The social context of health and health work /",
+                "author": "Jones, Linda J.",
+                "isbn": "0333551559",
+                "url": "http://library.hud.ac.uk/catlink/bib/193484",
+                "publisher": "Macmillan",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333551559"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333551559"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social perspectives on pregnancy and childbirth for midwives, nurses and the caring professions.",
+                "author": "Kent, Julie.",
+                "isbn": "0335199127",
+                "url": "http://library.hud.ac.uk/catlink/bib/332973",
+                "publisher": "Open University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335199127"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335199127"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The social context of birth /",
+                "author": "Squire, Caroline",
+                "isbn": "1857755545",
+                "url": "http://library.hud.ac.uk/catlink/bib/415720",
+                "publisher": "Radcliffe Medical",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1857755545"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1857755545"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of anatomy and physiology.",
+                "author": "Derrickson, Bryan.",
+                "isbn": "0471718718",
+                "url": "http://library.hud.ac.uk/catlink/bib/453009",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471718718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471718718"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "12",
+          "book": [
+              {
+                "title": "Treating postnatal depression : a psychological approach for health care practitioners /",
+                "author": "Milgrom, Jeannette",
+                "isbn": "0471986453",
+                "url": "http://library.hud.ac.uk/catlink/bib/333070",
+                "publisher": "John Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471986453"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471986453"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Out of me : the story of a postnatal breakdown /",
+                "author": "Shaw, Fiona",
+                "isbn": "1860498574",
+                "url": "http://library.hud.ac.uk/catlink/bib/371960",
+                "publisher": "Virago",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1860498574"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1860498574"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Postnatal depression and maternal mental health : a public health priority.",
+                "author": "Community Practitioners' & Health Visitors' Association. Postnatal Depression and Mental Health Network. Conference (1st , 2001 : London).",
+                "isbn": "184253002X",
+                "url": "http://library.hud.ac.uk/catlink/bib/393036",
+                "publisher": "CPHVA",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=184253002X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/184253002X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Postnatal depression : facing the paradox of loss, happiness and motherhood /",
+                "author": "Nicolson, Paula.",
+                "isbn": "0471485276",
+                "url": "http://library.hud.ac.uk/catlink/bib/416330",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471485276"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471485276"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Labour ward manual /",
+                "author": "Liu, D. T. Y. (David Tek-Yung)",
+                "isbn": "0443073945",
+                "url": "http://library.hud.ac.uk/catlink/bib/418597",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443073945"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443073945"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The labour ward handbook /",
+                "author": "Royal Society of Medicine (Great Britain).",
+                "isbn": "1853155772",
+                "url": "http://library.hud.ac.uk/catlink/bib/427400",
+                "publisher": "Royal Society of Medicine",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853155772"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853155772"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The midwife's labour and birth handbook /",
+                "author": "Chapman, Vicky",
+                "isbn": "0632059435",
+                "url": "http://library.hud.ac.uk/catlink/bib/433123",
+                "publisher": "Blackwell Science",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0632059435"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0632059435"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Decision making in midwifery practice /",
+                "author": "Marshall, Jayne E.",
+                "isbn": "0443073848",
+                "url": "http://library.hud.ac.uk/catlink/bib/416120",
+                "publisher": "Elsevier Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443073848"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443073848"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Impact of birthing practices on breastfeeding : protecting the mother and baby continuum /",
+                "author": "Kroeger, Mary.",
+                "isbn": "0763724815",
+                "url": "http://library.hud.ac.uk/catlink/bib/433071",
+                "publisher": "Jones and Bartlett",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0763724815"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0763724815"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Normal childbirth : evidence and debate /",
+                "author": "Downe, Soo.",
+                "isbn": "0443073856",
+                "url": "http://library.hud.ac.uk/catlink/bib/437175",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443073856"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443073856"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Adverse outcomes in maternity care : implications for practice, applying the recommendations of the confidential enquiries /",
+                "author": "Edwards, Grace, RN.",
+                "isbn": "0750687894",
+                "url": "http://library.hud.ac.uk/catlink/bib/441503",
+                "publisher": "Books for Midwives",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750687894"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750687894"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The politics of birth /",
+                "author": "Kitzinger, Sheila.",
+                "isbn": "0750688769",
+                "url": "http://library.hud.ac.uk/catlink/bib/491462",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750688769"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750688769"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "5",
+          "book": [
+              {
+                "title": "Beginning reflective practice /",
+                "author": "Jasper, Melanie.",
+                "isbn": "0748771174",
+                "url": "http://library.hud.ac.uk/catlink/bib/429052",
+                "publisher": "Nelson Thornes",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748771174"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748771174"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Normal childbirth : evidence and debate /",
+                "author": "Downe, Soo.",
+                "isbn": "0443073856",
+                "url": "http://library.hud.ac.uk/catlink/bib/437175",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443073856"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443073856"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Midwifery and public health : future directions, new opportunities /",
+                "author": "Carlson, Cindy.",
+                "isbn": "044310235X",
+                "url": "http://library.hud.ac.uk/catlink/bib/501415",
+                "publisher": "Elsevier Churchill Livingstone",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=044310235X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/044310235X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Appraising research into childbirth : an interactive workbook /",
+                "author": "Wickham, Sara",
+                "isbn": "0750688491",
+                "url": "http://library.hud.ac.uk/catlink/bib/502385",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750688491"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750688491"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

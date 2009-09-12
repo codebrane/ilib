@@ -1,0 +1,20 @@
+{
+  "title": "Classic and Romantic music : a comprehensive survey /",
+  "author": "Norton, Mary Dows Herter",
+  "isbn": "0571113540",
+  "url": "http://library.hud.ac.uk/catlink/bib/109296",
+  "publisher": "Faber",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0571113540",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0571113540"
+  },
+  "relatedcourse": [
+  {
+    "name": "BMus(H)",
+    "id": "bmush"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+[
+  {
+    "name": "BMus(H)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "15",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "4",
+          "book": [
+              {
+                "title": "Classic and Romantic music : a comprehensive survey /",
+                "author": "Norton, Mary Dows Herter",
+                "isbn": "0571113540",
+                "url": "http://library.hud.ac.uk/catlink/bib/109296",
+                "publisher": "Faber",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0571113540"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0571113540"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Approaches to communication through music /",
+                "author": "Corke, Margaret.",
+                "isbn": "1853468436",
+                "url": "http://library.hud.ac.uk/catlink/bib/429503",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853468436"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853468436"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Beyond the bandstand : a brief survey of developments in the brass band repertoire.",
+                "author": "Newsome, Roy.",
+                "isbn": "094784807X",
+                "url": "http://library.hud.ac.uk/catlink/bib/42742",
+                "publisher": "Caron Publications",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=094784807X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/094784807X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Brass Bands in the 20th century /",
+                "author": "Brand, Violet",
+                "isbn": "0905858123",
+                "url": "http://library.hud.ac.uk/catlink/bib/469",
+                "publisher": "Egon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0905858123"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0905858123"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Wagner : race and revolution /",
+                "author": "Rose, Paul Lawrence.",
+                "isbn": "057116465X",
+                "url": "http://library.hud.ac.uk/catlink/bib/113616",
+                "publisher": "Faber",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=057116465X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/057116465X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern music and after /",
+                "author": "Griffiths, Paul, 1947-",
+                "isbn": "0198165110",
+                "url": "http://library.hud.ac.uk/catlink/bib/229649",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198165110"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198165110"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Renaissance music : music in Western Europe 1400-1600 /",
+                "author": "Atlas, Allan W.",
+                "isbn": "0393971694",
+                "url": "http://library.hud.ac.uk/catlink/bib/294425",
+                "publisher": "Norton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0393971694"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0393971694"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "8",
+          "book": [
+              {
+                "title": "A guide to musical analysis /",
+                "author": "Cook, Nicholas, 1950-",
+                "isbn": "0460031880",
+                "url": "http://library.hud.ac.uk/catlink/bib/124540",
+                "publisher": "Dent",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0460031880"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0460031880"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Baroque flute pieces : edited by Richard Jones.",
+                "author": "Jones, Richard, (musician)",
+                "isbn": "1854727109",
+                "url": "http://library.hud.ac.uk/catlink/bib/245401",
+                "publisher": "Associated Board",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854727109"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854727109"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A guide to musical analysis /",
+                "author": "Cook, Nicholas, 1950-",
+                "isbn": "0198165080",
+                "url": "http://library.hud.ac.uk/catlink/bib/328842",
+                "publisher": "Oxford University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198165080"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198165080"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The singer's musical theatre anthology : Duets : compiled and ed. by Richard Walters.",
+                "author": "Styne, Jule",
+                "isbn": "0881885479",
+                "url": "http://library.hud.ac.uk/catlink/bib/407780",
+                "publisher": "Hal Leonard",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0881885479"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0881885479"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The singer's musical theatre anthology : Baritone / Bass, Vol.2 : compiled and ed. by Richard Walters.",
+                "author": "Herbert, Victor, 1859-1924",
+                "isbn": "079352332X",
+                "url": "http://library.hud.ac.uk/catlink/bib/407782",
+                "publisher": "Hal Leonard",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=079352332X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/079352332X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The singer's musical theatre anthology : Baritone / Bass, Vol.3 : compiled and ed. by Richard Walters.",
+                "author": "Grossman, Larry",
+                "isbn": "063400977X",
+                "url": "http://library.hud.ac.uk/catlink/bib/407785",
+                "publisher": "Hal Leonard",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=063400977X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/063400977X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The singer's musical theatre anthology : Baritone / Bass, Vol.1 : compiled and ed. by Richard Walters.",
+                "author": "Miller, Roger",
+                "isbn": "0881885487",
+                "url": "http://library.hud.ac.uk/catlink/bib/413628",
+                "publisher": "Hal Leonard.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0881885487"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0881885487"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

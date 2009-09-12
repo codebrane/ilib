@@ -1,0 +1,20 @@
+{
+  "title": "Legal aspects of consent /",
+  "author": "Dimond, Bridgit.",
+  "isbn": "1856422178",
+  "url": "http://library.hud.ac.uk/catlink/bib/417068",
+  "publisher": "Quay",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1856422178",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1856422178"
+  },
+  "relatedcourse": [
+  {
+    "name": "DipHE Operating Department Practice",
+    "id": "dipheoperatingdepartmentpractice"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Fdn Year for the Health Professions",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "4",
+          "book": [
+              {
+                "title": "Introduction to the human body : the essentials of anatomy and physiology.",
+                "author": "Grabowski, Sandra Reynolds",
+                "isbn": "0471378356",
+                "url": "http://library.hud.ac.uk/catlink/bib/361355",
+                "publisher": "Wiley",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471378356"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471378356"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Principles of anatomy and physiology.",
+                "author": "Derrickson, Bryan.",
+                "isbn": "0471718718",
+                "url": "http://library.hud.ac.uk/catlink/bib/453009",
+                "publisher": "Wiley",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471718718"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471718718"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

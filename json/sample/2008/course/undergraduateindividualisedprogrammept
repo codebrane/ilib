@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Undergraduate Individualised Programme PT",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "4",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "4",
+          "book": [
+              {
+                "title": "The fourteenth and fifteenth centuries /",
+                "author": "Griffiths, Ralph Alan",
+                "isbn": "0198731426",
+                "url": "http://library.hud.ac.uk/catlink/bib/420173",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198731426"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198731426"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Shaping the nation : England 1360-1461 /",
+                "author": "Harriss, G. L.",
+                "isbn": "0198228163",
+                "url": "http://library.hud.ac.uk/catlink/bib/439348",
+                "publisher": "Clarendon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198228163"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198228163"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "England in the later Middle Ages : a political history /",
+                "author": "Keen, Maurice, 1933-",
+                "isbn": "0415272920",
+                "url": "http://library.hud.ac.uk/catlink/bib/501056",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415272920"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415272920"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Conflict and stability in fifteenth-century England.",
+                "author": "Lander, J. R. (Jack Robert), 1921-",
+                "isbn": "0090957407",
+                "url": "http://library.hud.ac.uk/catlink/bib/50720",
+                "publisher": "Hutchinson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0090957407"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0090957407"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

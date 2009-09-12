@@ -1,0 +1,126 @@
+[
+  {
+    "name": "BA (Hons) Business Management UCO",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "6",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Smith & Keenan's advanced business law.",
+                "author": "Smith, Kenneth, 1910-1966",
+                "isbn": "027364601X",
+                "url": "http://library.hud.ac.uk/catlink/bib/338812",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=027364601X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/027364601X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Business law /",
+                "author": "Riches, Sarah",
+                "isbn": "0582438152",
+                "url": "http://library.hud.ac.uk/catlink/bib/376845",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582438152"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582438152"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Organizational behaviour : an introductory text /",
+                "author": "Huczynski, Andrzej.",
+                "isbn": "0273682229",
+                "url": "http://library.hud.ac.uk/catlink/bib/424454",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273682229"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273682229"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(H) Business Management",
+                      "id": "bahbusinessmanagement"
+                   }
+                  ]
+              },
+              {
+                "title": "Management and organisational behaviour /",
+                "author": "Mullins, Laurie J",
+                "isbn": "0273688766",
+                "url": "http://library.hud.ac.uk/catlink/bib/435808",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273688766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273688766"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Organizational behaviour : an introductory text /",
+                "author": "Huczynski, Andrzej.",
+                "isbn": "0273682229",
+                "url": "http://library.hud.ac.uk/catlink/bib/424454",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273682229"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273682229"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(H) Business Management",
+                      "id": "bahbusinessmanagement"
+                   }
+                  ]
+              },
+              {
+                "title": "Management and organisational behaviour /",
+                "author": "Mullins, Laurie J",
+                "isbn": "0273688766",
+                "url": "http://library.hud.ac.uk/catlink/bib/435808",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273688766"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273688766"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

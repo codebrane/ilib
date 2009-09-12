@@ -1,0 +1,24 @@
+{
+  "title": "Anglo-Saxon England and the Norman Conquest.",
+  "author": "Loyn, H. R. (Henry Royston)",
+  "isbn": "0582482291",
+  "url": "http://library.hud.ac.uk/catlink/bib/105857",
+  "publisher": "Longman",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0582482291",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0582482291"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(Hons) History and Law",
+    "id": "bahonshistoryandlaw"
+  },
+  {
+    "name": "PGCE (PCET) (Grimsby Insti)",
+    "id": "pgcepcetgrimsbyinsti"
+    }
+  ]
+}

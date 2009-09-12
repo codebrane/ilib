@@ -1,0 +1,20 @@
+{
+  "title": "Celtic art : an introduction /",
+  "author": "Finlay, Ian.",
+  "isbn": "0571086780",
+  "url": "http://library.hud.ac.uk/catlink/bib/102976",
+  "publisher": "Faber",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0571086780",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0571086780"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Fashion Design with Marketing & Production",
+    "id": "bahfashiondesignwithmarketingproduction"
+    }
+  ]
+}

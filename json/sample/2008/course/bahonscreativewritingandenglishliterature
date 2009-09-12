@@ -1,0 +1,308 @@
+[
+  {
+    "name": "BA(Hons) Creative Writing and English Literature",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "28",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "13",
+          "book": [
+              {
+                "title": "The language of jokes : analyzing verbal play /",
+                "author": "Chiaro, Delia.",
+                "isbn": "0415030900",
+                "url": "http://library.hud.ac.uk/catlink/bib/103786",
+                "publisher": "Routledge",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415030900"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415030900"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BA(H) English & Media",
+                      "id": "bahenglishmedia"
+                    },
+                    {
+                      "name": "BA(H) English Language w Modern Lang PT",
+                      "id": "bahenglishlanguagewmodernlangpt"
+                   }
+                  ]
+              },
+              {
+                "title": "On humour : its nature and its place in modern society /",
+                "author": "Mulkay, Michael, 1936-",
+                "isbn": "0745605435",
+                "url": "http://library.hud.ac.uk/catlink/bib/128230",
+                "publisher": "Polity Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745605435"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745605435"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Blake's humanism /",
+                "author": "Beer, John",
+                "isbn": "0719003008",
+                "url": "http://library.hud.ac.uk/catlink/bib/133588",
+                "publisher": "Barnes & Noble",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0719003008"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0719003008"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The language of humour /",
+                "author": "Ross, Alison, 1949-",
+                "isbn": "0415169127",
+                "url": "http://library.hud.ac.uk/catlink/bib/285854",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415169127"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415169127"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Conversation analysis : principles, practices, and applications /",
+                "author": "Wooffitt, Robin.",
+                "isbn": "0745615481",
+                "url": "http://library.hud.ac.uk/catlink/bib/298377",
+                "publisher": "Polity Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745615481"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745615481"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Redeeming laughter : the comic dimension of human experience.",
+                "author": "Berger, Peter L.",
+                "isbn": "3110155621",
+                "url": "http://library.hud.ac.uk/catlink/bib/327408",
+                "publisher": "Walter de Gruyter",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=3110155621"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/3110155621"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An analysis of William Blake's early writings and designs to 1790, including Songs of innocence /",
+                "author": "Smith, Ken Edward, 1944-",
+                "isbn": "0773479228",
+                "url": "http://library.hud.ac.uk/catlink/bib/346806",
+                "publisher": "Edwin Mellen Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0773479228"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0773479228"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Conversation analysis : studies from the first generation /",
+                "author": "Lerner, Gene H.",
+                "isbn": "9027253684",
+                "url": "http://library.hud.ac.uk/catlink/bib/434948",
+                "publisher": "John Benjamins",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=9027253684"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/9027253684"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introducing metaphor /",
+                "author": "Knowles, Murray, 1948-",
+                "isbn": "0415278015",
+                "url": "http://library.hud.ac.uk/catlink/bib/505599",
+                "publisher": "Routledge",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415278015"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415278015"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "11",
+          "book": [
+              {
+                "title": "Exploring the language of poems, plays, and prose /",
+                "author": "Short, Michael H",
+                "isbn": "0582291305",
+                "url": "http://library.hud.ac.uk/catlink/bib/234125",
+                "publisher": "Longman",
+                "total": "4",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582291305"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582291305"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Meaning in English : an introduction to language study.",
+                "author": "Jeffries, Lesley.",
+                "isbn": "0333659163",
+                "url": "http://library.hud.ac.uk/catlink/bib/309033",
+                "publisher": "Palgrave",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333659163"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333659163"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Robinson Crusoe : an authoritative text, contexts, criticism /",
+                "author": "Shinagel, Michael",
+                "isbn": "0393964523",
+                "url": "http://library.hud.ac.uk/catlink/bib/401045",
+                "publisher": "Norton",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0393964523"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0393964523"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Stylistics : a resource book for students /",
+                "author": "Simpson, Paul, 1959-",
+                "isbn": "0415281040",
+                "url": "http://library.hud.ac.uk/catlink/bib/434225",
+                "publisher": "Routledge",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415281040"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415281040"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The stories of English /",
+                "author": "Crystal, David, 1941-",
+                "isbn": "0713997524",
+                "url": "http://library.hud.ac.uk/catlink/bib/437128",
+                "publisher": "Allen Lane",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713997524"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713997524"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "First language acquisition /",
+                "author": "Clark, Eve V.",
+                "isbn": "0521629977",
+                "url": "http://library.hud.ac.uk/catlink/bib/413644",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521629977"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521629977"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Practical phonetics and phonology : a resource book for students /",
+                "author": "Collins, Beverley.",
+                "isbn": "0415261341",
+                "url": "http://library.hud.ac.uk/catlink/bib/431330",
+                "publisher": "Routledge",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415261341"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415261341"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Cambridge companion to English literature, 1500-1600 /",
+                "author": "Kinney, Arthur F, 1933-",
+                "isbn": "0521582946",
+                "url": "http://library.hud.ac.uk/catlink/bib/438682",
+                "publisher": "Cambridge Unversity Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521582946"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521582946"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

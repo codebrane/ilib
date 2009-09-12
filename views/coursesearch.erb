@@ -1,0 +1,56 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : Course Search</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body id="searchTab">
+	
+<div style="float: left;"><img src="/ilib/images/course_search.gif"/></div>
+<div style="padding: 15px;"><div class="banner">&nbsp;&nbsp;iLib, the Course Book Finder : Course Search</div></div>
+<div style="clear: both; padding: 1px;"/>
+
+<ul id="tabnav">
+	<li class="searchTab"><a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a></li>
+	<li class="tab1"><a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a></li>
+	<li class="tab2"><a href="/ilib/allcourses">All Courses</a></li>
+	<li class="readingListTab"><a href="/ilib/readinglist">My Reading List</a></li>
+	<li class="courseTab"><a href="/ilib/course/<%= session["current_course_id"] %>"><%= session["current_course_name"] %></a></li>
+	<li class="sharedReadingListsTab"><a href="/ilib/shared_reading_lists">Shared Reading Lists</a></li>
+	<li class="tab3"><a href="/ilib/about">About</a></li>
+</ul>
+
+<div class="contentBox">
+
+<p>
+	<p>Search for course: (e.g. physics)</p>
+	<form action="/ilib/course_search/" method="get">
+		<input type="text" name="course_searchtext" />
+		<input type="submit" name="submit" value="Search"/>
+	</form>
+</p>
+
+<% if session["course_searchtext"] != nil %>
+	<% if session["course_searchtext"] != "" && (course_search_results_json.length > 1) %>
+		Search results for "<%= session["course_searchtext"] %>"
+		<hr />
+	<% else %>
+		<% if session["course_searchtext"] != "" %>
+			<div class="error">No courses were found for "<%= session["course_searchtext"] %>"</div>
+		<% end %>
+	<% end %>
+<% end %>
+
+<% if defined?(course_search_results_json) && course_search_results_json != nil %>
+  <% course_search_results_json.each do |search_result| %>
+    <% if search_result["name"] != nil %>
+		<div class="bookSummary">
+    <a href="http://<%= request.env['HTTP_HOST'] %>/ilib/course/<%= search_result["id"] %>"><%= search_result["name"] %></a> : <%= search_result["total"] %> books borrowed
+		</div><br />
+    <% end %>
+	<% end %>
+<% end %>
+</div>
+</body>
+</html>

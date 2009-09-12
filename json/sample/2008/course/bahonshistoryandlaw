@@ -1,0 +1,544 @@
+[
+  {
+    "name": "BA(Hons) History and Law",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "36",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "29",
+          "book": [
+              {
+                "title": "Anglo-Saxon England and the Norman Conquest.",
+                "author": "Loyn, H. R. (Henry Royston)",
+                "isbn": "0582482291",
+                "url": "http://library.hud.ac.uk/catlink/bib/105857",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582482291"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582482291"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "PGCE (PCET) (Grimsby Insti)",
+                      "id": "pgcepcetgrimsbyinsti"
+                   }
+                  ]
+              },
+              {
+                "title": "The Anglo-Saxon age, c.400-1042 /",
+                "author": "Fisher, Douglas John Vivian.",
+                "isbn": "0582482771",
+                "url": "http://library.hud.ac.uk/catlink/bib/105969",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582482771"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582482771"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The forging of the modern state : early industrial Britain 1783-1870 /",
+                "author": "Evans, Eric J. (Eric John), 1945-",
+                "isbn": "0582489695",
+                "url": "http://library.hud.ac.uk/catlink/bib/108065",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582489695"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582489695"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introduction to Anglo-Saxon England.",
+                "author": "Blair, Peter Hunter, 1912-1982.",
+                "isbn": "0521042690",
+                "url": "http://library.hud.ac.uk/catlink/bib/122430",
+                "publisher": "University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521042690"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521042690"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "France before the Revolution /",
+                "author": "Shennan, J. H. (Joseph Hugh), 1933-",
+                "isbn": "0416350305",
+                "url": "http://library.hud.ac.uk/catlink/bib/128442",
+                "publisher": "Methuen",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0416350305"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0416350305"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Lord John Russell /",
+                "author": "Prest, John.",
+                "isbn": "0333133145",
+                "url": "http://library.hud.ac.uk/catlink/bib/200416",
+                "publisher": "Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333133145"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333133145"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Enlightenment /",
+                "author": "Porter, Roy, , 1946-",
+                "isbn": "0333454146",
+                "url": "http://library.hud.ac.uk/catlink/bib/200644",
+                "publisher": "Macmillan Education",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333454146"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333454146"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Origins of the French revolution /",
+                "author": "Doyle, William, 1942-",
+                "isbn": "019822284X",
+                "url": "http://library.hud.ac.uk/catlink/bib/207085",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=019822284X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/019822284X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The making of the Tudor dynasty /",
+                "author": "Thomas, Roger S.",
+                "isbn": "0862992184",
+                "url": "http://library.hud.ac.uk/catlink/bib/22467",
+                "publisher": "Alan Sutton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0862992184"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0862992184"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Industry and empire : from 1750 to the present day /",
+                "author": "Hobsbawm, E. J.",
+                "isbn": "0140137491",
+                "url": "http://library.hud.ac.uk/catlink/bib/243891",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140137491"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140137491"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution sourcebook /",
+                "author": "Hardman, John",
+                "isbn": "0340719834",
+                "url": "http://library.hud.ac.uk/catlink/bib/320496",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340719834"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340719834"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution /",
+                "author": "Forrest, Alan, 1945-",
+                "isbn": "0631183515",
+                "url": "http://library.hud.ac.uk/catlink/bib/329100",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631183515"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631183515"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution, 1770-1814 /",
+                "author": "Furet, Francois, 1927-",
+                "isbn": "0631202994",
+                "url": "http://library.hud.ac.uk/catlink/bib/329123",
+                "publisher": "Blackwell",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631202994"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631202994"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Revolutionary France, 1770-1880 /",
+                "author": "Furet, Francois, 1927-",
+                "isbn": "0631198083",
+                "url": "http://library.hud.ac.uk/catlink/bib/329696",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631198083"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631198083"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A history of the English people in the nineteenth century. Victorian years, 1841-1895 /",
+                "author": "McCallum, R. B.",
+                "isbn": "0510270611",
+                "url": "http://library.hud.ac.uk/catlink/bib/337985",
+                "publisher": "Barnes & Noble",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0510270611"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0510270611"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution in social and political perspective /",
+                "author": "Jones, Peter.",
+                "isbn": "0340652918",
+                "url": "http://library.hud.ac.uk/catlink/bib/351793",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340652918"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340652918"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution : recent debates and new controversies /",
+                "author": "Kates, Gary, 1952-",
+                "isbn": "0415144906",
+                "url": "http://library.hud.ac.uk/catlink/bib/352259",
+                "publisher": "Routledge",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415144906"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415144906"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "British politics since 1945 /",
+                "author": "Dorey, Peter, 1959-",
+                "isbn": "0631190740",
+                "url": "http://library.hud.ac.uk/catlink/bib/355278",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631190740"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631190740"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ornamentalism : how the British saw their empire /",
+                "author": "Cannadine, David, 1950-",
+                "isbn": "0713995068",
+                "url": "http://library.hud.ac.uk/catlink/bib/374508",
+                "publisher": "Allen Lane",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0713995068"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0713995068"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The French Revolution : from its origins to 1793 /",
+                "author": "Lefebvre, Georges, 1874-1959.",
+                "isbn": "0415253934",
+                "url": "http://library.hud.ac.uk/catlink/bib/375297",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415253934"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415253934"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The age of improvement, 1783-1867 /",
+                "author": "Briggs, Asa, 1921-",
+                "isbn": "0582369592",
+                "url": "http://library.hud.ac.uk/catlink/bib/383769",
+                "publisher": "Longman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582369592"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582369592"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "British political history, 1867-2001 /",
+                "author": "Pearce, Malcolm, 1951-",
+                "isbn": "0415268699",
+                "url": "http://library.hud.ac.uk/catlink/bib/383961",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415268699"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415268699"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Early modern England : a social history, 1550-1760 /",
+                "author": "Sharpe, J. A. (James Anthony), 1946-",
+                "isbn": "0340577525",
+                "url": "http://library.hud.ac.uk/catlink/bib/385827",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340577525"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340577525"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Political philosophy : a beginners' guide for students and politicians /",
+                "author": "Swift, Adam, 1961-",
+                "isbn": "0745628478",
+                "url": "http://library.hud.ac.uk/catlink/bib/453823",
+                "publisher": "Polity",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745628478"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745628478"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Dickens and the spirit of the age /",
+                "author": "Sanders, Andrew, 1946-",
+                "isbn": "0198183542",
+                "url": "http://library.hud.ac.uk/catlink/bib/421192",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198183542"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198183542"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Working class cultures in Britain 1890-1960 : gender, class, and ethnicity /",
+                "author": "Bourke, Joanna.",
+                "isbn": "0415098971",
+                "url": "http://library.hud.ac.uk/catlink/bib/119098",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415098971"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415098971"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Class in Britain /",
+                "author": "Cannadine, David, 1950-",
+                "isbn": "0300077033",
+                "url": "http://library.hud.ac.uk/catlink/bib/320910",
+                "publisher": "Yale University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0300077033"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0300077033"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Black Death transformed : disease and culture in early Renaissance Europe /",
+                "author": "Cohn, Samuel Kline.",
+                "isbn": "0340706473",
+                "url": "http://library.hud.ac.uk/catlink/bib/428249",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340706473"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340706473"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Black Death, 1346-1353 : the complete history /",
+                "author": "Benedictow, Ole Jrgen.",
+                "isbn": "1843832143",
+                "url": "http://library.hud.ac.uk/catlink/bib/490304",
+                "publisher": "Boydell Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843832143"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843832143"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A monastic renaissance at St. Albans : Thomas Walsingham and his circle, c. 1350-1440 /",
+                "author": "Clark, James G.",
+                "isbn": "0199275955",
+                "url": "http://library.hud.ac.uk/catlink/bib/511319",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199275955"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199275955"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "American slavery, 1619-1877 /",
+                "author": "United States.",
+                "isbn": "0140241507",
+                "url": "http://library.hud.ac.uk/catlink/bib/212090",
+                "publisher": "Penguin",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0140241507"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0140241507"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The Cambridge companion to English Renaissance drama /",
+                "author": "Braunmuller, A. R, 1945-",
+                "isbn": "0521346576",
+                "url": "http://library.hud.ac.uk/catlink/bib/214952",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521346576"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521346576"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "BSc(H) Logistics (Top-up)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Just-in-time for operators /",
+                "author": "Productivity Press. Development Team.",
+                "isbn": "1563271338",
+                "url": "http://library.hud.ac.uk/catlink/bib/330391",
+                "publisher": "Productivity Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1563271338"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1563271338"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Logistics and retail management insights into current practice and trends from leading experts /",
+                "author": "Fernie, John, 1948-",
+                "isbn": "0749440910",
+                "url": "http://library.hud.ac.uk/catlink/bib/426633",
+                "publisher": "Kogan Page",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749440910"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749440910"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Logistics and supply chain management : creating value-adding networks /",
+                "author": "Christopher, Martin.",
+                "isbn": "0273681761",
+                "url": "http://library.hud.ac.uk/catlink/bib/454062",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273681761"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273681761"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "RFID in the supply chain : a guide to selection and implementation /",
+                "author": "Myerson, Judith M.",
+                "isbn": "0849330181",
+                "url": "http://library.hud.ac.uk/catlink/bib/510629",
+                "publisher": "Auerbach",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0849330181"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0849330181"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

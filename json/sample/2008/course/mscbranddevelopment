@@ -1,0 +1,96 @@
+[
+  {
+    "name": "MSc Brand Development",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "8",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "8",
+          "book": [
+              {
+                "title": "Marketing management and strategy /",
+                "author": "Doyle, P. (Peter), 1943-",
+                "isbn": "0273651501",
+                "url": "http://library.hud.ac.uk/catlink/bib/394885",
+                "publisher": "Financial Times/Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273651501"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273651501"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Marketing strategy and competitive positioning /",
+                "author": "Hooley, Graham J.",
+                "isbn": "0273655167",
+                "url": "http://library.hud.ac.uk/catlink/bib/423914",
+                "publisher": "Financial Times/Prentice Hall",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273655167"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273655167"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Strategic market management /",
+                "author": "Aaker, David A.",
+                "isbn": "0471659037",
+                "url": "http://library.hud.ac.uk/catlink/bib/438730",
+                "publisher": "Wiley",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471659037"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471659037"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Strategic marketing /",
+                "author": "Piercy, Nigel",
+                "isbn": "0071244328",
+                "url": "http://library.hud.ac.uk/catlink/bib/453805",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0071244328"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0071244328"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Strategic marketing management : planning, implementation and control /",
+                "author": "Gilligan, Colin",
+                "isbn": "0750659386",
+                "url": "http://library.hud.ac.uk/catlink/bib/455257",
+                "publisher": "Elsevier Butterworth-Heinemann",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750659386"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750659386"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

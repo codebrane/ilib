@@ -1,0 +1,20 @@
+{
+  "title": "Clinical aromatherapy : essential oils in practice /",
+  "author": "Buckle, Jane, RGN, MA, BPhil, Cert Ed, MISPA, MIScB Clinical aromatherapy.",
+  "isbn": "0443072361",
+  "url": "http://library.hud.ac.uk/catlink/bib/416096",
+  "publisher": "Churchill Livingstone",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0443072361",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0443072361"
+  },
+  "relatedcourse": [
+  {
+    "name": "FdSc Holistic Therapies",
+    "id": "fdscholistictherapies"
+    }
+  ]
+}

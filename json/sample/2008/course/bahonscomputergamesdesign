@@ -1,0 +1,102 @@
+[
+  {
+    "name": "BA (Hons) Computer Games Design",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "The encyclopedia of drawing techniques /",
+                "author": "Harrison, Hazel.",
+                "isbn": "1844480194",
+                "url": "http://library.hud.ac.uk/catlink/bib/452845",
+                "publisher": "Search",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1844480194"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1844480194"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Drawing problems and solutions : a trouble-shooting handbook /",
+                "author": "Friend, Trudy.",
+                "isbn": "0715314955",
+                "url": "http://library.hud.ac.uk/catlink/bib/452846",
+                "publisher": "David & Charles",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0715314955"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0715314955"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG4",
+        "total": "3",
+          "book": [
+              {
+                "title": "Director MX 2004 games : game development with Director /",
+                "author": "Lever, Nik, 1958-",
+                "isbn": "0240519493",
+                "url": "http://library.hud.ac.uk/catlink/bib/427504",
+                "publisher": "Focal",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240519493"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240519493"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Game character development with Maya /",
+                "author": "Ward, Antony.",
+                "isbn": "073571438X",
+                "url": "http://library.hud.ac.uk/catlink/bib/452616",
+                "publisher": "New Riders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=073571438X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/073571438X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The art of Maya : an introduction to 3D computer graphics.",
+                "author": "",
+                "isbn": "1894893824",
+                "url": "http://library.hud.ac.uk/catlink/bib/505913",
+                "publisher": "Alias",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1894893824"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1894893824"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

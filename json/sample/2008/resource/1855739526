@@ -1,0 +1,20 @@
+{
+  "title": "Recycling in textiles /",
+  "author": "Wang, Youjiang.",
+  "isbn": "1855739526",
+  "url": "http://library.hud.ac.uk/catlink/bib/585909",
+  "publisher": "Woodhead Publishing",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1855739526",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1855739526"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Surface Design for Fashion & Interiors",
+    "id": "bahsurfacedesignforfashioninteriors"
+    }
+  ]
+}

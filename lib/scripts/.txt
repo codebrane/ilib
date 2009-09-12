@@ -1,0 +1,11 @@
+{
+  "course": {
+    "name": 
+    "progression": [
+      {"staff": 1}
+    ]
+    "publisher": [
+      {"Sage Publications": 1}
+    ]
+  }
+}

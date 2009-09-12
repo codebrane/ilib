@@ -1,0 +1,20 @@
+{
+  "title": "Music in education : a guide for parents and teachers /",
+  "author": "Carlton, Malcolm.",
+  "isbn": "0713001550",
+  "url": "http://library.hud.ac.uk/catlink/bib/101988",
+  "publisher": "Woburn",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0713001550",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0713001550"
+  },
+  "relatedcourse": [
+  {
+    "name": "PGCE Music (Schools) - (11-18 1FT)",
+    "id": "pgcemusicschools11181ft"
+    }
+  ]
+}

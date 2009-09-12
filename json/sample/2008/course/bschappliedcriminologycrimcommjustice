@@ -1,0 +1,154 @@
+[
+  {
+    "name": "BSc(H) Applied Criminology (Crim & Comm Justice)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "8",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "7",
+          "book": [
+              {
+                "title": "Children's homes revisited /",
+                "author": "Berridge, David",
+                "isbn": "1853025658",
+                "url": "http://library.hud.ac.uk/catlink/bib/283965",
+                "publisher": "Jessica Kingsley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1853025658"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1853025658"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Youth and crime : a critical introduction.",
+                "author": "Muncie, John",
+                "isbn": "076195564X",
+                "url": "http://library.hud.ac.uk/catlink/bib/311469",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=076195564X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/076195564X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Contemporary issues in criminology /",
+                "author": "Levi, Michael, 1948-",
+                "isbn": "0708312977",
+                "url": "http://library.hud.ac.uk/catlink/bib/420544",
+                "publisher": "University of Wales Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0708312977"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0708312977"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Youth justice : ideas, policy, practice /",
+                "author": "Smith, Roger S. (Roger Shipley), 1953-",
+                "isbn": "1843920212",
+                "url": "http://library.hud.ac.uk/catlink/bib/428836",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843920212"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843920212"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "BSc(Hons) Social Work (Work Based Route)",
+                      "id": "bschonssocialworkworkbasedroute"
+                   }
+                  ]
+              },
+              {
+                "title": "Joined-up youth justice : tackling youth crime in partnership /",
+                "author": "Appleton, Catherine.",
+                "isbn": "1903855322",
+                "url": "http://library.hud.ac.uk/catlink/bib/451745",
+                "publisher": "Russell House",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903855322"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903855322"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The RHP companion to youth justice /",
+                "author": "Bateman, Tim.",
+                "isbn": "1903855497",
+                "url": "http://library.hud.ac.uk/catlink/bib/451746",
+                "publisher": "Russell House",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903855497"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903855497"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The new politics of youth crime : discipline or solidarity? /",
+                "author": "Pitts, John, 1943-",
+                "isbn": "1903855233",
+                "url": "http://library.hud.ac.uk/catlink/bib/453609",
+                "publisher": "Russell House",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903855233"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903855233"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Punishment, places and perpetrators : developments in criminology and criminal justice research /",
+                "author": "Keijser, Jan Willem de, 1968-",
+                "isbn": "1843920603",
+                "url": "http://library.hud.ac.uk/catlink/bib/435854",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843920603"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843920603"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

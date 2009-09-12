@@ -1,0 +1,812 @@
+[
+  {
+    "name": "BSc(H) Psychology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "72",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "41",
+          "book": [
+              {
+                "title": "Discursive psychology in practice /",
+                "author": "Stearns, Peter",
+                "isbn": "0803977360",
+                "url": "http://library.hud.ac.uk/catlink/bib/211331",
+                "publisher": "Sage",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0803977360"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0803977360"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Handbook of eating disorders : theory, treatment, and research /",
+                "author": "Treasure, Janet",
+                "isbn": "0471943274",
+                "url": "http://library.hud.ac.uk/catlink/bib/232372",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471943274"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471943274"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Eyewitness memory : theoretical and applied perspectives /",
+                "author": "Thompson, Charles P",
+                "isbn": "0805827943",
+                "url": "http://library.hud.ac.uk/catlink/bib/293512",
+                "publisher": "Lawrence Erlbaum",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0805827943"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0805827943"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "How children think and learn : the social contexts of cognitive development /",
+                "author": "Wood, David J.",
+                "isbn": "063120007X",
+                "url": "http://library.hud.ac.uk/catlink/bib/297340",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=063120007X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/063120007X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The child's theory of mind /",
+                "author": "Wellman, Henry M.",
+                "isbn": "0262730995",
+                "url": "http://library.hud.ac.uk/catlink/bib/320714",
+                "publisher": "MIT",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0262730995"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0262730995"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exploring developmental psychology : from infancy to adolescence /",
+                "author": "Millar, Stuart",
+                "isbn": "0340676825",
+                "url": "http://library.hud.ac.uk/catlink/bib/321522",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340676825"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340676825"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Global transformations : politics, economics and culture /",
+                "author": "Held, David, 1951-",
+                "isbn": "0745614981",
+                "url": "http://library.hud.ac.uk/catlink/bib/327924",
+                "publisher": "Polity",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745614981"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745614981"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Poverty and development : into the 21st century /",
+                "author": "Thomas, Alan, 1948 Mar. 13-",
+                "isbn": "0198776268",
+                "url": "http://library.hud.ac.uk/catlink/bib/334453",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198776268"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198776268"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Doing psychological research : gathering and analysing data /",
+                "author": "Hayes, Nicky",
+                "isbn": "0335203795",
+                "url": "http://library.hud.ac.uk/catlink/bib/354821",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335203795"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335203795"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Forensic psychology : a guide to practice /",
+                "author": "Haward, L. R. C. (Lionel R. C).",
+                "isbn": "0415132916",
+                "url": "http://library.hud.ac.uk/catlink/bib/358139",
+                "publisher": "Routledge",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415132916"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415132916"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Offender profiling : theory, research and practice /",
+                "author": "Jackson, Janet L.",
+                "isbn": "0471975656",
+                "url": "http://library.hud.ac.uk/catlink/bib/361317",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471975656"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471975656"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The child's discovery of the mind /",
+                "author": "Astington, Janet W.",
+                "isbn": "0674116410",
+                "url": "http://library.hud.ac.uk/catlink/bib/370223",
+                "publisher": "Harvard University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0674116410"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0674116410"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Addiction /",
+                "author": "Marteau, David.",
+                "isbn": "1856421899",
+                "url": "http://library.hud.ac.uk/catlink/bib/371331",
+                "publisher": "Quay",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856421899"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856421899"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Global issues : an introduction /",
+                "author": "Seitz, John L, 1931-",
+                "isbn": "0631226427",
+                "url": "http://library.hud.ac.uk/catlink/bib/378065",
+                "publisher": "Blackwell Publishers",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631226427"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631226427"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Brief cognitive behavior therapy",
+                "author": "Ruddell, Peter",
+                "isbn": "0761958002",
+                "url": "http://library.hud.ac.uk/catlink/bib/387700",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761958002"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761958002"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Obsessive-compulsive disorder /",
+                "author": "Maj, Mario, 1953-",
+                "isbn": "0470849665",
+                "url": "http://library.hud.ac.uk/catlink/bib/410855",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0470849665"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0470849665"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding psychology and crime perspectives on theory and action /",
+                "author": "ebrary, Inc.",
+                "isbn": "0335211208",
+                "url": "http://library.hud.ac.uk/catlink/bib/417049",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335211208"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335211208"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Forensic and criminal psychology /",
+                "author": "Howitt, Dennis.",
+                "isbn": "0130169854",
+                "url": "http://library.hud.ac.uk/catlink/bib/419546",
+                "publisher": "Prentice Hall",
+                "total": "4",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130169854"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130169854"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Understanding people /",
+                "author": "Butt, Trevor, 1947-",
+                "isbn": "1403904650",
+                "url": "http://library.hud.ac.uk/catlink/bib/423399",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1403904650"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1403904650"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Advanced psychology : child development, perspectives & methods /",
+                "author": "Pennington, Donald C.",
+                "isbn": "0340859342",
+                "url": "http://library.hud.ac.uk/catlink/bib/425483",
+                "publisher": "Hodder & Stoughton",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340859342"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340859342"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Advanced psychology. Contemporary topics /",
+                "author": "Houghton, Peter, 1960-",
+                "isbn": "0340859326",
+                "url": "http://library.hud.ac.uk/catlink/bib/425484",
+                "publisher": "Hodder & Stoughton.",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340859326"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340859326"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Advanced research methods in psychology /",
+                "author": "Giles, David, 1964-",
+                "isbn": "0415227712",
+                "url": "http://library.hud.ac.uk/catlink/bib/429077",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415227712"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415227712"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Inclusion the dynamic of school development /",
+                "author": "ebrary, Inc.",
+                "isbn": "0335204821",
+                "url": "http://library.hud.ac.uk/catlink/bib/429816",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335204821"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335204821"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Abnormal psychology : an integrative approach /",
+                "author": "Barlow, David H.",
+                "isbn": "0534274943",
+                "url": "http://library.hud.ac.uk/catlink/bib/444439",
+                "publisher": "Wadsworth",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0534274943"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0534274943"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The psychology of addiction /",
+                "author": "McMurran, Mary.",
+                "isbn": "0748401873",
+                "url": "http://library.hud.ac.uk/catlink/bib/417458",
+                "publisher": "Taylor & Francis",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0748401873"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0748401873"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Secret scars : uncovering and understanding the addiction of self-injury /",
+                "author": "Turner, V. J, 1961-",
+                "isbn": "1568389140",
+                "url": "http://library.hud.ac.uk/catlink/bib/419026",
+                "publisher": "Hazelden",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1568389140"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1568389140"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Post-traumatic stress disorders : concepts and therapy /",
+                "author": "Yule, William",
+                "isbn": "0471970808",
+                "url": "http://library.hud.ac.uk/catlink/bib/422181",
+                "publisher": "Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471970808"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471970808"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Offender profiling and crime analysis /",
+                "author": "Ainsworth, Peter B.",
+                "isbn": "1903240220",
+                "url": "http://library.hud.ac.uk/catlink/bib/428845",
+                "publisher": "Willan",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1903240220"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1903240220"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Dyslexia and stress /",
+                "author": "Miles, T. R. (Thomas Richard), 1923-",
+                "isbn": "1861563833",
+                "url": "http://library.hud.ac.uk/catlink/bib/430249",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861563833"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861563833"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Profiling violent crimes : an investigative tool.",
+                "author": "Holmes, Stephen T.",
+                "isbn": "0761925945",
+                "url": "http://library.hud.ac.uk/catlink/bib/435869",
+                "publisher": "Sage",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761925945"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761925945"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "14",
+          "book": [
+              {
+                "title": "Social psychology : a critical agenda /",
+                "author": "Stainton Rogers, Rex",
+                "isbn": "0745611826",
+                "url": "http://library.hud.ac.uk/catlink/bib/214109",
+                "publisher": "Basil Blackwell",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0745611826"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0745611826"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social constructionism, discourse and realism /",
+                "author": "Parker, Ian, 1956-",
+                "isbn": "0761953779",
+                "url": "http://library.hud.ac.uk/catlink/bib/300257",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761953779"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761953779"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exploring developmental psychology : from infancy to adolescence /",
+                "author": "Millar, Stuart",
+                "isbn": "0340676825",
+                "url": "http://library.hud.ac.uk/catlink/bib/321522",
+                "publisher": "Arnold",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340676825"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340676825"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Theories of developmental psychology /",
+                "author": "Miller, Patricia H.",
+                "isbn": "071672846X",
+                "url": "http://library.hud.ac.uk/catlink/bib/416818",
+                "publisher": "Worth",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=071672846X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/071672846X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to research methods and data analysis in psychology /",
+                "author": "Langdridge, Darren.",
+                "isbn": "0130978329",
+                "url": "http://library.hud.ac.uk/catlink/bib/426026",
+                "publisher": "Prentice Hall",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130978329"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130978329"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Research methods and statistics in psychology /",
+                "author": "McGarty, Craig",
+                "isbn": "0761942920",
+                "url": "http://library.hud.ac.uk/catlink/bib/427410",
+                "publisher": "SAGE",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761942920"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761942920"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Social psychology /",
+                "author": "Hogg, Michael A., 1954-",
+                "isbn": "0130336327",
+                "url": "http://library.hud.ac.uk/catlink/bib/429402",
+                "publisher": "Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130336327"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130336327"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fundamentals of cognitive psychology /",
+                "author": "Hunt, R. Reed.",
+                "isbn": "0697201740",
+                "url": "http://library.hud.ac.uk/catlink/bib/414199",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0697201740"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0697201740"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Motivation and emotion /",
+                "author": "Gorman, Phil, 1965-",
+                "isbn": "0415227704",
+                "url": "http://library.hud.ac.uk/catlink/bib/429071",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415227704"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415227704"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "17",
+          "book": [
+              {
+                "title": "Principles of social psychology.",
+                "author": "Hayes, Nicky",
+                "isbn": "0863772587",
+                "url": "http://library.hud.ac.uk/catlink/bib/223807",
+                "publisher": "Lawrence Erlbaum Associates",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0863772587"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0863772587"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introduction to critical social psychology /",
+                "author": "Open University.",
+                "isbn": "0761962107",
+                "url": "http://library.hud.ac.uk/catlink/bib/421170",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761962107"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761962107"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Research methods and statistics in psychology /",
+                "author": "McGarty, Craig",
+                "isbn": "0761942920",
+                "url": "http://library.hud.ac.uk/catlink/bib/427410",
+                "publisher": "SAGE",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761942920"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761942920"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Write great essays! : a guide to reading and essay writing for undergraduates and taught postgraduates /",
+                "author": "Levin, Peter.",
+                "isbn": "007711129X",
+                "url": "http://library.hud.ac.uk/catlink/bib/446561",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=007711129X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/007711129X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "An introduction to counselling /",
+                "author": "McLeod, John, 1951-",
+                "isbn": "0335211909",
+                "url": "http://library.hud.ac.uk/catlink/bib/417322",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335211909"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335211909"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Research methods and statistics in psychology /",
+                "author": "Coolican, Hugh.",
+                "isbn": "0340812583",
+                "url": "http://library.hud.ac.uk/catlink/bib/425831",
+                "publisher": "Hodder & Stoughton",
+                "total": "5",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0340812583"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0340812583"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to research methods and data analysis in psychology /",
+                "author": "Langdridge, Darren.",
+                "isbn": "0130978329",
+                "url": "http://library.hud.ac.uk/catlink/bib/426026",
+                "publisher": "Prentice Hall",
+                "total": "4",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0130978329"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0130978329"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cognitive psychology : a student's handbook /",
+                "author": "Eysenck, Michael W.",
+                "isbn": "1841693588",
+                "url": "http://library.hud.ac.uk/catlink/bib/453905",
+                "publisher": "Psychology Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1841693588"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1841693588"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology : a global introduction /",
+                "author": "Plummer, Kenneth.",
+                "isbn": "013128746X",
+                "url": "http://library.hud.ac.uk/catlink/bib/489407",
+                "publisher": "Pearson Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=013128746X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/013128746X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Biopsychology /",
+                "author": "Pinel, John P. J.",
+                "isbn": "0205426514",
+                "url": "http://library.hud.ac.uk/catlink/bib/501437",
+                "publisher": "Pearson ",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0205426514"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0205426514"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

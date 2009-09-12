@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BSc(H) Social Sciences",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "The problem of crime /",
+                "author": "Muncie, John",
+                "isbn": "0761969713",
+                "url": "http://library.hud.ac.uk/catlink/bib/415587",
+                "publisher": "Sage, in association with the Open University",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761969713"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761969713"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

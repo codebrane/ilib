@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chartered Institute of Personnel & Development",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Managing and leading people /",
+                "author": "Chartered Institute of Personnel and Development.",
+                "isbn": "1843981157",
+                "url": "http://library.hud.ac.uk/catlink/bib/453487",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843981157"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843981157"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Business environment : managing in a strategic context /",
+                "author": "Chartered Institute of Personnel and Development.",
+                "isbn": "1843980797",
+                "url": "http://library.hud.ac.uk/catlink/bib/453488",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843980797"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843980797"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "Human resource management at work : people management and development /",
+                "author": "Wilkinson, Adrian, 1963-",
+                "isbn": "1843980622",
+                "url": "http://library.hud.ac.uk/catlink/bib/452577",
+                "publisher": "Chartered Institute of Personnel and Development",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843980622"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843980622"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "CIPD Professional development Scheme UCO",
+                      "id": "cipdprofessionaldevelopmentschemeuco"
+                   }
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Elizabeth I : the golden reign of Gloriana /",
+  "author": "Elizabeth I, Queen of England, 1533-1603.",
+  "isbn": "1903365430",
+  "url": "http://library.hud.ac.uk/catlink/bib/585543",
+  "publisher": "National Archives",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1903365430",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1903365430"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Humanities",
+    "id": "bahhumanities"
+    }
+  ]
+}

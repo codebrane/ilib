@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BA(Hons) Digital Film and Visual Effects Product",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "2",
+          "book": [
+              {
+                "title": "Writing the killer treatment : selling your story without a script /",
+                "author": "Halperin, Michael, 1934-",
+                "isbn": "094118840X",
+                "url": "http://library.hud.ac.uk/catlink/bib/391972",
+                "publisher": "Michael Wiese",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=094118840X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/094118840X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Raindance writer's lab : write + sell the hot screenplay /",
+                "author": "Grove, Elliot.",
+                "isbn": "0240516362",
+                "url": "http://library.hud.ac.uk/catlink/bib/393352",
+                "publisher": "Focal",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0240516362"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0240516362"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

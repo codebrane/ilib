@@ -1,0 +1,17 @@
+{
+  "title": "Art deco.",
+  "author": "",
+  "isbn": "9057680726",
+  "url": "http://library.hud.ac.uk/catlink/bib/445501",
+  "publisher": "The Pepin Press/Agile Rabbit Editions",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=9057680726",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/9057680726"
+  },
+  "relatedcourse": [
+    }
+  ]
+}

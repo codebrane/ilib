@@ -1,0 +1,20 @@
+{
+  "title": "The fourteenth and fifteenth centuries /",
+  "author": "Griffiths, Ralph Alan",
+  "isbn": "0198731426",
+  "url": "http://library.hud.ac.uk/catlink/bib/420173",
+  "publisher": "Oxford University Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0198731426",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0198731426"
+  },
+  "relatedcourse": [
+  {
+    "name": "Undergraduate Individualised Programme PT",
+    "id": "undergraduateindividualisedprogrammept"
+    }
+  ]
+}

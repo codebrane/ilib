@@ -1,0 +1,20 @@
+{
+  "title": "Training practice /",
+  "author": "Hackett, Penny.",
+  "isbn": "0852929803",
+  "url": "http://library.hud.ac.uk/catlink/bib/424103",
+  "publisher": "Chartered Institute of Personnel and Development",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0852929803",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0852929803"
+  },
+  "relatedcourse": [
+  {
+    "name": "Certificate in Training Practice",
+    "id": "certificateintrainingpractice"
+    }
+  ]
+}

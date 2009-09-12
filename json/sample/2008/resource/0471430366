@@ -1,0 +1,20 @@
+{
+  "title": "The art of 3D computer animation and effects /",
+  "author": "Kerlow, Isaac Victor, 1958-",
+  "isbn": "0471430366",
+  "url": "http://library.hud.ac.uk/catlink/bib/439977",
+  "publisher": "John Wiley",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0471430366",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0471430366"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA/BSc(H) Virtual Reality Design",
+    "id": "babschvirtualrealitydesign"
+    }
+  ]
+}

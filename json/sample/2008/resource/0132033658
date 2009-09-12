@@ -1,0 +1,20 @@
+{
+  "title": "Strategic business marketing /",
+  "author": "Chisnall, Peter M.",
+  "isbn": "0132033658",
+  "url": "http://library.hud.ac.uk/catlink/bib/272022",
+  "publisher": "Prentice Hall",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0132033658",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0132033658"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Business & Journalism",
+    "id": "bahbusinessjournalism"
+    }
+  ]
+}

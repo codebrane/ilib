@@ -1,0 +1,56 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : My Reading List</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body>
+	
+<div class="contentBox">
+
+
+
+
+<% if (defined? books) %>
+
+	<% if books.length == 0 %>
+		<div class="error">There are no books in this reading list yet</div>
+	<% end %>
+
+  <% books.each do |book_json| %>
+		<% book = book_json[0] %>
+		<div class="bookSummary">
+			
+			<a href="<%= book["url"] %>" target="_blank" title="Library information for this book"><%= book["title"] %></a>
+
+			<br />
+	    by <%= book["author"] %><br />
+	    Total borrowed: <%= book["total"] %><br />
+	
+			<% course_id = rest.get_id_for_course_name(book['course']) %>
+			<a href="/ilib/course/<%= course_id %>"><%= book['course'] %></a><br />
+
+			<br />
+		  <a href="<%= book["googlebook"]["url"] %>" target="_blank" title="Preview this book on Google"><img src="/ilib/images/googlebookpreviewbutton.gif" /></a>
+
+			<a href="<%= book["amazon"]["url"] %>" target="_blank" title="Preview this book on Amazon"><img src="/ilib/images/amazon.jpg" /></a>
+
+		  <% if book["relatedcourse"].length > 0 %>
+		    <br />Related courses:<br />
+		    <% book["relatedcourse"].each do |related_course|%>
+		      <a href="/ilib/course/<%= related_course["id"] %>"><%= related_course["name"] %></a><br />
+		    <% end %>
+		  <% end %>
+
+			<div style="clear: both;"></div>
+			
+		</div>
+		<br />
+	<% end %>
+<% end %>
+
+</div>
+
+</body>
+</html>

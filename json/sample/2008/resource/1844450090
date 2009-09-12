@@ -1,0 +1,20 @@
+{
+  "title": "Early childhood studies : an introduction to the study of children's worlds and children's lives /",
+  "author": "Parker-Rees, Rod.",
+  "isbn": "1844450090",
+  "url": "http://library.hud.ac.uk/catlink/bib/440010",
+  "publisher": "Learning Matters",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1844450090",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1844450090"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Childhood Studies",
+    "id": "bahchildhoodstudies"
+    }
+  ]
+}

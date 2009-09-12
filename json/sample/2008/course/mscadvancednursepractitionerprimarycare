@@ -1,0 +1,96 @@
+[
+  {
+    "name": "MSc Advanced Nurse Practitioner (Primary Care)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "PhD2",
+        "total": "5",
+          "book": [
+              {
+                "title": "Clinical examination /",
+                "author": "Epstein, Owen, 1950-",
+                "isbn": "0723432295",
+                "url": "http://library.hud.ac.uk/catlink/bib/419029",
+                "publisher": "Mosby",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0723432295"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0723432295"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Symptom sorter /",
+                "author": "Hopcroft, Keith.",
+                "isbn": "1857758269",
+                "url": "http://library.hud.ac.uk/catlink/bib/430712",
+                "publisher": "Radcliffe Medical",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1857758269"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1857758269"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Human anatomy & physiology /",
+                "author": "Nicpon-Marieb, Elaine, 1936-",
+                "isbn": "0805349928",
+                "url": "http://library.hud.ac.uk/catlink/bib/495302",
+                "publisher": "Benjamin Cummings",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0805349928"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0805349928"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Kumar & Clark clinical medicine /",
+                "author": "Kumar, Parveen J. (Parveen June)",
+                "isbn": "0702027634",
+                "url": "http://library.hud.ac.uk/catlink/bib/498489",
+                "publisher": "Elsevier Saunders",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0702027634"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0702027634"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Bates' guide to physical examination and history taking /",
+                "author": "Szilagyi, Peter G.",
+                "isbn": "0781767180",
+                "url": "http://library.hud.ac.uk/catlink/bib/499096",
+                "publisher": "Lippincott Williams & Wilkins",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0781767180"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0781767180"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

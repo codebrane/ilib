@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BSc(Hons) Social Work (Work Based Route)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Youth justice : ideas, policy, practice /",
+                "author": "Smith, Roger S. (Roger Shipley), 1953-",
+                "isbn": "1843920212",
+                "url": "http://library.hud.ac.uk/catlink/bib/428836",
+                "publisher": "Willan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843920212"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843920212"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Invitation to personal construct psychology /",
+                "author": "Burr, Vivien.",
+                "isbn": "1861563876",
+                "url": "http://library.hud.ac.uk/catlink/bib/428916",
+                "publisher": "Whurr",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861563876"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861563876"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

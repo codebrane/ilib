@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BA(H) Youth & Community Work",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "2",
+    "progression": [
+       {
+        "name": "UG3",
+        "total": "2",
+          "book": [
+              {
+                "title": "Working with offenders : psychological practice in offender rehabilitation /",
+                "author": "Hollin, Clive R.",
+                "isbn": "0471953490",
+                "url": "http://library.hud.ac.uk/catlink/bib/281511",
+                "publisher": "John Wiley",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0471953490"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0471953490"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Pedagogy of the oppressed /",
+                "author": "Freire, Paulo, 1921-",
+                "isbn": "0826412769",
+                "url": "http://library.hud.ac.uk/catlink/bib/393845",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826412769"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826412769"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

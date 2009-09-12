@@ -1,0 +1,64 @@
+[
+  {
+    "name": "BA (Hons) Education and Training UCB",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "3",
+          "book": [
+              {
+                "title": "Handbook of creativity /",
+                "author": "Sternberg, Robert J.",
+                "isbn": "0521576040",
+                "url": "http://library.hud.ac.uk/catlink/bib/422681",
+                "publisher": "Cambridge University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0521576040"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0521576040"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Unlocking creativity : teaching across the curriculum /",
+                "author": "Fisher, Robert, 1943-",
+                "isbn": "1843120925",
+                "url": "http://library.hud.ac.uk/catlink/bib/431217",
+                "publisher": "David Fulton",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1843120925"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1843120925"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "100 ideas for teaching creativity /",
+                "author": "Bowkett, Stephen.",
+                "isbn": "0826484786",
+                "url": "http://library.hud.ac.uk/catlink/bib/495522",
+                "publisher": "Continuum",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0826484786"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0826484786"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Accounting for non-accounting students /",
+  "author": "Dyson, J. R. (John Richard), 1939-",
+  "isbn": "0273683853",
+  "url": "http://library.hud.ac.uk/catlink/bib/424449",
+  "publisher": "Financial Times Prentice Hall",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0273683853",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0273683853"
+  },
+  "relatedcourse": [
+  {
+    "name": "DMS/MBA PT",
+    "id": "dmsmbapt"
+    }
+  ]
+}

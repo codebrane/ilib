@@ -1,0 +1,202 @@
+[
+  {
+    "name": "LLB(H) Business Law",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "13",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "9",
+          "book": [
+              {
+                "title": "Law cartoons : contract /",
+                "author": "Tayfoor, Susan.",
+                "isbn": "0421544600",
+                "url": "http://library.hud.ac.uk/catlink/bib/219634",
+                "publisher": "Sweet and Maxwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0421544600"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0421544600"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Legal method.",
+                "author": "Hanson, Sharon.",
+                "isbn": "1859414249",
+                "url": "http://library.hud.ac.uk/catlink/bib/316972",
+                "publisher": "Cavendish",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1859414249"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1859414249"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Constitutional and administrative law /",
+                "author": "Bradley, A. W. (Anthony Wilfred), 1934-",
+                "isbn": "0582438071",
+                "url": "http://library.hud.ac.uk/catlink/bib/404454",
+                "publisher": "Longman",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582438071"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582438071"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Constitutional law : the machinery of government /",
+                "author": "Molan, Michael T.",
+                "isbn": "1858364892",
+                "url": "http://library.hud.ac.uk/catlink/bib/428225",
+                "publisher": "Old Bailey",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1858364892"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1858364892"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "LLB(H) Law",
+                      "id": "llbhlaw"
+                   }
+                  ]
+              },
+              {
+                "title": "Text, cases and materials on European Union law.",
+                "author": "Tillotson, John.",
+                "isbn": "1859417779",
+                "url": "http://library.hud.ac.uk/catlink/bib/431921",
+                "publisher": "Cavendish",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1859417779"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1859417779"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Studying law /",
+                "author": "Kenny, Phillip H.",
+                "isbn": "040695948X",
+                "url": "http://library.hud.ac.uk/catlink/bib/419714",
+                "publisher": "Butterworths",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=040695948X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/040695948X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Learning legal rules : a students' guide to legal method and reasoning /",
+                "author": "Webb, Julian S.",
+                "isbn": "0199282501",
+                "url": "http://library.hud.ac.uk/catlink/bib/511640",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199282501"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199282501"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "4",
+          "book": [
+              {
+                "title": "Marketing communications : contexts, strategies and applications /",
+                "author": "Fill, Chris.",
+                "isbn": "0273655000",
+                "url": "http://library.hud.ac.uk/catlink/bib/425786",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273655000"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273655000"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Blackstone's guide to the Criminal Justice Act 2003 /",
+                "author": "Taylor, Richard, 1945 Apr. 8-",
+                "isbn": "0199267251",
+                "url": "http://library.hud.ac.uk/catlink/bib/437065",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0199267251"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0199267251"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Marketing : a complete guide /",
+                "author": "McDonald, Malcolm.",
+                "isbn": "0333994361",
+                "url": "http://library.hud.ac.uk/catlink/bib/466112",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333994361"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333994361"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Marketing communications : engagements, strategies and practice /",
+                "author": "Fill, Chris.",
+                "isbn": "0273687727",
+                "url": "http://library.hud.ac.uk/catlink/bib/491378",
+                "publisher": "Financial Times Prentice Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0273687727"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0273687727"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

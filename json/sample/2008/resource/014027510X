@@ -1,0 +1,20 @@
+{
+  "title": "Inside organizations : 21 ideas for managers /",
+  "author": "Handy, Charles B. (Charles Brian), 1932-",
+  "isbn": "014027510X",
+  "url": "http://library.hud.ac.uk/catlink/bib/354835",
+  "publisher": "Penguin",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=014027510X",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/014027510X"
+  },
+  "relatedcourse": [
+  {
+    "name": "DMS/MBA UCO",
+    "id": "dmsmbauco"
+    }
+  ]
+}

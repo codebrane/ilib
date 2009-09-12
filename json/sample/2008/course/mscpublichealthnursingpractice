@@ -1,0 +1,100 @@
+[
+  {
+    "name": "MSc Public Health Nursing Practice",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "5",
+    "progression": [
+       {
+        "name": "PhD1",
+        "total": "5",
+          "book": [
+              {
+                "title": "Health needs assessment in practice /",
+                "author": "Wright, John, 1963-",
+                "isbn": "0727912704",
+                "url": "http://library.hud.ac.uk/catlink/bib/310099",
+                "publisher": "BMJ",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0727912704"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0727912704"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health inequalities : lifecourse approaches /",
+                "author": "Smith, George Davey",
+                "isbn": "186134323X",
+                "url": "http://library.hud.ac.uk/catlink/bib/374351",
+                "publisher": "Policy",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=186134323X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/186134323X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The widening gap : health inequalities and policy in Britain /",
+                "author": "Shaw, Mary",
+                "isbn": "1861341423",
+                "url": "http://library.hud.ac.uk/catlink/bib/375188",
+                "publisher": "Policy",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861341423"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861341423"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "CPD Student Health & Social Studies (Health)",
+                      "id": "cpdstudenthealthsocialstudieshealth"
+                   }
+                  ]
+              },
+              {
+                "title": "Public health for the 21st century new perspectives on policy, participation and practice /",
+                "author": "ebrary, Inc.",
+                "isbn": "0335211941",
+                "url": "http://library.hud.ac.uk/catlink/bib/423578",
+                "publisher": "Open University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0335211941"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0335211941"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Health visiting : specialist and higher level practice /",
+                "author": "Robotham, Anne",
+                "isbn": "044306203X",
+                "url": "http://library.hud.ac.uk/catlink/bib/433727",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=044306203X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/044306203X"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

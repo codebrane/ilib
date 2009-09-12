@@ -1,0 +1,20 @@
+{
+  "title": "Physical management in neurological rehabilitation.",
+  "author": "Stokes, Maria.",
+  "isbn": "0723432856",
+  "url": "http://library.hud.ac.uk/catlink/bib/439879",
+  "publisher": "Elsevier Mosby",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0723432856",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0723432856"
+  },
+  "relatedcourse": [
+  {
+    "name": "PgDip Physiotherapy",
+    "id": "pgdipphysiotherapy"
+    }
+  ]
+}

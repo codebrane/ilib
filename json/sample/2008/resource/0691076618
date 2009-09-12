@@ -1,0 +1,20 @@
+{
+  "title": "Citizen Machiavelli /",
+  "author": "Hulliung, Mark.",
+  "isbn": "0691076618",
+  "url": "http://library.hud.ac.uk/catlink/bib/127602",
+  "publisher": "Princeton University Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0691076618",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0691076618"
+  },
+  "relatedcourse": [
+  {
+    "name": "BA(H) Politics & Law",
+    "id": "bahpoliticslaw"
+    }
+  ]
+}

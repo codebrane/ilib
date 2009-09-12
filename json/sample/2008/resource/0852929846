@@ -1,0 +1,20 @@
+{
+  "title": "Management development : strategies for action.",
+  "author": "Gold, Jeffrey",
+  "isbn": "0852929846",
+  "url": "http://library.hud.ac.uk/catlink/bib/425741",
+  "publisher": "Chartered Institute of Personnel and Development",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0852929846",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0852929846"
+  },
+  "relatedcourse": [
+  {
+    "name": "Certificate in Management Studies",
+    "id": "certificateinmanagementstudies"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FdSc Business Information Technology",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "1",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Database design and programming with Access, SQL and Visual Basic /",
+                "author": "Carter, John.",
+                "isbn": "0077095855",
+                "url": "http://library.hud.ac.uk/catlink/bib/351604",
+                "publisher": "McGraw-Hill",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0077095855"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0077095855"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

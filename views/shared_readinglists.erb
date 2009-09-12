@@ -1,0 +1,45 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>iLib, the Course Book Finder : My Reading List</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/ilib/css/ilib.css">
+</head>
+
+<body id="sharedReadingListsTab">
+	
+<div style="float: left;"><img src="/ilib/images/reading_list.gif"/></div>
+<% if session['reading_list_title'] != nil %>
+  <% reading_list_title = session['reading_list_title'] %>
+<% else %>
+	<% reading_list_title = "My Reading List" %>
+<% end %>
+<div style="padding: 15px;"><div class="banner">&nbsp;&nbsp;iLib, the Course Book Finder : <%= reading_list_title %></div></div>
+<div style="clear: both; padding: 1px;"/>
+
+<ul id="tabnav">
+	<li class="searchTab"><a href="/ilib/course_search/?course_searchtext=<%= session["course_searchtext"]%>">Course Search</a></li>
+	<li class="tab1"><a href="/ilib/book_search/?book_searchtext=<%= session["book_searchtext"] %>">Book Search</a></li>
+	<li class="allCoursesTab"><a href="/ilib/allcourses">All Courses</a></li>
+	<li class="readingListTab"><a href="/ilib/readinglist">My Reading List</a></li>
+	<li class="courseTab"><a href="/ilib/course/<%= session["current_course_id"] %>"><%= session["current_course_name"] %></a></li>
+	<li class="sharedReadingListsTab"><a href="/ilib/shared_reading_lists">Shared Reading Lists</a></li>
+	<li class="aboutTab"><a href="/ilib/about">About</a></li>
+</ul>
+
+<div class="contentBox">
+
+<% shared_reading_lists = ReadingList.get_shared_reading_lists %>
+<% if shared_reading_lists.length > 0 %>
+<% shared_reading_lists.keys.each do |reading_list_id| %>
+	<div class="courseSummary">
+		<a href="/ilib/readinglist_load_shared/<%= reading_list_id %>" target="_blank"><%= shared_reading_lists[reading_list_id] %></a>
+	</div>
+<% end %>
+<% else %>
+	There are no shared reading lists yet
+<% end %>
+
+</div>
+
+</body>
+</html>

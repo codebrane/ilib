@@ -1,0 +1,20 @@
+{
+  "title": "Postmodern interviewing /",
+  "author": "Holstein, James A",
+  "isbn": "0761928502",
+  "url": "http://library.hud.ac.uk/catlink/bib/438712",
+  "publisher": "Sage Publications",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=0761928502",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/0761928502"
+  },
+  "relatedcourse": [
+  {
+    "name": "Research Social Work FT",
+    "id": "researchsocialworkft"
+    }
+  ]
+}

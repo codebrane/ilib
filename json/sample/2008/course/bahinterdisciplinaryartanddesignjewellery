@@ -1,0 +1,326 @@
+[
+  {
+    "name": "BA(H) Interdisciplinary Art and Design (Jewellery)",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "21",
+    "progression": [
+       {
+        "name": "UG2",
+        "total": "17",
+          "book": [
+              {
+                "title": "Visual arts in the twentieth century /",
+                "author": "Lucie-Smith, Edward, 1933-",
+                "isbn": "1856690903",
+                "url": "http://library.hud.ac.uk/catlink/bib/242365",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856690903"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856690903"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The postmodern arts : an introductory reader /",
+                "author": "Wheale, Nigel",
+                "isbn": "0415126118",
+                "url": "http://library.hud.ac.uk/catlink/bib/253688",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415126118"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415126118"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "After modern art 1945-2000 /",
+                "author": "Hopkins, David, 1955-",
+                "isbn": "019284234X",
+                "url": "http://library.hud.ac.uk/catlink/bib/360612",
+                "publisher": "Oxford University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=019284234X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/019284234X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Learning to look at modern art /",
+                "author": "Acton, Mary.",
+                "isbn": "0415238110",
+                "url": "http://library.hud.ac.uk/catlink/bib/419126",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415238110"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415238110"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Installation art in the new millennium : the empire of the senses /",
+                "author": "Oxley, Nicola",
+                "isbn": "0500238081",
+                "url": "http://library.hud.ac.uk/catlink/bib/422370",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500238081"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500238081"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Zandra Rhodes : a lifelong love affair with textiles.",
+                "author": "Rhodes, Zandra, 1940-",
+                "isbn": "1851494847",
+                "url": "http://library.hud.ac.uk/catlink/bib/443989",
+                "publisher": "Antique Collectors' Club",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851494847"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851494847"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Postmodernism : a very short introduction /",
+                "author": "Butler, Christopher S. (Christopher Stuart), 1945-",
+                "isbn": "0192802399",
+                "url": "http://library.hud.ac.uk/catlink/bib/417955",
+                "publisher": "Oxford University Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192802399"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192802399"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Fashion /",
+                "author": "Breward, Christopher, 1965-",
+                "isbn": "0192840304",
+                "url": "http://library.hud.ac.uk/catlink/bib/423793",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0192840304"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0192840304"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Vivienne Westwood /",
+                "author": "Wilcox, Claire",
+                "isbn": "185177405X",
+                "url": "http://library.hud.ac.uk/catlink/bib/424613",
+                "publisher": "V&A",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185177405X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185177405X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Paula Rego : the complete graphic work /",
+                "author": "Rego, Paula. 1935-",
+                "isbn": "0500284636",
+                "url": "http://library.hud.ac.uk/catlink/bib/443666",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500284636"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500284636"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Art since 1900 : modernism, antimodernism, postmodernism /",
+                "author": "Krauss, Rosalind E.",
+                "isbn": "0500238189",
+                "url": "http://library.hud.ac.uk/catlink/bib/451667",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500238189"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500238189"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Sociology of the arts : exploring fine and popular forms /",
+                "author": "Alexander, Victoria D.",
+                "isbn": "0631230394",
+                "url": "http://library.hud.ac.uk/catlink/bib/489534",
+                "publisher": "Blackwell",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0631230394"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0631230394"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Modern and contemporary prints : a practical guide to collecting /",
+                "author": "Robb, Tom.",
+                "isbn": "1851494588",
+                "url": "http://library.hud.ac.uk/catlink/bib/494017",
+                "publisher": "Antique Collectors' Club",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851494588"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851494588"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The saddest place on Earth : the art of Camille Rose Garcia.",
+                "author": "Garcia, Camille Rose, 1970-",
+                "isbn": "0867196394",
+                "url": "http://library.hud.ac.uk/catlink/bib/505537",
+                "publisher": "Last Gasp",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0867196394"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0867196394"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The modern ideal : the rise and collapse of idealism in the visual arts from the enlightenment to postmodernism /",
+                "author": "Greenhalgh, Paul.",
+                "isbn": "1851774696",
+                "url": "http://library.hud.ac.uk/catlink/bib/506509",
+                "publisher": "V&A",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1851774696"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1851774696"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "4",
+          "book": [
+              {
+                "title": "Martin Parr /",
+                "author": "Parr, Martin, 1952-",
+                "isbn": "071484389X",
+                "url": "http://library.hud.ac.uk/catlink/bib/387641",
+                "publisher": "Phaidon",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=071484389X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/071484389X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Diane Arbus : family albums /",
+                "author": "Arbus, Diane, 1923-1971.",
+                "isbn": "0300101465",
+                "url": "http://library.hud.ac.uk/catlink/bib/424163",
+                "publisher": "Yale University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0300101465"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0300101465"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Type & typography /",
+                "author": "Baines, Phil, 1958-",
+                "isbn": "1856694372",
+                "url": "http://library.hud.ac.uk/catlink/bib/494752",
+                "publisher": "Laurence King",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1856694372"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1856694372"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Letterpress : new applications for traditional skills.",
+                "author": "Jury, David.",
+                "isbn": "2940361207",
+                "url": "http://library.hud.ac.uk/catlink/bib/506074",
+                "publisher": "RotoVision",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2940361207"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2940361207"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

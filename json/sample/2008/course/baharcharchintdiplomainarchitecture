@@ -1,0 +1,220 @@
+[
+  {
+    "name": "BA(H) Arch/Arch(Int)/Diploma in Architecture",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "12",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "8",
+          "book": [
+              {
+                "title": "Building for tomorrow /",
+                "author": "Nanji, Azim A.",
+                "isbn": "1854903934",
+                "url": "http://library.hud.ac.uk/catlink/bib/209738",
+                "publisher": "Academy Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854903934"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854903934"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Structure and architecture /",
+                "author": "Macdonald, Angus J, 1925-",
+                "isbn": "0750617985",
+                "url": "http://library.hud.ac.uk/catlink/bib/230388",
+                "publisher": "Butterworth Architecture",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750617985"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750617985"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Architecture : style, structure and design /",
+                "author": "Foster, Michael",
+                "isbn": "0862881617",
+                "url": "http://library.hud.ac.uk/catlink/bib/287857",
+                "publisher": "Greenwich Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0862881617"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0862881617"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Hybrid space : new forms in digital architecture.",
+                "author": "Zellner, Peter.",
+                "isbn": "0500282560",
+                "url": "http://library.hud.ac.uk/catlink/bib/328906",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500282560"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500282560"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "The inflatable moment : pneumatics and protest in '68 /",
+                "author": "Architectural League of New York",
+                "isbn": "1568981767",
+                "url": "http://library.hud.ac.uk/catlink/bib/364360",
+                "publisher": "Princeton Architectural Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1568981767"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1568981767"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Ideas that shaped buildings /",
+                "author": "Hearn, Fil.",
+                "isbn": "0262582279",
+                "url": "http://library.hud.ac.uk/catlink/bib/423585",
+                "publisher": "MIT",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0262582279"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0262582279"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Exploring architecture : buildings, meaning and making /",
+                "author": "Snodin, Michael.",
+                "isbn": "185177436X",
+                "url": "http://library.hud.ac.uk/catlink/bib/444594",
+                "publisher": "V&A",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=185177436X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/185177436X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Oak-framed buildings /",
+                "author": "Newman, Rupert.",
+                "isbn": "1861083793",
+                "url": "http://library.hud.ac.uk/catlink/bib/505515",
+                "publisher": "Guild of Master Craftsman",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1861083793"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1861083793"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG3",
+        "total": "3",
+          "book": [
+              {
+                "title": "Edward Cullinan architects /",
+                "author": "Powell, Kenneth",
+                "isbn": "1854904116",
+                "url": "http://library.hud.ac.uk/catlink/bib/218885",
+                "publisher": "Academy Editions",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1854904116"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1854904116"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Landscrapers : building with the land /",
+                "author": "Betsky, Aaron.",
+                "isbn": "0500341885",
+                "url": "http://library.hud.ac.uk/catlink/bib/406896",
+                "publisher": "Thames & Hudson",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0500341885"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0500341885"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Le Corbusier alive /",
+                "author": "Denis, Anriet",
+                "isbn": "2879392381",
+                "url": "http://library.hud.ac.uk/catlink/bib/498129",
+                "publisher": "Terrail",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=2879392381"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/2879392381"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG2",
+        "total": "1",
+          "book": [
+              {
+                "title": "The McDonaldization of society /",
+                "author": "Ritzer, George.",
+                "isbn": "0761988122",
+                "url": "http://library.hud.ac.uk/catlink/bib/434457",
+                "publisher": "Pine Forge Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0761988122"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0761988122"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

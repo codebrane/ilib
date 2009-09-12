@@ -1,0 +1,234 @@
+[
+  {
+    "name": "BSc Applied Sciences",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "16",
+    "progression": [
+       {
+        "name": "UG4",
+        "total": "15",
+          "book": [
+              {
+                "title": "Physical organic chemistry /",
+                "author": "Isaacs, Neil S. (Neil Stewart), 1934-",
+                "isbn": "0582463661",
+                "url": "http://library.hud.ac.uk/catlink/bib/104577",
+                "publisher": "Longman Scientific & Technical",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0582463661"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0582463661"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Effective teaching in higher education /",
+                "author": "Atkins, M. J. (Madeleine Julia), 1952-",
+                "isbn": "0415036755",
+                "url": "http://library.hud.ac.uk/catlink/bib/104906",
+                "publisher": "Routledge",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415036755"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415036755"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "UV spectroscopy : techniques, instrumentation, data handling /",
+                "author": "Clark, B. J.",
+                "isbn": "041240530X",
+                "url": "http://library.hud.ac.uk/catlink/bib/197994",
+                "publisher": "Chapman & Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=041240530X"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/041240530X"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Introduction to molecular photochemistry /",
+                "author": "Wells, C. H. J. (Clifford Henry James)",
+                "isbn": "0412112507",
+                "url": "http://library.hud.ac.uk/catlink/bib/205291",
+                "publisher": "Chapman and Hall",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0412112507"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0412112507"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "A handbook for teachers in universities & colleges : a guide to improving teaching methods /",
+                "author": "Newble, David.",
+                "isbn": "0749416696",
+                "url": "http://library.hud.ac.uk/catlink/bib/232168",
+                "publisher": "Kogan Page",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0749416696"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0749416696"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Cellulose and its derivatives : chemistry, biochemistry and applications /",
+                "author": "Kennedy, John F. (John Frederick), 1942-",
+                "isbn": "0853127042",
+                "url": "http://library.hud.ac.uk/catlink/bib/25329",
+                "publisher": "Horwood",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0853127042"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0853127042"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Supramolecular chemistry /",
+                "author": "Gale, Philip A",
+                "isbn": "0198504470",
+                "url": "http://library.hud.ac.uk/catlink/bib/365260",
+                "publisher": "Oxford University Press",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0198504470"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0198504470"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Effective communication for science and technology /",
+                "author": "Van Emden, Joan.",
+                "isbn": "0333775465",
+                "url": "http://library.hud.ac.uk/catlink/bib/367541",
+                "publisher": "Palgrave",
+                "total": "3",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333775465"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333775465"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Pharmaceutics : the science of dosage form design /",
+                "author": "Aulton, Michael E.",
+                "isbn": "0443055173",
+                "url": "http://library.hud.ac.uk/catlink/bib/386498",
+                "publisher": "Churchill Livingstone",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0443055173"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0443055173"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "E-learning in the 21st century : a framework for research and practice /",
+                "author": "Anderson, Terry",
+                "isbn": "0415263468",
+                "url": "http://library.hud.ac.uk/catlink/bib/409861",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415263468"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415263468"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Integrated e-learning : implications for pedagogy, technology and organization /",
+                "author": "Jochems, Wim",
+                "isbn": "0415335027",
+                "url": "http://library.hud.ac.uk/catlink/bib/431418",
+                "publisher": "RoutledgeFalmer",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0415335027"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0415335027"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Conducting your pharmacy practice research project : a step-by-step guide /",
+                "author": "Smith, Felicity, 1958-",
+                "isbn": "0853696063",
+                "url": "http://library.hud.ac.uk/catlink/bib/489330",
+                "publisher": "Pharmaceutical Press",
+                "total": "2",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0853696063"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0853696063"
+                  },
+                "relatedcourse": [
+                    {
+                      "name": "FdSc Medicines Management & Pharmacy Services",
+                      "id": "fdscmedicinesmanagementpharmacyservices"
+                   }
+                  ]
+              }
+            ]
+       },
+       {
+        "name": "UG1",
+        "total": "1",
+          "book": [
+              {
+                "title": "Organic chemistry /",
+                "author": "McMurry, John.",
+                "isbn": "0534420052",
+                "url": "http://library.hud.ac.uk/catlink/bib/421298",
+                "publisher": "Brooks/Cole",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0534420052"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0534420052"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]

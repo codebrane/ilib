@@ -1,0 +1,20 @@
+{
+  "title": "Beginning XHTML /",
+  "author": "Boumphrey, Frank.",
+  "isbn": "1861003439",
+  "url": "http://library.hud.ac.uk/catlink/bib/354818",
+  "publisher": "Wrox Press",
+  "total": "1",
+ "googlebook": {
+   "url": "http://books.google.com/books?isbn=1861003439",
+   },
+ "amazon": {
+   "url": "http://www.amazon.co.uk/gp/product/1861003439"
+  },
+  "relatedcourse": [
+  {
+    "name": "BSc(Hons) Information and Communication Technology",
+    "id": "bschonsinformationandcommunicationtechnology"
+    }
+  ]
+}

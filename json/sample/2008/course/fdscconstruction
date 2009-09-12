@@ -1,0 +1,64 @@
+[
+  {
+    "name": "FdSc Construction",
+    "institution": "University of Huddersfield",
+    "year": "2008",
+    "total": "3",
+    "progression": [
+       {
+        "name": "UG1",
+        "total": "3",
+          "book": [
+              {
+                "title": "Construction contract law : the essentials /",
+                "author": "Adriaanse, John.",
+                "isbn": "0333980875",
+                "url": "http://library.hud.ac.uk/catlink/bib/422365",
+                "publisher": "Palgrave Macmillan",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0333980875"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0333980875"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Focus on construction contract formation /",
+                "author": "Aeberli, Peter.",
+                "isbn": "1859461107",
+                "url": "http://library.hud.ac.uk/catlink/bib/423630",
+                "publisher": "RIBA",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=1859461107"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/1859461107"
+                  },
+                "relatedcourse": [
+                  ]
+              },
+              {
+                "title": "Law and practice for architects /",
+                "author": "Greenstreet, Bob.",
+                "isbn": "0750657294",
+                "url": "http://library.hud.ac.uk/catlink/bib/452355",
+                "publisher": "Architectural",
+                "total": "1",
+                "googlebook": {
+                  "url": "http://books.google.com/books?isbn=0750657294"
+                  },
+                "amazon": {
+                  "url": "http://www.amazon.co.uk/gp/product/0750657294"
+                  },
+                "relatedcourse": [
+                  ]
+              }
+            ]
+       }
+    ]
+  }
+]
