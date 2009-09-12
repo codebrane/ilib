@@ -1,0 +1,30 @@
+Welcome to iLib, The Course Book Finder and Reading List Application
+====================================================================
+
+o Introduction
+o Requirements
+o Install
+o More info
+
+Introduction
+------------
+iLib lets you browse MOSAIC library lending data for courses and books
+and add books to reading lists which you can share with other iLib users.
+You can see it in action at:
+http://codebrane.com/ilib
+The opening page contains all the instructions you'll ever need, including
+a link to the iLib video.
+
+Requirements
+------------
+Ruby, Apache, Passenger, Rack, Sinatra
+
+Install
+-------
+Copy ilib to your server.
+Rename ilib to ilib-app
+ln -s ilib-app/public ilib
+
+More info
+---------
+http://codebrane.com/blog/?p=979
